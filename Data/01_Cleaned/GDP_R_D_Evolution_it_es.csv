@@ -1,0 +1,2630 @@
+Country,Region,year,index,value
+IT,Abruzzo,2015-01-01,Primary,985.7
+IT,Abruzzo,2016-01-01,Primary,1033.1
+IT,Abruzzo,2017-01-01,Primary,995.4000000000001
+IT,Abruzzo,2018-01-01,Primary,976.2
+IT,Abruzzo,2019-01-01,Primary,991.8000000000001
+IT,Abruzzo,2020-01-01,Primary,952.3
+IT,Abruzzo,2021-01-01,Primary,975.1999999999999
+IT,Abruzzo,2022-01-01,Primary,932.2
+IT,Abruzzo,2023-01-01,Primary,821.9
+IT,Basilicata,2015-01-01,Primary,978.0
+IT,Basilicata,2016-01-01,Primary,1147.7
+IT,Basilicata,2017-01-01,Primary,1159.7
+IT,Basilicata,2018-01-01,Primary,1265.1
+IT,Basilicata,2019-01-01,Primary,1159.2
+IT,Basilicata,2020-01-01,Primary,1099.7
+IT,Basilicata,2021-01-01,Primary,1426.3
+IT,Basilicata,2022-01-01,Primary,875.0999999999999
+IT,Basilicata,2023-01-01,Primary,901.3
+IT,Calabria,2015-01-01,Primary,1454.2
+IT,Calabria,2016-01-01,Primary,1362.5
+IT,Calabria,2017-01-01,Primary,1568.6
+IT,Calabria,2018-01-01,Primary,1314.1999999999998
+IT,Calabria,2019-01-01,Primary,1503.0
+IT,Calabria,2020-01-01,Primary,1409.5
+IT,Calabria,2021-01-01,Primary,1568.7
+IT,Calabria,2022-01-01,Primary,1447.1
+IT,Calabria,2023-01-01,Primary,1445.1
+IT,Campania,2015-01-01,Primary,2577.6
+IT,Campania,2016-01-01,Primary,2394.7
+IT,Campania,2017-01-01,Primary,2368.5
+IT,Campania,2018-01-01,Primary,2312.9
+IT,Campania,2019-01-01,Primary,2461.2999999999997
+IT,Campania,2020-01-01,Primary,2518.1
+IT,Campania,2021-01-01,Primary,2547.9
+IT,Campania,2022-01-01,Primary,2727.3999999999996
+IT,Campania,2023-01-01,Primary,2634.7000000000003
+IT,Emilia-Romagna,2015-01-01,Primary,3620.2
+IT,Emilia-Romagna,2016-01-01,Primary,3834.0
+IT,Emilia-Romagna,2017-01-01,Primary,3577.1
+IT,Emilia-Romagna,2018-01-01,Primary,3595.4
+IT,Emilia-Romagna,2019-01-01,Primary,3311.0
+IT,Emilia-Romagna,2020-01-01,Primary,3314.8
+IT,Emilia-Romagna,2021-01-01,Primary,3157.5
+IT,Emilia-Romagna,2022-01-01,Primary,3407.9
+IT,Emilia-Romagna,2023-01-01,Primary,2818.1
+IT,Friuli-Venezia Giulia,2015-01-01,Primary,689.6
+IT,Friuli-Venezia Giulia,2016-01-01,Primary,694.5
+IT,Friuli-Venezia Giulia,2017-01-01,Primary,659.7
+IT,Friuli-Venezia Giulia,2018-01-01,Primary,657.6
+IT,Friuli-Venezia Giulia,2019-01-01,Primary,637.2
+IT,Friuli-Venezia Giulia,2020-01-01,Primary,522.5
+IT,Friuli-Venezia Giulia,2021-01-01,Primary,540.8
+IT,Friuli-Venezia Giulia,2022-01-01,Primary,643.0
+IT,Friuli-Venezia Giulia,2023-01-01,Primary,499.79999999999995
+IT,Lazio,2015-01-01,Primary,2058.6
+IT,Lazio,2016-01-01,Primary,2117.3
+IT,Lazio,2017-01-01,Primary,2092.1
+IT,Lazio,2018-01-01,Primary,2251.5
+IT,Lazio,2019-01-01,Primary,2270.9
+IT,Lazio,2020-01-01,Primary,2235.0
+IT,Lazio,2021-01-01,Primary,2432.2
+IT,Lazio,2022-01-01,Primary,2165.3
+IT,Lazio,2023-01-01,Primary,2035.0
+IT,Liguria,2015-01-01,Primary,563.0
+IT,Liguria,2016-01-01,Primary,527.9
+IT,Liguria,2017-01-01,Primary,516.4
+IT,Liguria,2018-01-01,Primary,520.1999999999999
+IT,Liguria,2019-01-01,Primary,521.3000000000001
+IT,Liguria,2020-01-01,Primary,452.5
+IT,Liguria,2021-01-01,Primary,463.2
+IT,Liguria,2022-01-01,Primary,461.6
+IT,Liguria,2023-01-01,Primary,471.2
+IT,Lombardia,2015-01-01,Primary,4141.9
+IT,Lombardia,2016-01-01,Primary,4364.4
+IT,Lombardia,2017-01-01,Primary,4275.5
+IT,Lombardia,2018-01-01,Primary,4253.1
+IT,Lombardia,2019-01-01,Primary,4080.5
+IT,Lombardia,2020-01-01,Primary,3965.6000000000004
+IT,Lombardia,2021-01-01,Primary,4478.0
+IT,Lombardia,2022-01-01,Primary,3645.6000000000004
+IT,Lombardia,2023-01-01,Primary,3790.0
+IT,Marche,2015-01-01,Primary,890.3
+IT,Marche,2016-01-01,Primary,899.3
+IT,Marche,2017-01-01,Primary,808.3
+IT,Marche,2018-01-01,Primary,778.4
+IT,Marche,2019-01-01,Primary,734.3
+IT,Marche,2020-01-01,Primary,617.8
+IT,Marche,2021-01-01,Primary,632.8000000000001
+IT,Marche,2022-01-01,Primary,603.3
+IT,Marche,2023-01-01,Primary,428.0
+IT,Molise,2015-01-01,Primary,316.6
+IT,Molise,2016-01-01,Primary,314.2
+IT,Molise,2017-01-01,Primary,304.3
+IT,Molise,2018-01-01,Primary,313.2
+IT,Molise,2019-01-01,Primary,310.3
+IT,Molise,2020-01-01,Primary,309.9
+IT,Molise,2021-01-01,Primary,354.7
+IT,Molise,2022-01-01,Primary,305.2
+IT,Molise,2023-01-01,Primary,318.2
+IT,Piemonte,2015-01-01,Primary,2045.3000000000002
+IT,Piemonte,2016-01-01,Primary,2145.4
+IT,Piemonte,2017-01-01,Primary,2006.6
+IT,Piemonte,2018-01-01,Primary,2036.5
+IT,Piemonte,2019-01-01,Primary,2002.9
+IT,Piemonte,2020-01-01,Primary,1889.7
+IT,Piemonte,2021-01-01,Primary,1763.2
+IT,Piemonte,2022-01-01,Primary,1623.6000000000001
+IT,Piemonte,2023-01-01,Primary,1649.8
+IT,Puglia,2015-01-01,Primary,2730.7999999999997
+IT,Puglia,2016-01-01,Primary,2626.4
+IT,Puglia,2017-01-01,Primary,2586.7000000000003
+IT,Puglia,2018-01-01,Primary,2538.7999999999997
+IT,Puglia,2019-01-01,Primary,2594.2999999999997
+IT,Puglia,2020-01-01,Primary,2579.4
+IT,Puglia,2021-01-01,Primary,2696.3
+IT,Puglia,2022-01-01,Primary,2698.9
+IT,Puglia,2023-01-01,Primary,2540.1000000000004
+IT,Sardegna,2015-01-01,Primary,1418.4
+IT,Sardegna,2016-01-01,Primary,1445.6
+IT,Sardegna,2017-01-01,Primary,1399.5
+IT,Sardegna,2018-01-01,Primary,1397.3999999999999
+IT,Sardegna,2019-01-01,Primary,1326.8999999999999
+IT,Sardegna,2020-01-01,Primary,1206.1
+IT,Sardegna,2021-01-01,Primary,1211.9
+IT,Sardegna,2022-01-01,Primary,1218.7
+IT,Sardegna,2023-01-01,Primary,1228.7
+IT,Sicilia,2015-01-01,Primary,3770.6
+IT,Sicilia,2016-01-01,Primary,3792.6000000000004
+IT,Sicilia,2017-01-01,Primary,3740.7
+IT,Sicilia,2018-01-01,Primary,3703.9
+IT,Sicilia,2019-01-01,Primary,3774.2999999999997
+IT,Sicilia,2020-01-01,Primary,3610.7
+IT,Sicilia,2021-01-01,Primary,3813.6000000000004
+IT,Sicilia,2022-01-01,Primary,3716.2
+IT,Sicilia,2023-01-01,Primary,3608.7999999999997
+IT,Toscana,2015-01-01,Primary,2521.6000000000004
+IT,Toscana,2016-01-01,Primary,2608.7999999999997
+IT,Toscana,2017-01-01,Primary,2397.2
+IT,Toscana,2018-01-01,Primary,2572.5
+IT,Toscana,2019-01-01,Primary,2485.2999999999997
+IT,Toscana,2020-01-01,Primary,2270.0
+IT,Toscana,2021-01-01,Primary,2142.4
+IT,Toscana,2022-01-01,Primary,2190.4
+IT,Toscana,2023-01-01,Primary,2096.7000000000003
+IT,Trentino-Alto Adige/Südtirol,2015-01-01,Primary,1920.3999999999999
+IT,Trentino-Alto Adige/Südtirol,2016-01-01,Primary,1944.5
+IT,Trentino-Alto Adige/Südtirol,2017-01-01,Primary,1768.3
+IT,Trentino-Alto Adige/Südtirol,2018-01-01,Primary,1985.3
+IT,Trentino-Alto Adige/Südtirol,2019-01-01,Primary,1922.3000000000002
+IT,Trentino-Alto Adige/Südtirol,2020-01-01,Primary,1688.1
+IT,Trentino-Alto Adige/Südtirol,2021-01-01,Primary,1705.8000000000002
+IT,Trentino-Alto Adige/Südtirol,2022-01-01,Primary,1760.1
+IT,Trentino-Alto Adige/Südtirol,2023-01-01,Primary,1805.7
+IT,Umbria,2015-01-01,Primary,618.6
+IT,Umbria,2016-01-01,Primary,547.1999999999999
+IT,Umbria,2017-01-01,Primary,542.4
+IT,Umbria,2018-01-01,Primary,574.1999999999999
+IT,Umbria,2019-01-01,Primary,605.4000000000001
+IT,Umbria,2020-01-01,Primary,569.0
+IT,Umbria,2021-01-01,Primary,529.0
+IT,Umbria,2022-01-01,Primary,522.5
+IT,Umbria,2023-01-01,Primary,465.3
+IT,Valle d'Aosta/Vallée d'Aoste,2015-01-01,Primary,51.800000000000004
+IT,Valle d'Aosta/Vallée d'Aoste,2016-01-01,Primary,54.4
+IT,Valle d'Aosta/Vallée d'Aoste,2017-01-01,Primary,50.9
+IT,Valle d'Aosta/Vallée d'Aoste,2018-01-01,Primary,54.5
+IT,Valle d'Aosta/Vallée d'Aoste,2019-01-01,Primary,59.0
+IT,Valle d'Aosta/Vallée d'Aoste,2020-01-01,Primary,48.8
+IT,Valle d'Aosta/Vallée d'Aoste,2021-01-01,Primary,50.400000000000006
+IT,Valle d'Aosta/Vallée d'Aoste,2022-01-01,Primary,50.0
+IT,Valle d'Aosta/Vallée d'Aoste,2023-01-01,Primary,54.699999999999996
+IT,Veneto,2015-01-01,Primary,3284.1000000000004
+IT,Veneto,2016-01-01,Primary,3394.7
+IT,Veneto,2017-01-01,Primary,3003.5
+IT,Veneto,2018-01-01,Primary,3629.6
+IT,Veneto,2019-01-01,Primary,3154.4
+IT,Veneto,2020-01-01,Primary,3318.2999999999997
+IT,Veneto,2021-01-01,Primary,3108.6
+IT,Veneto,2022-01-01,Primary,3315.2000000000003
+IT,Veneto,2023-01-01,Primary,3108.4
+ES,Andalucía,2015-01-01,Primary,15088.903
+ES,Andalucía,2016-01-01,Primary,15376.812000000002
+ES,Andalucía,2017-01-01,Primary,16905.237
+ES,Andalucía,2018-01-01,Primary,16744.881
+ES,Andalucía,2019-01-01,Primary,15865.923
+ES,Andalucía,2020-01-01,Primary,15792.273000000001
+ES,Andalucía,2021-01-01,Primary,18260.347
+ES,Andalucía,2022-01-01,Primary,20644.472999999998
+ES,Andalucía,2023-01-01,Primary,20376.855000000003
+ES,Andalucía,2024-01-01,Primary,21647.816
+ES,Aragón,2015-01-01,Primary,3294.214
+ES,Aragón,2016-01-01,Primary,3739.7169999999996
+ES,Aragón,2017-01-01,Primary,3860.928000000001
+ES,Aragón,2018-01-01,Primary,3722.593
+ES,Aragón,2019-01-01,Primary,4050.2739999999994
+ES,Aragón,2020-01-01,Primary,4092.0999999999995
+ES,Aragón,2021-01-01,Primary,4325.036
+ES,Aragón,2022-01-01,Primary,6046.833
+ES,Aragón,2023-01-01,Primary,5606.155000000001
+ES,Aragón,2024-01-01,Primary,5848.326999999999
+ES,Canarias,2015-01-01,Primary,1747.5099999999998
+ES,Canarias,2016-01-01,Primary,1679.0499999999997
+ES,Canarias,2017-01-01,Primary,1823.3700000000001
+ES,Canarias,2018-01-01,Primary,1875.4139999999998
+ES,Canarias,2019-01-01,Primary,1965.812
+ES,Canarias,2020-01-01,Primary,1920.4230000000002
+ES,Canarias,2021-01-01,Primary,2072.485
+ES,Canarias,2022-01-01,Primary,2938.7870000000003
+ES,Canarias,2023-01-01,Primary,2619.6270000000004
+ES,Canarias,2024-01-01,Primary,2676.0339999999997
+ES,Cantabria,2015-01-01,Primary,598.4039999999998
+ES,Cantabria,2016-01-01,Primary,661.987
+ES,Cantabria,2017-01-01,Primary,685.113
+ES,Cantabria,2018-01-01,Primary,724.7900000000002
+ES,Cantabria,2019-01-01,Primary,699.8639999999998
+ES,Cantabria,2020-01-01,Primary,691.3990000000001
+ES,Cantabria,2021-01-01,Primary,810.8000000000001
+ES,Cantabria,2022-01-01,Primary,944.6229999999999
+ES,Cantabria,2023-01-01,Primary,844.5350000000001
+ES,Cantabria,2024-01-01,Primary,856.2589999999999
+ES,Castilla y León,2015-01-01,Primary,5022.241999999999
+ES,Castilla y León,2016-01-01,Primary,5259.8319999999985
+ES,Castilla y León,2017-01-01,Primary,4367.218
+ES,Castilla y León,2018-01-01,Primary,5482.0459999999985
+ES,Castilla y León,2019-01-01,Primary,5291.906000000001
+ES,Castilla y León,2020-01-01,Primary,5387.060000000001
+ES,Castilla y León,2021-01-01,Primary,6373.793999999999
+ES,Castilla y León,2022-01-01,Primary,8182.75
+ES,Castilla y León,2023-01-01,Primary,6839.297
+ES,Castilla y León,2024-01-01,Primary,7136.227
+ES,Castilla-La Mancha,2015-01-01,Primary,5541.712
+ES,Castilla-La Mancha,2016-01-01,Primary,5997.396000000001
+ES,Castilla-La Mancha,2017-01-01,Primary,6185.296
+ES,Castilla-La Mancha,2018-01-01,Primary,6614.418
+ES,Castilla-La Mancha,2019-01-01,Primary,6258.293
+ES,Castilla-La Mancha,2020-01-01,Primary,6231.271999999999
+ES,Castilla-La Mancha,2021-01-01,Primary,6825.046000000001
+ES,Castilla-La Mancha,2022-01-01,Primary,8567.623
+ES,Castilla-La Mancha,2023-01-01,Primary,7532.684000000001
+ES,Castilla-La Mancha,2024-01-01,Primary,7989.643999999999
+ES,Cataluña/Catalunya,2015-01-01,Primary,7623.521999999998
+ES,Cataluña/Catalunya,2016-01-01,Primary,7684.916999999997
+ES,Cataluña/Catalunya,2017-01-01,Primary,7791.590000000001
+ES,Cataluña/Catalunya,2018-01-01,Primary,8067.244
+ES,Cataluña/Catalunya,2019-01-01,Primary,8504.843999999996
+ES,Cataluña/Catalunya,2020-01-01,Primary,8289.278999999997
+ES,Cataluña/Catalunya,2021-01-01,Primary,8707.071000000004
+ES,Cataluña/Catalunya,2022-01-01,Primary,11114.644000000004
+ES,Cataluña/Catalunya,2023-01-01,Primary,11238.550000000001
+ES,Cataluña/Catalunya,2024-01-01,Primary,11437.298999999997
+ES,Ciudad Autónoma de Ceuta,2015-01-01,Primary,44.126000000000005
+ES,Ciudad Autónoma de Ceuta,2016-01-01,Primary,40.811
+ES,Ciudad Autónoma de Ceuta,2017-01-01,Primary,39.312000000000005
+ES,Ciudad Autónoma de Ceuta,2018-01-01,Primary,41.512
+ES,Ciudad Autónoma de Ceuta,2019-01-01,Primary,40.708999999999996
+ES,Ciudad Autónoma de Ceuta,2020-01-01,Primary,42.129000000000005
+ES,Ciudad Autónoma de Ceuta,2021-01-01,Primary,48.520999999999994
+ES,Ciudad Autónoma de Ceuta,2022-01-01,Primary,74.679
+ES,Ciudad Autónoma de Ceuta,2023-01-01,Primary,66.322
+ES,Ciudad Autónoma de Ceuta,2024-01-01,Primary,66.03
+ES,Ciudad Autónoma de Melilla,2015-01-01,Primary,24.640000000000004
+ES,Ciudad Autónoma de Melilla,2016-01-01,Primary,24.403
+ES,Ciudad Autónoma de Melilla,2017-01-01,Primary,23.183999999999997
+ES,Ciudad Autónoma de Melilla,2018-01-01,Primary,24.174000000000003
+ES,Ciudad Autónoma de Melilla,2019-01-01,Primary,22.524
+ES,Ciudad Autónoma de Melilla,2020-01-01,Primary,21.090000000000003
+ES,Ciudad Autónoma de Melilla,2021-01-01,Primary,24.953
+ES,Ciudad Autónoma de Melilla,2022-01-01,Primary,52.013
+ES,Ciudad Autónoma de Melilla,2023-01-01,Primary,42.339999999999996
+ES,Ciudad Autónoma de Melilla,2024-01-01,Primary,41.760000000000005
+ES,Comunidad Foral de Navarra,2015-01-01,Primary,1377.5699999999997
+ES,Comunidad Foral de Navarra,2016-01-01,Primary,1432.4029999999998
+ES,Comunidad Foral de Navarra,2017-01-01,Primary,1550.7249999999997
+ES,Comunidad Foral de Navarra,2018-01-01,Primary,1498.163
+ES,Comunidad Foral de Navarra,2019-01-01,Primary,1588.4479999999996
+ES,Comunidad Foral de Navarra,2020-01-01,Primary,1504.393
+ES,Comunidad Foral de Navarra,2021-01-01,Primary,1607.7299999999998
+ES,Comunidad Foral de Navarra,2022-01-01,Primary,2277.878
+ES,Comunidad Foral de Navarra,2023-01-01,Primary,1812.4219999999996
+ES,Comunidad Foral de Navarra,2024-01-01,Primary,1843.6289999999995
+ES,Comunidad de Madrid,2015-01-01,Primary,4524.907999999999
+ES,Comunidad de Madrid,2016-01-01,Primary,4733.903
+ES,Comunidad de Madrid,2017-01-01,Primary,5148.460000000001
+ES,Comunidad de Madrid,2018-01-01,Primary,5791.414000000002
+ES,Comunidad de Madrid,2019-01-01,Primary,6069.939000000002
+ES,Comunidad de Madrid,2020-01-01,Primary,5981.426
+ES,Comunidad de Madrid,2021-01-01,Primary,6595.643999999999
+ES,Comunidad de Madrid,2022-01-01,Primary,8823.728000000001
+ES,Comunidad de Madrid,2023-01-01,Primary,8143.629999999999
+ES,Comunidad de Madrid,2024-01-01,Primary,7816.820000000001
+ES,Comunitat Valenciana,2015-01-01,Primary,5400.1269999999995
+ES,Comunitat Valenciana,2016-01-01,Primary,5413.830999999998
+ES,Comunitat Valenciana,2017-01-01,Primary,5401.141000000002
+ES,Comunitat Valenciana,2018-01-01,Primary,5533.790000000001
+ES,Comunitat Valenciana,2019-01-01,Primary,5566.6669999999995
+ES,Comunitat Valenciana,2020-01-01,Primary,5622.0869999999995
+ES,Comunitat Valenciana,2021-01-01,Primary,5936.414000000001
+ES,Comunitat Valenciana,2022-01-01,Primary,6502.776000000002
+ES,Comunitat Valenciana,2023-01-01,Primary,7089.811
+ES,Comunitat Valenciana,2024-01-01,Primary,7362.203999999998
+ES,Extremadura,2015-01-01,Primary,3282.516
+ES,Extremadura,2016-01-01,Primary,3384.7709999999997
+ES,Extremadura,2017-01-01,Primary,3806.003
+ES,Extremadura,2018-01-01,Primary,3907.2380000000003
+ES,Extremadura,2019-01-01,Primary,3695.339
+ES,Extremadura,2020-01-01,Primary,3242.0150000000003
+ES,Extremadura,2021-01-01,Primary,4156.353
+ES,Extremadura,2022-01-01,Primary,4421.442
+ES,Extremadura,2023-01-01,Primary,4444.09
+ES,Extremadura,2024-01-01,Primary,4749.813
+ES,Galicia,2015-01-01,Primary,5377.915
+ES,Galicia,2016-01-01,Primary,5302.851999999999
+ES,Galicia,2017-01-01,Primary,5291.555
+ES,Galicia,2018-01-01,Primary,5336.009999999999
+ES,Galicia,2019-01-01,Primary,5409.102000000001
+ES,Galicia,2020-01-01,Primary,4883.428000000001
+ES,Galicia,2021-01-01,Primary,5521.436000000001
+ES,Galicia,2022-01-01,Primary,6776.967999999999
+ES,Galicia,2023-01-01,Primary,7035.843
+ES,Galicia,2024-01-01,Primary,7342.9039999999995
+ES,Illes Balears,2015-01-01,Primary,903.5360000000001
+ES,Illes Balears,2016-01-01,Primary,950.3729999999998
+ES,Illes Balears,2017-01-01,Primary,970.5840000000001
+ES,Illes Balears,2018-01-01,Primary,945.766
+ES,Illes Balears,2019-01-01,Primary,972.1450000000001
+ES,Illes Balears,2020-01-01,Primary,938.51
+ES,Illes Balears,2021-01-01,Primary,1027.81
+ES,Illes Balears,2022-01-01,Primary,1659.472
+ES,Illes Balears,2023-01-01,Primary,1315.7780000000002
+ES,Illes Balears,2024-01-01,Primary,1294.955
+ES,La Rioja,2015-01-01,Primary,786.4590000000001
+ES,La Rioja,2016-01-01,Primary,636.3949999999998
+ES,La Rioja,2017-01-01,Primary,752.4319999999998
+ES,La Rioja,2018-01-01,Primary,869.705
+ES,La Rioja,2019-01-01,Primary,832.4609999999998
+ES,La Rioja,2020-01-01,Primary,808.0649999999999
+ES,La Rioja,2021-01-01,Primary,858.0839999999997
+ES,La Rioja,2022-01-01,Primary,1201.281
+ES,La Rioja,2023-01-01,Primary,954.8130000000001
+ES,La Rioja,2024-01-01,Primary,973.2989999999996
+ES,País Vasco/Euskadi,2015-01-01,Primary,2314.422000000001
+ES,País Vasco/Euskadi,2016-01-01,Primary,2210.4490000000005
+ES,País Vasco/Euskadi,2017-01-01,Primary,2132.924999999999
+ES,País Vasco/Euskadi,2018-01-01,Primary,2219.5460000000003
+ES,País Vasco/Euskadi,2019-01-01,Primary,2364.3989999999994
+ES,País Vasco/Euskadi,2020-01-01,Primary,2301.5499999999993
+ES,País Vasco/Euskadi,2021-01-01,Primary,2322.8370000000014
+ES,País Vasco/Euskadi,2022-01-01,Primary,2987.433000000002
+ES,País Vasco/Euskadi,2023-01-01,Primary,2814.821
+ES,País Vasco/Euskadi,2024-01-01,Primary,2874.347
+ES,Principado de Asturias,2015-01-01,Primary,1340.652
+ES,Principado de Asturias,2016-01-01,Primary,1317.875
+ES,Principado de Asturias,2017-01-01,Primary,1290.7349999999997
+ES,Principado de Asturias,2018-01-01,Primary,1378.962
+ES,Principado de Asturias,2019-01-01,Primary,1440.5879999999997
+ES,Principado de Asturias,2020-01-01,Primary,1357.154
+ES,Principado de Asturias,2021-01-01,Primary,1523.9009999999996
+ES,Principado de Asturias,2022-01-01,Primary,2684.465
+ES,Principado de Asturias,2023-01-01,Primary,2183.2349999999997
+ES,Principado de Asturias,2024-01-01,Primary,2063.386
+ES,Región de Murcia,2015-01-01,Primary,3241.6220000000003
+ES,Región de Murcia,2016-01-01,Primary,3303.223
+ES,Región de Murcia,2017-01-01,Primary,3389.192
+ES,Región de Murcia,2018-01-01,Primary,3323.334
+ES,Región de Murcia,2019-01-01,Primary,3536.763
+ES,Región de Murcia,2020-01-01,Primary,3274.347
+ES,Región de Murcia,2021-01-01,Primary,3598.7379999999994
+ES,Región de Murcia,2022-01-01,Primary,3912.1319999999996
+ES,Región de Murcia,2023-01-01,Primary,4151.192
+ES,Región de Murcia,2024-01-01,Primary,4289.246999999999
+IT,Abruzzo,2015-01-01,Secundary,7390.7
+IT,Abruzzo,2016-01-01,Secundary,7535.0
+IT,Abruzzo,2017-01-01,Secundary,7620.1
+IT,Abruzzo,2018-01-01,Secundary,7490.1
+IT,Abruzzo,2019-01-01,Secundary,7775.1
+IT,Abruzzo,2020-01-01,Secundary,6831.099999999999
+IT,Abruzzo,2021-01-01,Secundary,7677.9
+IT,Abruzzo,2022-01-01,Secundary,8367.1
+IT,Abruzzo,2023-01-01,Secundary,8988.3
+IT,Basilicata,2015-01-01,Secundary,2645.3
+IT,Basilicata,2016-01-01,Secundary,2707.9
+IT,Basilicata,2017-01-01,Secundary,2601.5
+IT,Basilicata,2018-01-01,Secundary,2718.4
+IT,Basilicata,2019-01-01,Secundary,2605.9
+IT,Basilicata,2020-01-01,Secundary,2093.9
+IT,Basilicata,2021-01-01,Secundary,2448.8999999999996
+IT,Basilicata,2022-01-01,Secundary,2893.7
+IT,Basilicata,2023-01-01,Secundary,3024.9
+IT,Calabria,2015-01-01,Secundary,3599.6000000000004
+IT,Calabria,2016-01-01,Secundary,3489.0
+IT,Calabria,2017-01-01,Secundary,3446.5
+IT,Calabria,2018-01-01,Secundary,3446.8999999999996
+IT,Calabria,2019-01-01,Secundary,3366.3
+IT,Calabria,2020-01-01,Secundary,3038.4
+IT,Calabria,2021-01-01,Secundary,3711.0
+IT,Calabria,2022-01-01,Secundary,3920.6000000000004
+IT,Calabria,2023-01-01,Secundary,4201.8
+IT,Campania,2015-01-01,Secundary,16982.9
+IT,Campania,2016-01-01,Secundary,17567.0
+IT,Campania,2017-01-01,Secundary,17878.800000000003
+IT,Campania,2018-01-01,Secundary,18190.0
+IT,Campania,2019-01-01,Secundary,18520.3
+IT,Campania,2020-01-01,Secundary,16620.9
+IT,Campania,2021-01-01,Secundary,19053.0
+IT,Campania,2022-01-01,Secundary,20045.0
+IT,Campania,2023-01-01,Secundary,21994.4
+IT,Emilia-Romagna,2015-01-01,Secundary,41994.9
+IT,Emilia-Romagna,2016-01-01,Secundary,43444.4
+IT,Emilia-Romagna,2017-01-01,Secundary,45370.5
+IT,Emilia-Romagna,2018-01-01,Secundary,46768.100000000006
+IT,Emilia-Romagna,2019-01-01,Secundary,46895.0
+IT,Emilia-Romagna,2020-01-01,Secundary,42139.299999999996
+IT,Emilia-Romagna,2021-01-01,Secundary,50087.8
+IT,Emilia-Romagna,2022-01-01,Secundary,51121.4
+IT,Emilia-Romagna,2023-01-01,Secundary,51883.5
+IT,Friuli-Venezia Giulia,2015-01-01,Secundary,9061.8
+IT,Friuli-Venezia Giulia,2016-01-01,Secundary,9211.8
+IT,Friuli-Venezia Giulia,2017-01-01,Secundary,9439.199999999999
+IT,Friuli-Venezia Giulia,2018-01-01,Secundary,9977.6
+IT,Friuli-Venezia Giulia,2019-01-01,Secundary,10214.3
+IT,Friuli-Venezia Giulia,2020-01-01,Secundary,9045.9
+IT,Friuli-Venezia Giulia,2021-01-01,Secundary,10509.6
+IT,Friuli-Venezia Giulia,2022-01-01,Secundary,10620.8
+IT,Friuli-Venezia Giulia,2023-01-01,Secundary,10331.7
+IT,Lazio,2015-01-01,Secundary,25999.9
+IT,Lazio,2016-01-01,Secundary,27604.199999999997
+IT,Lazio,2017-01-01,Secundary,27520.6
+IT,Lazio,2018-01-01,Secundary,27326.300000000003
+IT,Lazio,2019-01-01,Secundary,28070.6
+IT,Lazio,2020-01-01,Secundary,25441.5
+IT,Lazio,2021-01-01,Secundary,26245.3
+IT,Lazio,2022-01-01,Secundary,29804.9
+IT,Lazio,2023-01-01,Secundary,28440.8
+IT,Liguria,2015-01-01,Secundary,8477.400000000001
+IT,Liguria,2016-01-01,Secundary,8426.6
+IT,Liguria,2017-01-01,Secundary,8828.0
+IT,Liguria,2018-01-01,Secundary,8693.7
+IT,Liguria,2019-01-01,Secundary,9322.0
+IT,Liguria,2020-01-01,Secundary,8653.5
+IT,Liguria,2021-01-01,Secundary,9866.5
+IT,Liguria,2022-01-01,Secundary,9030.5
+IT,Liguria,2023-01-01,Secundary,9624.2
+IT,Lombardia,2015-01-01,Secundary,92697.0
+IT,Lombardia,2016-01-01,Secundary,93837.4
+IT,Lombardia,2017-01-01,Secundary,96392.7
+IT,Lombardia,2018-01-01,Secundary,97287.3
+IT,Lombardia,2019-01-01,Secundary,96982.5
+IT,Lombardia,2020-01-01,Secundary,86776.3
+IT,Lombardia,2021-01-01,Secundary,100602.4
+IT,Lombardia,2022-01-01,Secundary,102176.09999999999
+IT,Lombardia,2023-01-01,Secundary,103496.0
+IT,Marche,2015-01-01,Secundary,10743.3
+IT,Marche,2016-01-01,Secundary,10837.599999999999
+IT,Marche,2017-01-01,Secundary,11272.199999999999
+IT,Marche,2018-01-01,Secundary,11314.1
+IT,Marche,2019-01-01,Secundary,11615.6
+IT,Marche,2020-01-01,Secundary,10321.0
+IT,Marche,2021-01-01,Secundary,11799.2
+IT,Marche,2022-01-01,Secundary,12549.2
+IT,Marche,2023-01-01,Secundary,12749.2
+IT,Molise,2015-01-01,Secundary,1016.8
+IT,Molise,2016-01-01,Secundary,1131.9
+IT,Molise,2017-01-01,Secundary,1184.2
+IT,Molise,2018-01-01,Secundary,1263.3000000000002
+IT,Molise,2019-01-01,Secundary,1333.1
+IT,Molise,2020-01-01,Secundary,1040.4
+IT,Molise,2021-01-01,Secundary,1240.0
+IT,Molise,2022-01-01,Secundary,1262.9
+IT,Molise,2023-01-01,Secundary,1418.9
+IT,Piemonte,2015-01-01,Secundary,33471.2
+IT,Piemonte,2016-01-01,Secundary,34401.6
+IT,Piemonte,2017-01-01,Secundary,35957.8
+IT,Piemonte,2018-01-01,Secundary,36414.6
+IT,Piemonte,2019-01-01,Secundary,35817.2
+IT,Piemonte,2020-01-01,Secundary,31274.8
+IT,Piemonte,2021-01-01,Secundary,36487.8
+IT,Piemonte,2022-01-01,Secundary,37050.2
+IT,Piemonte,2023-01-01,Secundary,38691.1
+IT,Puglia,2015-01-01,Secundary,11355.0
+IT,Puglia,2016-01-01,Secundary,11858.2
+IT,Puglia,2017-01-01,Secundary,11793.0
+IT,Puglia,2018-01-01,Secundary,12129.0
+IT,Puglia,2019-01-01,Secundary,11825.7
+IT,Puglia,2020-01-01,Secundary,10658.8
+IT,Puglia,2021-01-01,Secundary,12743.1
+IT,Puglia,2022-01-01,Secundary,14261.7
+IT,Puglia,2023-01-01,Secundary,14317.8
+IT,Sardegna,2015-01-01,Secundary,5414.2
+IT,Sardegna,2016-01-01,Secundary,4545.200000000001
+IT,Sardegna,2017-01-01,Secundary,4500.9
+IT,Sardegna,2018-01-01,Secundary,4326.7
+IT,Sardegna,2019-01-01,Secundary,4446.0
+IT,Sardegna,2020-01-01,Secundary,3456.7
+IT,Sardegna,2021-01-01,Secundary,4206.6
+IT,Sardegna,2022-01-01,Secundary,4775.6
+IT,Sardegna,2023-01-01,Secundary,5625.4
+IT,Sicilia,2015-01-01,Secundary,12105.8
+IT,Sicilia,2016-01-01,Secundary,11610.2
+IT,Sicilia,2017-01-01,Secundary,11361.1
+IT,Sicilia,2018-01-01,Secundary,11020.7
+IT,Sicilia,2019-01-01,Secundary,10858.7
+IT,Sicilia,2020-01-01,Secundary,8825.5
+IT,Sicilia,2021-01-01,Secundary,10957.8
+IT,Sicilia,2022-01-01,Secundary,13765.6
+IT,Sicilia,2023-01-01,Secundary,13132.3
+IT,Toscana,2015-01-01,Secundary,25321.8
+IT,Toscana,2016-01-01,Secundary,25212.3
+IT,Toscana,2017-01-01,Secundary,26675.5
+IT,Toscana,2018-01-01,Secundary,27020.2
+IT,Toscana,2019-01-01,Secundary,27480.8
+IT,Toscana,2020-01-01,Secundary,23663.699999999997
+IT,Toscana,2021-01-01,Secundary,27732.1
+IT,Toscana,2022-01-01,Secundary,29689.5
+IT,Toscana,2023-01-01,Secundary,29593.5
+IT,Trentino-Alto Adige/Südtirol,2015-01-01,Secundary,8572.0
+IT,Trentino-Alto Adige/Südtirol,2016-01-01,Secundary,8580.0
+IT,Trentino-Alto Adige/Südtirol,2017-01-01,Secundary,9035.1
+IT,Trentino-Alto Adige/Südtirol,2018-01-01,Secundary,9360.8
+IT,Trentino-Alto Adige/Südtirol,2019-01-01,Secundary,9608.7
+IT,Trentino-Alto Adige/Südtirol,2020-01-01,Secundary,8764.5
+IT,Trentino-Alto Adige/Südtirol,2021-01-01,Secundary,9831.400000000001
+IT,Trentino-Alto Adige/Südtirol,2022-01-01,Secundary,9746.5
+IT,Trentino-Alto Adige/Südtirol,2023-01-01,Secundary,9842.6
+IT,Umbria,2015-01-01,Secundary,4768.5
+IT,Umbria,2016-01-01,Secundary,4709.3
+IT,Umbria,2017-01-01,Secundary,4926.9
+IT,Umbria,2018-01-01,Secundary,5106.8
+IT,Umbria,2019-01-01,Secundary,5158.4
+IT,Umbria,2020-01-01,Secundary,4473.9
+IT,Umbria,2021-01-01,Secundary,5267.2
+IT,Umbria,2022-01-01,Secundary,5258.700000000001
+IT,Umbria,2023-01-01,Secundary,5784.4
+IT,Valle d'Aosta/Vallée d'Aoste,2015-01-01,Secundary,845.1
+IT,Valle d'Aosta/Vallée d'Aoste,2016-01-01,Secundary,725.7
+IT,Valle d'Aosta/Vallée d'Aoste,2017-01-01,Secundary,817.0
+IT,Valle d'Aosta/Vallée d'Aoste,2018-01-01,Secundary,842.6
+IT,Valle d'Aosta/Vallée d'Aoste,2019-01-01,Secundary,836.0999999999999
+IT,Valle d'Aosta/Vallée d'Aoste,2020-01-01,Secundary,738.0999999999999
+IT,Valle d'Aosta/Vallée d'Aoste,2021-01-01,Secundary,911.4
+IT,Valle d'Aosta/Vallée d'Aoste,2022-01-01,Secundary,881.4
+IT,Valle d'Aosta/Vallée d'Aoste,2023-01-01,Secundary,854.4000000000001
+IT,Veneto,2015-01-01,Secundary,43753.799999999996
+IT,Veneto,2016-01-01,Secundary,44742.0
+IT,Veneto,2017-01-01,Secundary,46671.6
+IT,Veneto,2018-01-01,Secundary,47515.9
+IT,Veneto,2019-01-01,Secundary,48665.6
+IT,Veneto,2020-01-01,Secundary,43468.3
+IT,Veneto,2021-01-01,Secundary,50266.3
+IT,Veneto,2022-01-01,Secundary,51181.7
+IT,Veneto,2023-01-01,Secundary,52026.8
+ES,Andalucía,2015-01-01,Secundary,18715.218
+ES,Andalucía,2016-01-01,Secundary,19305.964
+ES,Andalucía,2017-01-01,Secundary,20481.135000000002
+ES,Andalucía,2018-01-01,Secundary,20901.143
+ES,Andalucía,2019-01-01,Secundary,22046.345999999998
+ES,Andalucía,2020-01-01,Secundary,18934.994
+ES,Andalucía,2021-01-01,Secundary,21005.919
+ES,Andalucía,2022-01-01,Secundary,23420.311999999998
+ES,Andalucía,2023-01-01,Secundary,24915.010000000002
+ES,Andalucía,2024-01-01,Secundary,26799.046000000002
+ES,Aragón,2015-01-01,Secundary,6950.555
+ES,Aragón,2016-01-01,Secundary,7126.4710000000005
+ES,Aragón,2017-01-01,Secundary,7508.108
+ES,Aragón,2018-01-01,Secundary,7910.339999999999
+ES,Aragón,2019-01-01,Secundary,8287.966
+ES,Aragón,2020-01-01,Secundary,7616.241
+ES,Aragón,2021-01-01,Secundary,8234.187
+ES,Aragón,2022-01-01,Secundary,9040.08
+ES,Aragón,2023-01-01,Secundary,9980.431
+ES,Aragón,2024-01-01,Secundary,10567.547
+ES,Canarias,2015-01-01,Secundary,3206.923
+ES,Canarias,2016-01-01,Secundary,3367.442
+ES,Canarias,2017-01-01,Secundary,3601.7110000000002
+ES,Canarias,2018-01-01,Secundary,3715.9260000000004
+ES,Canarias,2019-01-01,Secundary,4062.611
+ES,Canarias,2020-01-01,Secundary,3503.565
+ES,Canarias,2021-01-01,Secundary,3665.663
+ES,Canarias,2022-01-01,Secundary,4048.997
+ES,Canarias,2023-01-01,Secundary,4425.005
+ES,Canarias,2024-01-01,Secundary,4712.862
+ES,Cantabria,2015-01-01,Secundary,2638.562
+ES,Cantabria,2016-01-01,Secundary,2708.846
+ES,Cantabria,2017-01-01,Secundary,2897.6180000000004
+ES,Cantabria,2018-01-01,Secundary,2962.509
+ES,Cantabria,2019-01-01,Secundary,3112.57
+ES,Cantabria,2020-01-01,Secundary,2825.876
+ES,Cantabria,2021-01-01,Secundary,3127.4120000000003
+ES,Cantabria,2022-01-01,Secundary,3482.4539999999997
+ES,Cantabria,2023-01-01,Secundary,3719.022
+ES,Cantabria,2024-01-01,Secundary,3853.84
+ES,Castilla y León,2015-01-01,Secundary,10405.149000000001
+ES,Castilla y León,2016-01-01,Secundary,10782.118
+ES,Castilla y León,2017-01-01,Secundary,11428.541
+ES,Castilla y León,2018-01-01,Secundary,11427.869
+ES,Castilla y León,2019-01-01,Secundary,12030.037
+ES,Castilla y León,2020-01-01,Secundary,11078.485
+ES,Castilla y León,2021-01-01,Secundary,11951.831000000002
+ES,Castilla y León,2022-01-01,Secundary,12653.58
+ES,Castilla y León,2023-01-01,Secundary,14167.283000000001
+ES,Castilla y León,2024-01-01,Secundary,14960.377
+ES,Castilla-La Mancha,2015-01-01,Secundary,7163.96
+ES,Castilla-La Mancha,2016-01-01,Secundary,7359.365
+ES,Castilla-La Mancha,2017-01-01,Secundary,7763.793
+ES,Castilla-La Mancha,2018-01-01,Secundary,7827.101
+ES,Castilla-La Mancha,2019-01-01,Secundary,8407.395
+ES,Castilla-La Mancha,2020-01-01,Secundary,7405.56
+ES,Castilla-La Mancha,2021-01-01,Secundary,8350.313
+ES,Castilla-La Mancha,2022-01-01,Secundary,9992.205
+ES,Castilla-La Mancha,2023-01-01,Secundary,10553.442
+ES,Castilla-La Mancha,2024-01-01,Secundary,11028.561000000002
+ES,Cataluña/Catalunya,2015-01-01,Secundary,39977.634
+ES,Cataluña/Catalunya,2016-01-01,Secundary,42214.708
+ES,Cataluña/Catalunya,2017-01-01,Secundary,43806.772000000004
+ES,Cataluña/Catalunya,2018-01-01,Secundary,44348.161
+ES,Cataluña/Catalunya,2019-01-01,Secundary,45908.015
+ES,Cataluña/Catalunya,2020-01-01,Secundary,41609.984
+ES,Cataluña/Catalunya,2021-01-01,Secundary,46630.36
+ES,Cataluña/Catalunya,2022-01-01,Secundary,48953.587
+ES,Cataluña/Catalunya,2023-01-01,Secundary,53247.936
+ES,Cataluña/Catalunya,2024-01-01,Secundary,56323.65700000001
+ES,Ciudad Autónoma de Ceuta,2015-01-01,Secundary,93.035
+ES,Ciudad Autónoma de Ceuta,2016-01-01,Secundary,97.036
+ES,Ciudad Autónoma de Ceuta,2017-01-01,Secundary,98.608
+ES,Ciudad Autónoma de Ceuta,2018-01-01,Secundary,102.029
+ES,Ciudad Autónoma de Ceuta,2019-01-01,Secundary,108.274
+ES,Ciudad Autónoma de Ceuta,2020-01-01,Secundary,93.357
+ES,Ciudad Autónoma de Ceuta,2021-01-01,Secundary,99.608
+ES,Ciudad Autónoma de Ceuta,2022-01-01,Secundary,109.733
+ES,Ciudad Autónoma de Ceuta,2023-01-01,Secundary,116.644
+ES,Ciudad Autónoma de Ceuta,2024-01-01,Secundary,120.90400000000001
+ES,Ciudad Autónoma de Melilla,2015-01-01,Secundary,81.58
+ES,Ciudad Autónoma de Melilla,2016-01-01,Secundary,86.386
+ES,Ciudad Autónoma de Melilla,2017-01-01,Secundary,91.382
+ES,Ciudad Autónoma de Melilla,2018-01-01,Secundary,93.30600000000001
+ES,Ciudad Autónoma de Melilla,2019-01-01,Secundary,101.065
+ES,Ciudad Autónoma de Melilla,2020-01-01,Secundary,87.241
+ES,Ciudad Autónoma de Melilla,2021-01-01,Secundary,89.79
+ES,Ciudad Autónoma de Melilla,2022-01-01,Secundary,95.971
+ES,Ciudad Autónoma de Melilla,2023-01-01,Secundary,101.799
+ES,Ciudad Autónoma de Melilla,2024-01-01,Secundary,105.962
+ES,Comunidad Foral de Navarra,2015-01-01,Secundary,5321.086
+ES,Comunidad Foral de Navarra,2016-01-01,Secundary,5363.152
+ES,Comunidad Foral de Navarra,2017-01-01,Secundary,5642.198
+ES,Comunidad Foral de Navarra,2018-01-01,Secundary,5746.322999999999
+ES,Comunidad Foral de Navarra,2019-01-01,Secundary,6015.182000000001
+ES,Comunidad Foral de Navarra,2020-01-01,Secundary,5471.592
+ES,Comunidad Foral de Navarra,2021-01-01,Secundary,5915.0740000000005
+ES,Comunidad Foral de Navarra,2022-01-01,Secundary,6396.024
+ES,Comunidad Foral de Navarra,2023-01-01,Secundary,7114.272
+ES,Comunidad Foral de Navarra,2024-01-01,Secundary,7562.742
+ES,Comunidad de Madrid,2015-01-01,Secundary,20793.467
+ES,Comunidad de Madrid,2016-01-01,Secundary,21207.682
+ES,Comunidad de Madrid,2017-01-01,Secundary,21975.167999999998
+ES,Comunidad de Madrid,2018-01-01,Secundary,22612.536999999997
+ES,Comunidad de Madrid,2019-01-01,Secundary,24390.684
+ES,Comunidad de Madrid,2020-01-01,Secundary,22106.818
+ES,Comunidad de Madrid,2021-01-01,Secundary,23053.943
+ES,Comunidad de Madrid,2022-01-01,Secundary,25142.461
+ES,Comunidad de Madrid,2023-01-01,Secundary,27610.903
+ES,Comunidad de Madrid,2024-01-01,Secundary,29363.489999999998
+ES,Comunitat Valenciana,2015-01-01,Secundary,19506.192
+ES,Comunitat Valenciana,2016-01-01,Secundary,20155.22
+ES,Comunitat Valenciana,2017-01-01,Secundary,21620.525
+ES,Comunitat Valenciana,2018-01-01,Secundary,22023.709
+ES,Comunitat Valenciana,2019-01-01,Secundary,23181.533
+ES,Comunitat Valenciana,2020-01-01,Secundary,20999.912
+ES,Comunitat Valenciana,2021-01-01,Secundary,23207.287
+ES,Comunitat Valenciana,2022-01-01,Secundary,25075.553
+ES,Comunitat Valenciana,2023-01-01,Secundary,26896.823
+ES,Comunitat Valenciana,2024-01-01,Secundary,27640.055
+ES,Extremadura,2015-01-01,Secundary,2242.191
+ES,Extremadura,2016-01-01,Secundary,2321.747
+ES,Extremadura,2017-01-01,Secundary,2426.284
+ES,Extremadura,2018-01-01,Secundary,2450.701
+ES,Extremadura,2019-01-01,Secundary,2684.7380000000003
+ES,Extremadura,2020-01-01,Secundary,2438.0730000000003
+ES,Extremadura,2021-01-01,Secundary,2647.72
+ES,Extremadura,2022-01-01,Secundary,2995.3
+ES,Extremadura,2023-01-01,Secundary,3322.38
+ES,Extremadura,2024-01-01,Secundary,3441.185
+ES,Galicia,2015-01-01,Secundary,10675.147
+ES,Galicia,2016-01-01,Secundary,10879.482
+ES,Galicia,2017-01-01,Secundary,11579.204
+ES,Galicia,2018-01-01,Secundary,11801.809000000001
+ES,Galicia,2019-01-01,Secundary,12286.512999999999
+ES,Galicia,2020-01-01,Secundary,11056.328
+ES,Galicia,2021-01-01,Secundary,12127.760999999999
+ES,Galicia,2022-01-01,Secundary,14232.402
+ES,Galicia,2023-01-01,Secundary,15099.82
+ES,Galicia,2024-01-01,Secundary,15795.56
+ES,Illes Balears,2015-01-01,Secundary,2957.44
+ES,Illes Balears,2016-01-01,Secundary,3161.555
+ES,Illes Balears,2017-01-01,Secundary,3309.4610000000002
+ES,Illes Balears,2018-01-01,Secundary,3368.185
+ES,Illes Balears,2019-01-01,Secundary,3725.4030000000002
+ES,Illes Balears,2020-01-01,Secundary,3274.545
+ES,Illes Balears,2021-01-01,Secundary,3315.118
+ES,Illes Balears,2022-01-01,Secundary,3716.2780000000002
+ES,Illes Balears,2023-01-01,Secundary,4044.443
+ES,Illes Balears,2024-01-01,Secundary,4262.32
+ES,La Rioja,2015-01-01,Secundary,2165.885
+ES,La Rioja,2016-01-01,Secundary,2216.986
+ES,La Rioja,2017-01-01,Secundary,2219.1040000000003
+ES,La Rioja,2018-01-01,Secundary,2184.875
+ES,La Rioja,2019-01-01,Secundary,2248.112
+ES,La Rioja,2020-01-01,Secundary,2034.23
+ES,La Rioja,2021-01-01,Secundary,2129.1890000000003
+ES,La Rioja,2022-01-01,Secundary,2302.6820000000002
+ES,La Rioja,2023-01-01,Secundary,2579.771
+ES,La Rioja,2024-01-01,Secundary,2717.7540000000004
+ES,País Vasco/Euskadi,2015-01-01,Secundary,16429.805
+ES,País Vasco/Euskadi,2016-01-01,Secundary,16815.165
+ES,País Vasco/Euskadi,2017-01-01,Secundary,17645.851000000002
+ES,País Vasco/Euskadi,2018-01-01,Secundary,18267.095
+ES,País Vasco/Euskadi,2019-01-01,Secundary,18661.493000000002
+ES,País Vasco/Euskadi,2020-01-01,Secundary,16355.970000000001
+ES,País Vasco/Euskadi,2021-01-01,Secundary,18204.802
+ES,País Vasco/Euskadi,2022-01-01,Secundary,20365.407
+ES,País Vasco/Euskadi,2023-01-01,Secundary,21652.231
+ES,País Vasco/Euskadi,2024-01-01,Secundary,22406.112999999998
+ES,Principado de Asturias,2015-01-01,Secundary,3885.548
+ES,Principado de Asturias,2016-01-01,Secundary,3959.642
+ES,Principado de Asturias,2017-01-01,Secundary,4315.619000000001
+ES,Principado de Asturias,2018-01-01,Secundary,4400.465
+ES,Principado de Asturias,2019-01-01,Secundary,4468.159
+ES,Principado de Asturias,2020-01-01,Secundary,3884.464
+ES,Principado de Asturias,2021-01-01,Secundary,4616.2880000000005
+ES,Principado de Asturias,2022-01-01,Secundary,5032.263
+ES,Principado de Asturias,2023-01-01,Secundary,5490.616
+ES,Principado de Asturias,2024-01-01,Secundary,5861.282999999999
+ES,Región de Murcia,2015-01-01,Secundary,5446.623
+ES,Región de Murcia,2016-01-01,Secundary,5611.033
+ES,Región de Murcia,2017-01-01,Secundary,5864.918000000001
+ES,Región de Murcia,2018-01-01,Secundary,5787.9169999999995
+ES,Región de Murcia,2019-01-01,Secundary,6153.904
+ES,Región de Murcia,2020-01-01,Secundary,5478.764999999999
+ES,Región de Murcia,2021-01-01,Secundary,6237.735000000001
+ES,Región de Murcia,2022-01-01,Secundary,7739.710999999999
+ES,Región de Murcia,2023-01-01,Secundary,7801.169
+ES,Región de Murcia,2024-01-01,Secundary,8215.742
+IT,Abruzzo,2015-01-01,Tertiary,11194.199999999999
+IT,Abruzzo,2016-01-01,Tertiary,11256.5
+IT,Abruzzo,2017-01-01,Tertiary,11468.700000000003
+IT,Abruzzo,2018-01-01,Tertiary,11644.099999999999
+IT,Abruzzo,2019-01-01,Tertiary,11832.799999999997
+IT,Abruzzo,2020-01-01,Tertiary,10599.899999999998
+IT,Abruzzo,2021-01-01,Tertiary,11598.300000000001
+IT,Abruzzo,2022-01-01,Tertiary,12293.5
+IT,Abruzzo,2023-01-01,Tertiary,12246.999999999998
+IT,Basilicata,2015-01-01,Tertiary,3469.9
+IT,Basilicata,2016-01-01,Tertiary,3440.5
+IT,Basilicata,2017-01-01,Tertiary,3551.6999999999994
+IT,Basilicata,2018-01-01,Tertiary,3636.8000000000006
+IT,Basilicata,2019-01-01,Tertiary,3761.9
+IT,Basilicata,2020-01-01,Tertiary,3469.1
+IT,Basilicata,2021-01-01,Tertiary,3713.4
+IT,Basilicata,2022-01-01,Tertiary,3941.5
+IT,Basilicata,2023-01-01,Tertiary,3839.7
+IT,Calabria,2015-01-01,Tertiary,13229.699999999999
+IT,Calabria,2016-01-01,Tertiary,13297.2
+IT,Calabria,2017-01-01,Tertiary,13356.0
+IT,Calabria,2018-01-01,Tertiary,13418.099999999999
+IT,Calabria,2019-01-01,Tertiary,13570.100000000002
+IT,Calabria,2020-01-01,Tertiary,12308.3
+IT,Calabria,2021-01-01,Tertiary,13250.300000000003
+IT,Calabria,2022-01-01,Tertiary,14043.300000000001
+IT,Calabria,2023-01-01,Tertiary,14113.0
+IT,Campania,2015-01-01,Tertiary,42114.99999999999
+IT,Campania,2016-01-01,Tertiary,42445.799999999996
+IT,Campania,2017-01-01,Tertiary,43257.6
+IT,Campania,2018-01-01,Tertiary,43862.399999999994
+IT,Campania,2019-01-01,Tertiary,44530.99999999999
+IT,Campania,2020-01-01,Tertiary,39449.4
+IT,Campania,2021-01-01,Tertiary,43292.4
+IT,Campania,2022-01-01,Tertiary,47090.600000000006
+IT,Campania,2023-01-01,Tertiary,47382.4
+IT,Emilia-Romagna,2015-01-01,Tertiary,57101.49999999999
+IT,Emilia-Romagna,2016-01-01,Tertiary,57830.5
+IT,Emilia-Romagna,2017-01-01,Tertiary,59220.00000000001
+IT,Emilia-Romagna,2018-01-01,Tertiary,59775.8
+IT,Emilia-Romagna,2019-01-01,Tertiary,60322.00000000001
+IT,Emilia-Romagna,2020-01-01,Tertiary,54372.4
+IT,Emilia-Romagna,2021-01-01,Tertiary,59037.299999999996
+IT,Emilia-Romagna,2022-01-01,Tertiary,61826.200000000004
+IT,Emilia-Romagna,2023-01-01,Tertiary,61986.2
+IT,Friuli-Venezia Giulia,2015-01-01,Tertiary,12621.900000000001
+IT,Friuli-Venezia Giulia,2016-01-01,Tertiary,12387.1
+IT,Friuli-Venezia Giulia,2017-01-01,Tertiary,12777.699999999997
+IT,Friuli-Venezia Giulia,2018-01-01,Tertiary,12768.699999999999
+IT,Friuli-Venezia Giulia,2019-01-01,Tertiary,13166.5
+IT,Friuli-Venezia Giulia,2020-01-01,Tertiary,11938.599999999999
+IT,Friuli-Venezia Giulia,2021-01-01,Tertiary,13196.3
+IT,Friuli-Venezia Giulia,2022-01-01,Tertiary,13523.400000000001
+IT,Friuli-Venezia Giulia,2023-01-01,Tertiary,13532.900000000003
+IT,Lazio,2015-01-01,Tertiary,80664.90000000001
+IT,Lazio,2016-01-01,Tertiary,83291.2
+IT,Lazio,2017-01-01,Tertiary,85466.90000000001
+IT,Lazio,2018-01-01,Tertiary,86471.7
+IT,Lazio,2019-01-01,Tertiary,87808.09999999999
+IT,Lazio,2020-01-01,Tertiary,77740.7
+IT,Lazio,2021-01-01,Tertiary,84703.40000000001
+IT,Lazio,2022-01-01,Tertiary,89460.2
+IT,Lazio,2023-01-01,Tertiary,92894.99999999999
+IT,Liguria,2015-01-01,Tertiary,21183.2
+IT,Liguria,2016-01-01,Tertiary,21398.6
+IT,Liguria,2017-01-01,Tertiary,21710.5
+IT,Liguria,2018-01-01,Tertiary,21726.899999999998
+IT,Liguria,2019-01-01,Tertiary,21573.800000000003
+IT,Liguria,2020-01-01,Tertiary,18126.7
+IT,Liguria,2021-01-01,Tertiary,19791.399999999998
+IT,Liguria,2022-01-01,Tertiary,21764.7
+IT,Liguria,2023-01-01,Tertiary,22658.0
+IT,Lombardia,2015-01-01,Tertiary,148188.9
+IT,Lombardia,2016-01-01,Tertiary,151168.9
+IT,Lombardia,2017-01-01,Tertiary,156015.1
+IT,Lombardia,2018-01-01,Tertiary,159403.2
+IT,Lombardia,2019-01-01,Tertiary,161382.00000000003
+IT,Lombardia,2020-01-01,Tertiary,148700.8
+IT,Lombardia,2021-01-01,Tertiary,164500.5
+IT,Lombardia,2022-01-01,Tertiary,174137.80000000002
+IT,Lombardia,2023-01-01,Tertiary,172931.2
+IT,Marche,2015-01-01,Tertiary,14191.9
+IT,Marche,2016-01-01,Tertiary,14273.000000000002
+IT,Marche,2017-01-01,Tertiary,14648.9
+IT,Marche,2018-01-01,Tertiary,14844.7
+IT,Marche,2019-01-01,Tertiary,15097.0
+IT,Marche,2020-01-01,Tertiary,13521.3
+IT,Marche,2021-01-01,Tertiary,14582.099999999999
+IT,Marche,2022-01-01,Tertiary,15260.000000000002
+IT,Marche,2023-01-01,Tertiary,15250.5
+IT,Molise,2015-01-01,Tertiary,2177.9
+IT,Molise,2016-01-01,Tertiary,2190.2
+IT,Molise,2017-01-01,Tertiary,2251.2
+IT,Molise,2018-01-01,Tertiary,2273.2
+IT,Molise,2019-01-01,Tertiary,2292.5
+IT,Molise,2020-01-01,Tertiary,2168.2
+IT,Molise,2021-01-01,Tertiary,2291.1
+IT,Molise,2022-01-01,Tertiary,2414.9
+IT,Molise,2023-01-01,Tertiary,2386.4
+IT,Piemonte,2015-01-01,Tertiary,48493.9
+IT,Piemonte,2016-01-01,Tertiary,49092.00000000001
+IT,Piemonte,2017-01-01,Tertiary,50808.5
+IT,Piemonte,2018-01-01,Tertiary,50850.5
+IT,Piemonte,2019-01-01,Tertiary,51137.4
+IT,Piemonte,2020-01-01,Tertiary,45308.4
+IT,Piemonte,2021-01-01,Tertiary,49301.6
+IT,Piemonte,2022-01-01,Tertiary,52508.6
+IT,Piemonte,2023-01-01,Tertiary,52499.19999999999
+IT,Puglia,2015-01-01,Tertiary,28635.8
+IT,Puglia,2016-01-01,Tertiary,28850.699999999997
+IT,Puglia,2017-01-01,Tertiary,29363.7
+IT,Puglia,2018-01-01,Tertiary,29837.899999999998
+IT,Puglia,2019-01-01,Tertiary,30522.4
+IT,Puglia,2020-01-01,Tertiary,27841.9
+IT,Puglia,2021-01-01,Tertiary,30260.400000000005
+IT,Puglia,2022-01-01,Tertiary,31832.8
+IT,Puglia,2023-01-01,Tertiary,32189.600000000002
+IT,Sardegna,2015-01-01,Tertiary,12912.1
+IT,Sardegna,2016-01-01,Tertiary,12933.5
+IT,Sardegna,2017-01-01,Tertiary,13253.5
+IT,Sardegna,2018-01-01,Tertiary,13516.099999999999
+IT,Sardegna,2019-01-01,Tertiary,13870.199999999999
+IT,Sardegna,2020-01-01,Tertiary,12412.0
+IT,Sardegna,2021-01-01,Tertiary,13772.4
+IT,Sardegna,2022-01-01,Tertiary,14807.900000000001
+IT,Sardegna,2023-01-01,Tertiary,14760.6
+IT,Sicilia,2015-01-01,Tertiary,33504.3
+IT,Sicilia,2016-01-01,Tertiary,34327.3
+IT,Sicilia,2017-01-01,Tertiary,35001.5
+IT,Sicilia,2018-01-01,Tertiary,35125.799999999996
+IT,Sicilia,2019-01-01,Tertiary,35821.0
+IT,Sicilia,2020-01-01,Tertiary,32471.700000000004
+IT,Sicilia,2021-01-01,Tertiary,35275.700000000004
+IT,Sicilia,2022-01-01,Tertiary,37503.5
+IT,Sicilia,2023-01-01,Tertiary,38373.0
+IT,Toscana,2015-01-01,Tertiary,44329.899999999994
+IT,Toscana,2016-01-01,Tertiary,44864.4
+IT,Toscana,2017-01-01,Tertiary,45136.399999999994
+IT,Toscana,2018-01-01,Tertiary,45829.1
+IT,Toscana,2019-01-01,Tertiary,49370.700000000004
+IT,Toscana,2020-01-01,Tertiary,40244.299999999996
+IT,Toscana,2021-01-01,Tertiary,44211.200000000004
+IT,Toscana,2022-01-01,Tertiary,47641.200000000004
+IT,Toscana,2023-01-01,Tertiary,48027.7
+IT,Trentino-Alto Adige/Südtirol,2015-01-01,Tertiary,15902.900000000001
+IT,Trentino-Alto Adige/Südtirol,2016-01-01,Tertiary,16339.500000000002
+IT,Trentino-Alto Adige/Südtirol,2017-01-01,Tertiary,16739.300000000003
+IT,Trentino-Alto Adige/Südtirol,2018-01-01,Tertiary,17397.0
+IT,Trentino-Alto Adige/Südtirol,2019-01-01,Tertiary,17879.4
+IT,Trentino-Alto Adige/Südtirol,2020-01-01,Tertiary,15791.100000000002
+IT,Trentino-Alto Adige/Südtirol,2021-01-01,Tertiary,16956.2
+IT,Trentino-Alto Adige/Südtirol,2022-01-01,Tertiary,19085.8
+IT,Trentino-Alto Adige/Südtirol,2023-01-01,Tertiary,19251.1
+IT,Umbria,2015-01-01,Tertiary,8159.399999999999
+IT,Umbria,2016-01-01,Tertiary,8162.4
+IT,Umbria,2017-01-01,Tertiary,8287.2
+IT,Umbria,2018-01-01,Tertiary,8420.699999999999
+IT,Umbria,2019-01-01,Tertiary,8469.9
+IT,Umbria,2020-01-01,Tertiary,7536.6
+IT,Umbria,2021-01-01,Tertiary,8179.4
+IT,Umbria,2022-01-01,Tertiary,8720.2
+IT,Umbria,2023-01-01,Tertiary,8742.600000000002
+IT,Valle d'Aosta/Vallée d'Aoste,2015-01-01,Tertiary,1842.5
+IT,Valle d'Aosta/Vallée d'Aoste,2016-01-01,Tertiary,1894.0
+IT,Valle d'Aosta/Vallée d'Aoste,2017-01-01,Tertiary,1937.6
+IT,Valle d'Aosta/Vallée d'Aoste,2018-01-01,Tertiary,1956.2999999999997
+IT,Valle d'Aosta/Vallée d'Aoste,2019-01-01,Tertiary,1970.4
+IT,Valle d'Aosta/Vallée d'Aoste,2020-01-01,Tertiary,1776.4999999999998
+IT,Valle d'Aosta/Vallée d'Aoste,2021-01-01,Tertiary,1796.2
+IT,Valle d'Aosta/Vallée d'Aoste,2022-01-01,Tertiary,1989.3
+IT,Valle d'Aosta/Vallée d'Aoste,2023-01-01,Tertiary,2065.0
+IT,Veneto,2015-01-01,Tertiary,58868.1
+IT,Veneto,2016-01-01,Tertiary,60157.3
+IT,Veneto,2017-01-01,Tertiary,61950.8
+IT,Veneto,2018-01-01,Tertiary,61969.899999999994
+IT,Veneto,2019-01-01,Tertiary,63143.19999999999
+IT,Veneto,2020-01-01,Tertiary,54910.299999999996
+IT,Veneto,2021-01-01,Tertiary,60188.700000000004
+IT,Veneto,2022-01-01,Tertiary,64710.3
+IT,Veneto,2023-01-01,Tertiary,64239.200000000004
+ES,Andalucía,2015-01-01,Tertiary,51157.918
+ES,Andalucía,2016-01-01,Tertiary,52398.622
+ES,Andalucía,2017-01-01,Tertiary,54154.623999999996
+ES,Andalucía,2018-01-01,Tertiary,55916.704
+ES,Andalucía,2019-01-01,Tertiary,58123.59299999999
+ES,Andalucía,2020-01-01,Tertiary,49942.113
+ES,Andalucía,2021-01-01,Tertiary,55778.600999999995
+ES,Andalucía,2022-01-01,Tertiary,63239.71799999999
+ES,Andalucía,2023-01-01,Tertiary,70191.454
+ES,Andalucía,2024-01-01,Tertiary,74937.951
+ES,Aragón,2015-01-01,Tertiary,10178.198
+ES,Aragón,2016-01-01,Tertiary,10418.849
+ES,Aragón,2017-01-01,Tertiary,10778.55
+ES,Aragón,2018-01-01,Tertiary,11107.335
+ES,Aragón,2019-01-01,Tertiary,11400.214
+ES,Aragón,2020-01-01,Tertiary,10128.458999999999
+ES,Aragón,2021-01-01,Tertiary,11143.098
+ES,Aragón,2022-01-01,Tertiary,12390.681
+ES,Aragón,2023-01-01,Tertiary,13631.74
+ES,Aragón,2024-01-01,Tertiary,14369.902
+ES,Canarias,2015-01-01,Tertiary,18737.482
+ES,Canarias,2016-01-01,Tertiary,19489.981
+ES,Canarias,2017-01-01,Tertiary,20623.456
+ES,Canarias,2018-01-01,Tertiary,21280.005
+ES,Canarias,2019-01-01,Tertiary,21571.057
+ES,Canarias,2020-01-01,Tertiary,15549.902
+ES,Canarias,2021-01-01,Tertiary,18004.399999999998
+ES,Canarias,2022-01-01,Tertiary,21901.032
+ES,Canarias,2023-01-01,Tertiary,24677.237
+ES,Canarias,2024-01-01,Tertiary,26733.83
+ES,Cantabria,2015-01-01,Tertiary,4315.982
+ES,Cantabria,2016-01-01,Tertiary,4393.084
+ES,Cantabria,2017-01-01,Tertiary,4531.848
+ES,Cantabria,2018-01-01,Tertiary,4676.206
+ES,Cantabria,2019-01-01,Tertiary,4811.222
+ES,Cantabria,2020-01-01,Tertiary,4201.871999999999
+ES,Cantabria,2021-01-01,Tertiary,4624.186
+ES,Cantabria,2022-01-01,Tertiary,5154.604
+ES,Cantabria,2023-01-01,Tertiary,5700.86
+ES,Cantabria,2024-01-01,Tertiary,6095.276
+ES,Castilla y León,2015-01-01,Tertiary,15784.104
+ES,Castilla y León,2016-01-01,Tertiary,16316.614000000001
+ES,Castilla y León,2017-01-01,Tertiary,16927.347
+ES,Castilla y León,2018-01-01,Tertiary,17301.141
+ES,Castilla y León,2019-01-01,Tertiary,17671.792
+ES,Castilla y León,2020-01-01,Tertiary,15311.042000000001
+ES,Castilla y León,2021-01-01,Tertiary,16876.934999999998
+ES,Castilla y León,2022-01-01,Tertiary,18870.286
+ES,Castilla y León,2023-01-01,Tertiary,20727.243
+ES,Castilla y León,2024-01-01,Tertiary,22000.758
+ES,Castilla-La Mancha,2015-01-01,Tertiary,10762.391
+ES,Castilla-La Mancha,2016-01-01,Tertiary,10955.617
+ES,Castilla-La Mancha,2017-01-01,Tertiary,11306.369999999999
+ES,Castilla-La Mancha,2018-01-01,Tertiary,11662.769
+ES,Castilla-La Mancha,2019-01-01,Tertiary,12041.064999999999
+ES,Castilla-La Mancha,2020-01-01,Tertiary,10718.261
+ES,Castilla-La Mancha,2021-01-01,Tertiary,11876.578
+ES,Castilla-La Mancha,2022-01-01,Tertiary,13140.634999999998
+ES,Castilla-La Mancha,2023-01-01,Tertiary,14536.939999999999
+ES,Castilla-La Mancha,2024-01-01,Tertiary,15525.908
+ES,Cataluña/Catalunya,2015-01-01,Tertiary,78343.56599999999
+ES,Cataluña/Catalunya,2016-01-01,Tertiary,81060.322
+ES,Cataluña/Catalunya,2017-01-01,Tertiary,84048.821
+ES,Cataluña/Catalunya,2018-01-01,Tertiary,87330.737
+ES,Cataluña/Catalunya,2019-01-01,Tertiary,90494.098
+ES,Cataluña/Catalunya,2020-01-01,Tertiary,77388.189
+ES,Cataluña/Catalunya,2021-01-01,Tertiary,85964.07
+ES,Cataluña/Catalunya,2022-01-01,Tertiary,97915.64
+ES,Cataluña/Catalunya,2023-01-01,Tertiary,107271.9
+ES,Cataluña/Catalunya,2024-01-01,Tertiary,114434.02100000001
+ES,Ciudad Autónoma de Ceuta,2015-01-01,Tertiary,448.09400000000005
+ES,Ciudad Autónoma de Ceuta,2016-01-01,Tertiary,466.637
+ES,Ciudad Autónoma de Ceuta,2017-01-01,Tertiary,479.854
+ES,Ciudad Autónoma de Ceuta,2018-01-01,Tertiary,494.90100000000007
+ES,Ciudad Autónoma de Ceuta,2019-01-01,Tertiary,502.79900000000004
+ES,Ciudad Autónoma de Ceuta,2020-01-01,Tertiary,436.067
+ES,Ciudad Autónoma de Ceuta,2021-01-01,Tertiary,478.29499999999996
+ES,Ciudad Autónoma de Ceuta,2022-01-01,Tertiary,526.757
+ES,Ciudad Autónoma de Ceuta,2023-01-01,Tertiary,564.818
+ES,Ciudad Autónoma de Ceuta,2024-01-01,Tertiary,589.233
+ES,Ciudad Autónoma de Melilla,2015-01-01,Tertiary,419.681
+ES,Ciudad Autónoma de Melilla,2016-01-01,Tertiary,437.298
+ES,Ciudad Autónoma de Melilla,2017-01-01,Tertiary,447.558
+ES,Ciudad Autónoma de Melilla,2018-01-01,Tertiary,461.687
+ES,Ciudad Autónoma de Melilla,2019-01-01,Tertiary,470.13300000000004
+ES,Ciudad Autónoma de Melilla,2020-01-01,Tertiary,410.134
+ES,Ciudad Autónoma de Melilla,2021-01-01,Tertiary,449.072
+ES,Ciudad Autónoma de Melilla,2022-01-01,Tertiary,496.07000000000005
+ES,Ciudad Autónoma de Melilla,2023-01-01,Tertiary,535.205
+ES,Ciudad Autónoma de Melilla,2024-01-01,Tertiary,564.818
+ES,Comunidad Foral de Navarra,2015-01-01,Tertiary,4994.616
+ES,Comunidad Foral de Navarra,2016-01-01,Tertiary,5281.238
+ES,Comunidad Foral de Navarra,2017-01-01,Tertiary,5410.094999999999
+ES,Comunidad Foral de Navarra,2018-01-01,Tertiary,5586.68
+ES,Comunidad Foral de Navarra,2019-01-01,Tertiary,5799.3859999999995
+ES,Comunidad Foral de Navarra,2020-01-01,Tertiary,4994.604
+ES,Comunidad Foral de Navarra,2021-01-01,Tertiary,5590.543
+ES,Comunidad Foral de Navarra,2022-01-01,Tertiary,6245.860000000001
+ES,Comunidad Foral de Navarra,2023-01-01,Tertiary,6840.763
+ES,Comunidad Foral de Navarra,2024-01-01,Tertiary,7313.405
+ES,Comunidad de Madrid,2015-01-01,Tertiary,83671.226
+ES,Comunidad de Madrid,2016-01-01,Tertiary,86687.134
+ES,Comunidad de Madrid,2017-01-01,Tertiary,90948.276
+ES,Comunidad de Madrid,2018-01-01,Tertiary,94357.258
+ES,Comunidad de Madrid,2019-01-01,Tertiary,97919.095
+ES,Comunidad de Madrid,2020-01-01,Tertiary,85389.69
+ES,Comunidad de Madrid,2021-01-01,Tertiary,94622.51000000001
+ES,Comunidad de Madrid,2022-01-01,Tertiary,107736.35800000001
+ES,Comunidad de Madrid,2023-01-01,Tertiary,119663.833
+ES,Comunidad de Madrid,2024-01-01,Tertiary,126868.994
+ES,Comunitat Valenciana,2015-01-01,Tertiary,36945.17
+ES,Comunitat Valenciana,2016-01-01,Tertiary,38094.11
+ES,Comunitat Valenciana,2017-01-01,Tertiary,39577.331
+ES,Comunitat Valenciana,2018-01-01,Tertiary,41021.937
+ES,Comunitat Valenciana,2019-01-01,Tertiary,42384.421
+ES,Comunitat Valenciana,2020-01-01,Tertiary,36996.782
+ES,Comunitat Valenciana,2021-01-01,Tertiary,41190.302
+ES,Comunitat Valenciana,2022-01-01,Tertiary,46514.301
+ES,Comunitat Valenciana,2023-01-01,Tertiary,50941.607
+ES,Comunitat Valenciana,2024-01-01,Tertiary,54741.795
+ES,Extremadura,2015-01-01,Tertiary,4690.122
+ES,Extremadura,2016-01-01,Tertiary,4932.464
+ES,Extremadura,2017-01-01,Tertiary,5245.138
+ES,Extremadura,2018-01-01,Tertiary,5244.129
+ES,Extremadura,2019-01-01,Tertiary,5346.868
+ES,Extremadura,2020-01-01,Tertiary,4741.726000000001
+ES,Extremadura,2021-01-01,Tertiary,5244.282
+ES,Extremadura,2022-01-01,Tertiary,5841.307
+ES,Extremadura,2023-01-01,Tertiary,6331.043000000001
+ES,Extremadura,2024-01-01,Tertiary,6728.9
+ES,Galicia,2015-01-01,Tertiary,18737.885000000002
+ES,Galicia,2016-01-01,Tertiary,19578.581
+ES,Galicia,2017-01-01,Tertiary,20221.816
+ES,Galicia,2018-01-01,Tertiary,20858.234
+ES,Galicia,2019-01-01,Tertiary,21418.900999999998
+ES,Galicia,2020-01-01,Tertiary,18922.783
+ES,Galicia,2021-01-01,Tertiary,20994.948
+ES,Galicia,2022-01-01,Tertiary,23355.024999999998
+ES,Galicia,2023-01-01,Tertiary,25570.221999999998
+ES,Galicia,2024-01-01,Tertiary,27170.708
+ES,Illes Balears,2015-01-01,Tertiary,13772.744999999999
+ES,Illes Balears,2016-01-01,Tertiary,14609.058
+ES,Illes Balears,2017-01-01,Tertiary,15403.868
+ES,Illes Balears,2018-01-01,Tertiary,16150.831999999999
+ES,Illes Balears,2019-01-01,Tertiary,16495.294
+ES,Illes Balears,2020-01-01,Tertiary,11193.499
+ES,Illes Balears,2021-01-01,Tertiary,13866.595
+ES,Illes Balears,2022-01-01,Tertiary,17897.106
+ES,Illes Balears,2023-01-01,Tertiary,20257.741
+ES,Illes Balears,2024-01-01,Tertiary,22112.701999999997
+ES,La Rioja,2015-01-01,Tertiary,2257.284
+ES,La Rioja,2016-01-01,Tertiary,2318.344
+ES,La Rioja,2017-01-01,Tertiary,2375.587
+ES,La Rioja,2018-01-01,Tertiary,2455.742
+ES,La Rioja,2019-01-01,Tertiary,2524.313
+ES,La Rioja,2020-01-01,Tertiary,2208.498
+ES,La Rioja,2021-01-01,Tertiary,2448.552
+ES,La Rioja,2022-01-01,Tertiary,2737.152
+ES,La Rioja,2023-01-01,Tertiary,2989.9809999999998
+ES,La Rioja,2024-01-01,Tertiary,3198.697
+ES,País Vasco/Euskadi,2015-01-01,Tertiary,20371.088
+ES,País Vasco/Euskadi,2016-01-01,Tertiary,21326.162
+ES,País Vasco/Euskadi,2017-01-01,Tertiary,22052.252999999997
+ES,País Vasco/Euskadi,2018-01-01,Tertiary,22661.453999999998
+ES,País Vasco/Euskadi,2019-01-01,Tertiary,23317.656000000003
+ES,País Vasco/Euskadi,2020-01-01,Tertiary,20455.475000000002
+ES,País Vasco/Euskadi,2021-01-01,Tertiary,22495.131999999998
+ES,País Vasco/Euskadi,2022-01-01,Tertiary,24853.75
+ES,País Vasco/Euskadi,2023-01-01,Tertiary,27266.524
+ES,País Vasco/Euskadi,2024-01-01,Tertiary,28736.124000000003
+ES,Principado de Asturias,2015-01-01,Tertiary,7497.0380000000005
+ES,Principado de Asturias,2016-01-01,Tertiary,7622.193
+ES,Principado de Asturias,2017-01-01,Tertiary,7829.153
+ES,Principado de Asturias,2018-01-01,Tertiary,8003.348
+ES,Principado de Asturias,2019-01-01,Tertiary,8214.853
+ES,Principado de Asturias,2020-01-01,Tertiary,7202.679
+ES,Principado de Asturias,2021-01-01,Tertiary,7928.625
+ES,Principado de Asturias,2022-01-01,Tertiary,8779.018
+ES,Principado de Asturias,2023-01-01,Tertiary,9462.172999999999
+ES,Principado de Asturias,2024-01-01,Tertiary,10049.461
+ES,Región de Murcia,2015-01-01,Tertiary,9177.41
+ES,Región de Murcia,2016-01-01,Tertiary,9389.692
+ES,Región de Murcia,2017-01-01,Tertiary,9741.055
+ES,Región de Murcia,2018-01-01,Tertiary,10032.901
+ES,Región de Murcia,2019-01-01,Tertiary,10420.24
+ES,Región de Murcia,2020-01-01,Tertiary,9452.225
+ES,Región de Murcia,2021-01-01,Tertiary,10434.276
+ES,Región de Murcia,2022-01-01,Tertiary,11586.7
+ES,Región de Murcia,2023-01-01,Tertiary,12710.716
+ES,Región de Murcia,2024-01-01,Tertiary,13452.517
+IT,Abruzzo,2015-01-01,Tertiary_financial,1102.0
+IT,Abruzzo,2016-01-01,Tertiary_financial,1109.0
+IT,Abruzzo,2017-01-01,Tertiary_financial,1080.8
+IT,Abruzzo,2018-01-01,Tertiary_financial,1065.7
+IT,Abruzzo,2019-01-01,Tertiary_financial,1035.4
+IT,Abruzzo,2020-01-01,Tertiary_financial,1031.9
+IT,Abruzzo,2021-01-01,Tertiary_financial,979.4
+IT,Abruzzo,2022-01-01,Tertiary_financial,962.4
+IT,Abruzzo,2023-01-01,Tertiary_financial,868.2
+IT,Basilicata,2015-01-01,Tertiary_financial,316.4
+IT,Basilicata,2016-01-01,Tertiary_financial,332.5
+IT,Basilicata,2017-01-01,Tertiary_financial,328.6
+IT,Basilicata,2018-01-01,Tertiary_financial,325.6
+IT,Basilicata,2019-01-01,Tertiary_financial,338.6
+IT,Basilicata,2020-01-01,Tertiary_financial,335.6
+IT,Basilicata,2021-01-01,Tertiary_financial,307.9
+IT,Basilicata,2022-01-01,Tertiary_financial,311.1
+IT,Basilicata,2023-01-01,Tertiary_financial,272.8
+IT,Calabria,2015-01-01,Tertiary_financial,974.8
+IT,Calabria,2016-01-01,Tertiary_financial,963.6
+IT,Calabria,2017-01-01,Tertiary_financial,968.7
+IT,Calabria,2018-01-01,Tertiary_financial,950.9
+IT,Calabria,2019-01-01,Tertiary_financial,929.9
+IT,Calabria,2020-01-01,Tertiary_financial,926.6
+IT,Calabria,2021-01-01,Tertiary_financial,873.3
+IT,Calabria,2022-01-01,Tertiary_financial,867.4
+IT,Calabria,2023-01-01,Tertiary_financial,763.2
+IT,Campania,2015-01-01,Tertiary_financial,3705.8
+IT,Campania,2016-01-01,Tertiary_financial,3637.0
+IT,Campania,2017-01-01,Tertiary_financial,3711.2
+IT,Campania,2018-01-01,Tertiary_financial,3673.7
+IT,Campania,2019-01-01,Tertiary_financial,3609.3
+IT,Campania,2020-01-01,Tertiary_financial,3563.2
+IT,Campania,2021-01-01,Tertiary_financial,3245.1
+IT,Campania,2022-01-01,Tertiary_financial,3321.6
+IT,Campania,2023-01-01,Tertiary_financial,3008.2
+IT,Emilia-Romagna,2015-01-01,Tertiary_financial,6914.6
+IT,Emilia-Romagna,2016-01-01,Tertiary_financial,6888.2
+IT,Emilia-Romagna,2017-01-01,Tertiary_financial,6954.8
+IT,Emilia-Romagna,2018-01-01,Tertiary_financial,7035.8
+IT,Emilia-Romagna,2019-01-01,Tertiary_financial,6871.1
+IT,Emilia-Romagna,2020-01-01,Tertiary_financial,6849.5
+IT,Emilia-Romagna,2021-01-01,Tertiary_financial,6545.0
+IT,Emilia-Romagna,2022-01-01,Tertiary_financial,6443.5
+IT,Emilia-Romagna,2023-01-01,Tertiary_financial,5800.7
+IT,Friuli-Venezia Giulia,2015-01-01,Tertiary_financial,1989.0
+IT,Friuli-Venezia Giulia,2016-01-01,Tertiary_financial,1931.2
+IT,Friuli-Venezia Giulia,2017-01-01,Tertiary_financial,1911.8
+IT,Friuli-Venezia Giulia,2018-01-01,Tertiary_financial,1879.0
+IT,Friuli-Venezia Giulia,2019-01-01,Tertiary_financial,1901.9
+IT,Friuli-Venezia Giulia,2020-01-01,Tertiary_financial,1977.8
+IT,Friuli-Venezia Giulia,2021-01-01,Tertiary_financial,1928.4
+IT,Friuli-Venezia Giulia,2022-01-01,Tertiary_financial,1825.9
+IT,Friuli-Venezia Giulia,2023-01-01,Tertiary_financial,1749.6
+IT,Lazio,2015-01-01,Tertiary_financial,10011.1
+IT,Lazio,2016-01-01,Tertiary_financial,9620.0
+IT,Lazio,2017-01-01,Tertiary_financial,9800.4
+IT,Lazio,2018-01-01,Tertiary_financial,9743.9
+IT,Lazio,2019-01-01,Tertiary_financial,9771.6
+IT,Lazio,2020-01-01,Tertiary_financial,9920.2
+IT,Lazio,2021-01-01,Tertiary_financial,9572.3
+IT,Lazio,2022-01-01,Tertiary_financial,9617.9
+IT,Lazio,2023-01-01,Tertiary_financial,9689.0
+IT,Liguria,2015-01-01,Tertiary_financial,2019.1
+IT,Liguria,2016-01-01,Tertiary_financial,2071.4
+IT,Liguria,2017-01-01,Tertiary_financial,2009.0
+IT,Liguria,2018-01-01,Tertiary_financial,2007.1
+IT,Liguria,2019-01-01,Tertiary_financial,1915.8
+IT,Liguria,2020-01-01,Tertiary_financial,1890.1
+IT,Liguria,2021-01-01,Tertiary_financial,1722.1
+IT,Liguria,2022-01-01,Tertiary_financial,1845.7
+IT,Liguria,2023-01-01,Tertiary_financial,1534.5
+IT,Lombardia,2015-01-01,Tertiary_financial,25612.1
+IT,Lombardia,2016-01-01,Tertiary_financial,25957.6
+IT,Lombardia,2017-01-01,Tertiary_financial,26086.5
+IT,Lombardia,2018-01-01,Tertiary_financial,25915.6
+IT,Lombardia,2019-01-01,Tertiary_financial,26497.7
+IT,Lombardia,2020-01-01,Tertiary_financial,26420.8
+IT,Lombardia,2021-01-01,Tertiary_financial,28032.0
+IT,Lombardia,2022-01-01,Tertiary_financial,27399.0
+IT,Lombardia,2023-01-01,Tertiary_financial,25710.9
+IT,Marche,2015-01-01,Tertiary_financial,1906.5
+IT,Marche,2016-01-01,Tertiary_financial,1859.5
+IT,Marche,2017-01-01,Tertiary_financial,1747.5
+IT,Marche,2018-01-01,Tertiary_financial,1703.9
+IT,Marche,2019-01-01,Tertiary_financial,1656.8
+IT,Marche,2020-01-01,Tertiary_financial,1639.0
+IT,Marche,2021-01-01,Tertiary_financial,1553.3
+IT,Marche,2022-01-01,Tertiary_financial,1547.4
+IT,Marche,2023-01-01,Tertiary_financial,1322.5
+IT,Molise,2015-01-01,Tertiary_financial,189.3
+IT,Molise,2016-01-01,Tertiary_financial,191.8
+IT,Molise,2017-01-01,Tertiary_financial,190.9
+IT,Molise,2018-01-01,Tertiary_financial,187.5
+IT,Molise,2019-01-01,Tertiary_financial,187.4
+IT,Molise,2020-01-01,Tertiary_financial,188.9
+IT,Molise,2021-01-01,Tertiary_financial,171.9
+IT,Molise,2022-01-01,Tertiary_financial,180.2
+IT,Molise,2023-01-01,Tertiary_financial,155.7
+IT,Piemonte,2015-01-01,Tertiary_financial,4816.1
+IT,Piemonte,2016-01-01,Tertiary_financial,4824.0
+IT,Piemonte,2017-01-01,Tertiary_financial,4998.9
+IT,Piemonte,2018-01-01,Tertiary_financial,5364.4
+IT,Piemonte,2019-01-01,Tertiary_financial,5754.0
+IT,Piemonte,2020-01-01,Tertiary_financial,5722.8
+IT,Piemonte,2021-01-01,Tertiary_financial,5773.9
+IT,Piemonte,2022-01-01,Tertiary_financial,5722.7
+IT,Piemonte,2023-01-01,Tertiary_financial,5329.8
+IT,Puglia,2015-01-01,Tertiary_financial,2692.7
+IT,Puglia,2016-01-01,Tertiary_financial,2676.0
+IT,Puglia,2017-01-01,Tertiary_financial,2664.1
+IT,Puglia,2018-01-01,Tertiary_financial,2646.2
+IT,Puglia,2019-01-01,Tertiary_financial,2640.7
+IT,Puglia,2020-01-01,Tertiary_financial,2608.2
+IT,Puglia,2021-01-01,Tertiary_financial,2456.8
+IT,Puglia,2022-01-01,Tertiary_financial,2479.1
+IT,Puglia,2023-01-01,Tertiary_financial,2182.7
+IT,Sardegna,2015-01-01,Tertiary_financial,1093.3
+IT,Sardegna,2016-01-01,Tertiary_financial,1061.0
+IT,Sardegna,2017-01-01,Tertiary_financial,1064.2
+IT,Sardegna,2018-01-01,Tertiary_financial,1064.3
+IT,Sardegna,2019-01-01,Tertiary_financial,1050.4
+IT,Sardegna,2020-01-01,Tertiary_financial,1094.1
+IT,Sardegna,2021-01-01,Tertiary_financial,1001.5
+IT,Sardegna,2022-01-01,Tertiary_financial,1010.2
+IT,Sardegna,2023-01-01,Tertiary_financial,912.6
+IT,Sicilia,2015-01-01,Tertiary_financial,2919.9
+IT,Sicilia,2016-01-01,Tertiary_financial,2878.8
+IT,Sicilia,2017-01-01,Tertiary_financial,2938.3
+IT,Sicilia,2018-01-01,Tertiary_financial,2783.8
+IT,Sicilia,2019-01-01,Tertiary_financial,2782.5
+IT,Sicilia,2020-01-01,Tertiary_financial,2775.7
+IT,Sicilia,2021-01-01,Tertiary_financial,2504.8
+IT,Sicilia,2022-01-01,Tertiary_financial,2589.8
+IT,Sicilia,2023-01-01,Tertiary_financial,2244.2
+IT,Toscana,2015-01-01,Tertiary_financial,5166.6
+IT,Toscana,2016-01-01,Tertiary_financial,5106.6
+IT,Toscana,2017-01-01,Tertiary_financial,5138.6
+IT,Toscana,2018-01-01,Tertiary_financial,5044.0
+IT,Toscana,2019-01-01,Tertiary_financial,4818.0
+IT,Toscana,2020-01-01,Tertiary_financial,4777.2
+IT,Toscana,2021-01-01,Tertiary_financial,4659.8
+IT,Toscana,2022-01-01,Tertiary_financial,4775.1
+IT,Toscana,2023-01-01,Tertiary_financial,4165.3
+IT,Trentino-Alto Adige/Südtirol,2015-01-01,Tertiary_financial,2387.2
+IT,Trentino-Alto Adige/Südtirol,2016-01-01,Tertiary_financial,2321.8
+IT,Trentino-Alto Adige/Südtirol,2017-01-01,Tertiary_financial,2292.1
+IT,Trentino-Alto Adige/Südtirol,2018-01-01,Tertiary_financial,2237.5
+IT,Trentino-Alto Adige/Südtirol,2019-01-01,Tertiary_financial,2301.1
+IT,Trentino-Alto Adige/Südtirol,2020-01-01,Tertiary_financial,2295.4
+IT,Trentino-Alto Adige/Südtirol,2021-01-01,Tertiary_financial,2290.5
+IT,Trentino-Alto Adige/Südtirol,2022-01-01,Tertiary_financial,2402.1
+IT,Trentino-Alto Adige/Südtirol,2023-01-01,Tertiary_financial,2314.0
+IT,Umbria,2015-01-01,Tertiary_financial,899.3
+IT,Umbria,2016-01-01,Tertiary_financial,897.4
+IT,Umbria,2017-01-01,Tertiary_financial,877.1
+IT,Umbria,2018-01-01,Tertiary_financial,882.6
+IT,Umbria,2019-01-01,Tertiary_financial,825.9
+IT,Umbria,2020-01-01,Tertiary_financial,810.1
+IT,Umbria,2021-01-01,Tertiary_financial,761.6
+IT,Umbria,2022-01-01,Tertiary_financial,772.1
+IT,Umbria,2023-01-01,Tertiary_financial,663.6
+IT,Valle d'Aosta/Vallée d'Aoste,2015-01-01,Tertiary_financial,181.4
+IT,Valle d'Aosta/Vallée d'Aoste,2016-01-01,Tertiary_financial,171.9
+IT,Valle d'Aosta/Vallée d'Aoste,2017-01-01,Tertiary_financial,175.5
+IT,Valle d'Aosta/Vallée d'Aoste,2018-01-01,Tertiary_financial,172.5
+IT,Valle d'Aosta/Vallée d'Aoste,2019-01-01,Tertiary_financial,172.4
+IT,Valle d'Aosta/Vallée d'Aoste,2020-01-01,Tertiary_financial,171.4
+IT,Valle d'Aosta/Vallée d'Aoste,2021-01-01,Tertiary_financial,164.8
+IT,Valle d'Aosta/Vallée d'Aoste,2022-01-01,Tertiary_financial,175.9
+IT,Valle d'Aosta/Vallée d'Aoste,2023-01-01,Tertiary_financial,171.5
+IT,Veneto,2015-01-01,Tertiary_financial,7258.0
+IT,Veneto,2016-01-01,Tertiary_financial,6986.0
+IT,Veneto,2017-01-01,Tertiary_financial,6669.8
+IT,Veneto,2018-01-01,Tertiary_financial,6624.3
+IT,Veneto,2019-01-01,Tertiary_financial,6555.7
+IT,Veneto,2020-01-01,Tertiary_financial,6528.7
+IT,Veneto,2021-01-01,Tertiary_financial,6191.6
+IT,Veneto,2022-01-01,Tertiary_financial,6305.6
+IT,Veneto,2023-01-01,Tertiary_financial,5729.4
+ES,Andalucía,2015-01-01,Tertiary_financial,4511.958
+ES,Andalucía,2016-01-01,Tertiary_financial,4650.965
+ES,Andalucía,2017-01-01,Tertiary_financial,4832.58
+ES,Andalucía,2018-01-01,Tertiary_financial,5318.836
+ES,Andalucía,2019-01-01,Tertiary_financial,5213.741
+ES,Andalucía,2020-01-01,Tertiary_financial,5475.196
+ES,Andalucía,2021-01-01,Tertiary_financial,5487.97
+ES,Andalucía,2022-01-01,Tertiary_financial,6274.076
+ES,Andalucía,2023-01-01,Tertiary_financial,8617.29
+ES,Andalucía,2024-01-01,Tertiary_financial,9340.696
+ES,Aragón,2015-01-01,Tertiary_financial,1079.599
+ES,Aragón,2016-01-01,Tertiary_financial,1114.415
+ES,Aragón,2017-01-01,Tertiary_financial,1162.049
+ES,Aragón,2018-01-01,Tertiary_financial,1293.802
+ES,Aragón,2019-01-01,Tertiary_financial,1248.733
+ES,Aragón,2020-01-01,Tertiary_financial,1312.834
+ES,Aragón,2021-01-01,Tertiary_financial,1314.598
+ES,Aragón,2022-01-01,Tertiary_financial,1509.818
+ES,Aragón,2023-01-01,Tertiary_financial,2048.348
+ES,Aragón,2024-01-01,Tertiary_financial,2232.356
+ES,Canarias,2015-01-01,Tertiary_financial,1031.437
+ES,Canarias,2016-01-01,Tertiary_financial,1062.661
+ES,Canarias,2017-01-01,Tertiary_financial,1107.866
+ES,Canarias,2018-01-01,Tertiary_financial,1224.271
+ES,Canarias,2019-01-01,Tertiary_financial,1198.089
+ES,Canarias,2020-01-01,Tertiary_financial,1263.054
+ES,Canarias,2021-01-01,Tertiary_financial,1270.453
+ES,Canarias,2022-01-01,Tertiary_financial,1464.192
+ES,Canarias,2023-01-01,Tertiary_financial,2065.002
+ES,Canarias,2024-01-01,Tertiary_financial,2257.276
+ES,Cantabria,2015-01-01,Tertiary_financial,350.377
+ES,Cantabria,2016-01-01,Tertiary_financial,358.665
+ES,Cantabria,2017-01-01,Tertiary_financial,375.681
+ES,Cantabria,2018-01-01,Tertiary_financial,413.098
+ES,Cantabria,2019-01-01,Tertiary_financial,406.356
+ES,Cantabria,2020-01-01,Tertiary_financial,425.42
+ES,Cantabria,2021-01-01,Tertiary_financial,431.156
+ES,Cantabria,2022-01-01,Tertiary_financial,493.297
+ES,Cantabria,2023-01-01,Tertiary_financial,689.68
+ES,Cantabria,2024-01-01,Tertiary_financial,747.745
+ES,Castilla y León,2015-01-01,Tertiary_financial,1641.217
+ES,Castilla y León,2016-01-01,Tertiary_financial,1675.288
+ES,Castilla y León,2017-01-01,Tertiary_financial,1744.221
+ES,Castilla y León,2018-01-01,Tertiary_financial,1922.566
+ES,Castilla y León,2019-01-01,Tertiary_financial,1885.109
+ES,Castilla y León,2020-01-01,Tertiary_financial,1973.638
+ES,Castilla y León,2021-01-01,Tertiary_financial,1971.388
+ES,Castilla y León,2022-01-01,Tertiary_financial,2268.224
+ES,Castilla y León,2023-01-01,Tertiary_financial,3204.535
+ES,Castilla y León,2024-01-01,Tertiary_financial,3495.664
+ES,Castilla-La Mancha,2015-01-01,Tertiary_financial,1148.806
+ES,Castilla-La Mancha,2016-01-01,Tertiary_financial,1178.407
+ES,Castilla-La Mancha,2017-01-01,Tertiary_financial,1230.39
+ES,Castilla-La Mancha,2018-01-01,Tertiary_financial,1361.145
+ES,Castilla-La Mancha,2019-01-01,Tertiary_financial,1337.399
+ES,Castilla-La Mancha,2020-01-01,Tertiary_financial,1403.436
+ES,Castilla-La Mancha,2021-01-01,Tertiary_financial,1419.023
+ES,Castilla-La Mancha,2022-01-01,Tertiary_financial,1613.548
+ES,Castilla-La Mancha,2023-01-01,Tertiary_financial,2243.252
+ES,Castilla-La Mancha,2024-01-01,Tertiary_financial,2433.507
+ES,Cataluña/Catalunya,2015-01-01,Tertiary_financial,6600.684
+ES,Cataluña/Catalunya,2016-01-01,Tertiary_financial,6775.799
+ES,Cataluña/Catalunya,2017-01-01,Tertiary_financial,7009.412
+ES,Cataluña/Catalunya,2018-01-01,Tertiary_financial,7692.195
+ES,Cataluña/Catalunya,2019-01-01,Tertiary_financial,7515.881
+ES,Cataluña/Catalunya,2020-01-01,Tertiary_financial,7960.409
+ES,Cataluña/Catalunya,2021-01-01,Tertiary_financial,8126.144
+ES,Cataluña/Catalunya,2022-01-01,Tertiary_financial,9339.223
+ES,Cataluña/Catalunya,2023-01-01,Tertiary_financial,12511.765
+ES,Cataluña/Catalunya,2024-01-01,Tertiary_financial,13678.2
+ES,Ciudad Autónoma de Ceuta,2015-01-01,Tertiary_financial,30.581
+ES,Ciudad Autónoma de Ceuta,2016-01-01,Tertiary_financial,31.434
+ES,Ciudad Autónoma de Ceuta,2017-01-01,Tertiary_financial,33.581
+ES,Ciudad Autónoma de Ceuta,2018-01-01,Tertiary_financial,37.336
+ES,Ciudad Autónoma de Ceuta,2019-01-01,Tertiary_financial,37.119
+ES,Ciudad Autónoma de Ceuta,2020-01-01,Tertiary_financial,39.002
+ES,Ciudad Autónoma de Ceuta,2021-01-01,Tertiary_financial,39.3
+ES,Ciudad Autónoma de Ceuta,2022-01-01,Tertiary_financial,45.225
+ES,Ciudad Autónoma de Ceuta,2023-01-01,Tertiary_financial,62.944
+ES,Ciudad Autónoma de Ceuta,2024-01-01,Tertiary_financial,67.96
+ES,Ciudad Autónoma de Melilla,2015-01-01,Tertiary_financial,26.815
+ES,Ciudad Autónoma de Melilla,2016-01-01,Tertiary_financial,27.973
+ES,Ciudad Autónoma de Melilla,2017-01-01,Tertiary_financial,29.472
+ES,Ciudad Autónoma de Melilla,2018-01-01,Tertiary_financial,33.57
+ES,Ciudad Autónoma de Melilla,2019-01-01,Tertiary_financial,32.35
+ES,Ciudad Autónoma de Melilla,2020-01-01,Tertiary_financial,34.66
+ES,Ciudad Autónoma de Melilla,2021-01-01,Tertiary_financial,34.528
+ES,Ciudad Autónoma de Melilla,2022-01-01,Tertiary_financial,40.638
+ES,Ciudad Autónoma de Melilla,2023-01-01,Tertiary_financial,57.309
+ES,Ciudad Autónoma de Melilla,2024-01-01,Tertiary_financial,62.893
+ES,Comunidad Foral de Navarra,2015-01-01,Tertiary_financial,488.781
+ES,Comunidad Foral de Navarra,2016-01-01,Tertiary_financial,507.771
+ES,Comunidad Foral de Navarra,2017-01-01,Tertiary_financial,530.697
+ES,Comunidad Foral de Navarra,2018-01-01,Tertiary_financial,587.48
+ES,Comunidad Foral de Navarra,2019-01-01,Tertiary_financial,576.165
+ES,Comunidad Foral de Navarra,2020-01-01,Tertiary_financial,607.173
+ES,Comunidad Foral de Navarra,2021-01-01,Tertiary_financial,605.293
+ES,Comunidad Foral de Navarra,2022-01-01,Tertiary_financial,696.096
+ES,Comunidad Foral de Navarra,2023-01-01,Tertiary_financial,985.26
+ES,Comunidad Foral de Navarra,2024-01-01,Tertiary_financial,1078.173
+ES,Comunidad de Madrid,2015-01-01,Tertiary_financial,10629.097
+ES,Comunidad de Madrid,2016-01-01,Tertiary_financial,11783.457
+ES,Comunidad de Madrid,2017-01-01,Tertiary_financial,12102.739
+ES,Comunidad de Madrid,2018-01-01,Tertiary_financial,13183.68
+ES,Comunidad de Madrid,2019-01-01,Tertiary_financial,13037.577
+ES,Comunidad de Madrid,2020-01-01,Tertiary_financial,13527.054
+ES,Comunidad de Madrid,2021-01-01,Tertiary_financial,13746.157
+ES,Comunidad de Madrid,2022-01-01,Tertiary_financial,15402.322
+ES,Comunidad de Madrid,2023-01-01,Tertiary_financial,21537.869
+ES,Comunidad de Madrid,2024-01-01,Tertiary_financial,23887.996
+ES,Comunitat Valenciana,2015-01-01,Tertiary_financial,3098.561
+ES,Comunitat Valenciana,2016-01-01,Tertiary_financial,3179.432
+ES,Comunitat Valenciana,2017-01-01,Tertiary_financial,3348.52
+ES,Comunitat Valenciana,2018-01-01,Tertiary_financial,3692.267
+ES,Comunitat Valenciana,2019-01-01,Tertiary_financial,3650.227
+ES,Comunitat Valenciana,2020-01-01,Tertiary_financial,3842.274
+ES,Comunitat Valenciana,2021-01-01,Tertiary_financial,3888.623
+ES,Comunitat Valenciana,2022-01-01,Tertiary_financial,4425.663
+ES,Comunitat Valenciana,2023-01-01,Tertiary_financial,6295.015
+ES,Comunitat Valenciana,2024-01-01,Tertiary_financial,6824.185
+ES,Extremadura,2015-01-01,Tertiary_financial,589.637
+ES,Extremadura,2016-01-01,Tertiary_financial,608.155
+ES,Extremadura,2017-01-01,Tertiary_financial,629.372
+ES,Extremadura,2018-01-01,Tertiary_financial,688.336
+ES,Extremadura,2019-01-01,Tertiary_financial,673.174
+ES,Extremadura,2020-01-01,Tertiary_financial,708.297
+ES,Extremadura,2021-01-01,Tertiary_financial,713.908
+ES,Extremadura,2022-01-01,Tertiary_financial,812.249
+ES,Extremadura,2023-01-01,Tertiary_financial,1115.062
+ES,Extremadura,2024-01-01,Tertiary_financial,1213.149
+ES,Galicia,2015-01-01,Tertiary_financial,1599.581
+ES,Galicia,2016-01-01,Tertiary_financial,1649.616
+ES,Galicia,2017-01-01,Tertiary_financial,1719.116
+ES,Galicia,2018-01-01,Tertiary_financial,1924.906
+ES,Galicia,2019-01-01,Tertiary_financial,1887.603
+ES,Galicia,2020-01-01,Tertiary_financial,1990.265
+ES,Galicia,2021-01-01,Tertiary_financial,2005.977
+ES,Galicia,2022-01-01,Tertiary_financial,2318.152
+ES,Galicia,2023-01-01,Tertiary_financial,3273.855
+ES,Galicia,2024-01-01,Tertiary_financial,3580.393
+ES,Illes Balears,2015-01-01,Tertiary_financial,788.834
+ES,Illes Balears,2016-01-01,Tertiary_financial,812.694
+ES,Illes Balears,2017-01-01,Tertiary_financial,875.164
+ES,Illes Balears,2018-01-01,Tertiary_financial,960.103
+ES,Illes Balears,2019-01-01,Tertiary_financial,948.781
+ES,Illes Balears,2020-01-01,Tertiary_financial,985.822
+ES,Illes Balears,2021-01-01,Tertiary_financial,994.322
+ES,Illes Balears,2022-01-01,Tertiary_financial,1152.149
+ES,Illes Balears,2023-01-01,Tertiary_financial,1648.642
+ES,Illes Balears,2024-01-01,Tertiary_financial,1799.804
+ES,La Rioja,2015-01-01,Tertiary_financial,225.36
+ES,La Rioja,2016-01-01,Tertiary_financial,232.971
+ES,La Rioja,2017-01-01,Tertiary_financial,245.46
+ES,La Rioja,2018-01-01,Tertiary_financial,271.52
+ES,La Rioja,2019-01-01,Tertiary_financial,267.473
+ES,La Rioja,2020-01-01,Tertiary_financial,280.339
+ES,La Rioja,2021-01-01,Tertiary_financial,279.175
+ES,La Rioja,2022-01-01,Tertiary_financial,319.998
+ES,La Rioja,2023-01-01,Tertiary_financial,449.997
+ES,La Rioja,2024-01-01,Tertiary_financial,484.108
+ES,País Vasco/Euskadi,2015-01-01,Tertiary_financial,1887.248
+ES,País Vasco/Euskadi,2016-01-01,Tertiary_financial,1938.875
+ES,País Vasco/Euskadi,2017-01-01,Tertiary_financial,2058.883
+ES,País Vasco/Euskadi,2018-01-01,Tertiary_financial,2267.445
+ES,País Vasco/Euskadi,2019-01-01,Tertiary_financial,2277.873
+ES,País Vasco/Euskadi,2020-01-01,Tertiary_financial,2392.042
+ES,País Vasco/Euskadi,2021-01-01,Tertiary_financial,2418.224
+ES,País Vasco/Euskadi,2022-01-01,Tertiary_financial,2763.217
+ES,País Vasco/Euskadi,2023-01-01,Tertiary_financial,4067.974
+ES,País Vasco/Euskadi,2024-01-01,Tertiary_financial,4436.022
+ES,Principado de Asturias,2015-01-01,Tertiary_financial,644.042
+ES,Principado de Asturias,2016-01-01,Tertiary_financial,660.375
+ES,Principado de Asturias,2017-01-01,Tertiary_financial,693.018
+ES,Principado de Asturias,2018-01-01,Tertiary_financial,759.21
+ES,Principado de Asturias,2019-01-01,Tertiary_financial,763.271
+ES,Principado de Asturias,2020-01-01,Tertiary_financial,799.241
+ES,Principado de Asturias,2021-01-01,Tertiary_financial,809.349
+ES,Principado de Asturias,2022-01-01,Tertiary_financial,931.116
+ES,Principado de Asturias,2023-01-01,Tertiary_financial,1343.862
+ES,Principado de Asturias,2024-01-01,Tertiary_financial,1446.759
+ES,Región de Murcia,2015-01-01,Tertiary_financial,765.385
+ES,Región de Murcia,2016-01-01,Tertiary_financial,787.047
+ES,Región de Murcia,2017-01-01,Tertiary_financial,822.779
+ES,Región de Murcia,2018-01-01,Tertiary_financial,907.234
+ES,Región de Murcia,2019-01-01,Tertiary_financial,894.079
+ES,Región de Murcia,2020-01-01,Tertiary_financial,944.844
+ES,Región de Murcia,2021-01-01,Tertiary_financial,949.412
+ES,Región de Murcia,2022-01-01,Tertiary_financial,1078.797
+ES,Región de Murcia,2023-01-01,Tertiary_financial,1512.339
+ES,Región de Murcia,2024-01-01,Tertiary_financial,1656.114
+IT,Abruzzo,2015-01-01,Public,4883.9
+IT,Abruzzo,2016-01-01,Public,4820.700000000001
+IT,Abruzzo,2017-01-01,Public,4720.2
+IT,Abruzzo,2018-01-01,Public,4678.8
+IT,Abruzzo,2019-01-01,Public,4587.8
+IT,Abruzzo,2020-01-01,Public,4473.3
+IT,Abruzzo,2021-01-01,Public,4681.299999999999
+IT,Abruzzo,2022-01-01,Public,4756.2
+IT,Abruzzo,2023-01-01,Public,4803.700000000001
+IT,Basilicata,2015-01-01,Public,1925.5
+IT,Basilicata,2016-01-01,Public,1890.2
+IT,Basilicata,2017-01-01,Public,1882.6999999999998
+IT,Basilicata,2018-01-01,Public,1844.4
+IT,Basilicata,2019-01-01,Public,1856.7
+IT,Basilicata,2020-01-01,Public,1726.6999999999998
+IT,Basilicata,2021-01-01,Public,1773.0
+IT,Basilicata,2022-01-01,Public,1823.4
+IT,Basilicata,2023-01-01,Public,1800.5
+IT,Calabria,2015-01-01,Public,6906.9
+IT,Calabria,2016-01-01,Public,6833.7
+IT,Calabria,2017-01-01,Public,6808.5
+IT,Calabria,2018-01-01,Public,6742.7
+IT,Calabria,2019-01-01,Public,6657.0
+IT,Calabria,2020-01-01,Public,6082.1
+IT,Calabria,2021-01-01,Public,6336.0
+IT,Calabria,2022-01-01,Public,6533.0
+IT,Calabria,2023-01-01,Public,6548.3
+IT,Campania,2015-01-01,Public,16905.0
+IT,Campania,2016-01-01,Public,16619.5
+IT,Campania,2017-01-01,Public,16483.4
+IT,Campania,2018-01-01,Public,16332.5
+IT,Campania,2019-01-01,Public,16214.699999999999
+IT,Campania,2020-01-01,Public,15238.0
+IT,Campania,2021-01-01,Public,15958.6
+IT,Campania,2022-01-01,Public,16339.6
+IT,Campania,2023-01-01,Public,16753.9
+IT,Emilia-Romagna,2015-01-01,Public,14245.2
+IT,Emilia-Romagna,2016-01-01,Public,14147.7
+IT,Emilia-Romagna,2017-01-01,Public,14162.0
+IT,Emilia-Romagna,2018-01-01,Public,14086.0
+IT,Emilia-Romagna,2019-01-01,Public,14172.3
+IT,Emilia-Romagna,2020-01-01,Public,13558.5
+IT,Emilia-Romagna,2021-01-01,Public,14670.7
+IT,Emilia-Romagna,2022-01-01,Public,14843.7
+IT,Emilia-Romagna,2023-01-01,Public,14966.199999999999
+IT,Friuli-Venezia Giulia,2015-01-01,Public,5504.5
+IT,Friuli-Venezia Giulia,2016-01-01,Public,5495.799999999999
+IT,Friuli-Venezia Giulia,2017-01-01,Public,5533.2
+IT,Friuli-Venezia Giulia,2018-01-01,Public,5522.1
+IT,Friuli-Venezia Giulia,2019-01-01,Public,5367.1
+IT,Friuli-Venezia Giulia,2020-01-01,Public,5148.4
+IT,Friuli-Venezia Giulia,2021-01-01,Public,5307.7
+IT,Friuli-Venezia Giulia,2022-01-01,Public,5296.3
+IT,Friuli-Venezia Giulia,2023-01-01,Public,5386.1
+IT,Lazio,2015-01-01,Public,30931.899999999998
+IT,Lazio,2016-01-01,Public,30805.800000000003
+IT,Lazio,2017-01-01,Public,30631.699999999997
+IT,Lazio,2018-01-01,Public,30218.6
+IT,Lazio,2019-01-01,Public,30075.7
+IT,Lazio,2020-01-01,Public,29130.300000000003
+IT,Lazio,2021-01-01,Public,30252.9
+IT,Lazio,2022-01-01,Public,30460.2
+IT,Lazio,2023-01-01,Public,30794.6
+IT,Liguria,2015-01-01,Public,6667.8
+IT,Liguria,2016-01-01,Public,6592.2
+IT,Liguria,2017-01-01,Public,6549.5
+IT,Liguria,2018-01-01,Public,6470.6
+IT,Liguria,2019-01-01,Public,6463.8
+IT,Liguria,2020-01-01,Public,6054.4
+IT,Liguria,2021-01-01,Public,6255.3
+IT,Liguria,2022-01-01,Public,6365.799999999999
+IT,Liguria,2023-01-01,Public,6395.9
+IT,Lombardia,2015-01-01,Public,30115.3
+IT,Lombardia,2016-01-01,Public,29798.0
+IT,Lombardia,2017-01-01,Public,29575.1
+IT,Lombardia,2018-01-01,Public,29616.9
+IT,Lombardia,2019-01-01,Public,29198.0
+IT,Lombardia,2020-01-01,Public,27677.8
+IT,Lombardia,2021-01-01,Public,29488.5
+IT,Lombardia,2022-01-01,Public,30159.5
+IT,Lombardia,2023-01-01,Public,30097.199999999997
+IT,Marche,2015-01-01,Public,4676.4
+IT,Marche,2016-01-01,Public,4652.0
+IT,Marche,2017-01-01,Public,4705.0
+IT,Marche,2018-01-01,Public,4690.299999999999
+IT,Marche,2019-01-01,Public,4657.5
+IT,Marche,2020-01-01,Public,4397.6
+IT,Marche,2021-01-01,Public,4627.2
+IT,Marche,2022-01-01,Public,4671.6
+IT,Marche,2023-01-01,Public,4824.5
+IT,Molise,2015-01-01,Public,1278.9
+IT,Molise,2016-01-01,Public,1232.5
+IT,Molise,2017-01-01,Public,1239.6
+IT,Molise,2018-01-01,Public,1235.1
+IT,Molise,2019-01-01,Public,1256.4
+IT,Molise,2020-01-01,Public,1168.7
+IT,Molise,2021-01-01,Public,1191.5
+IT,Molise,2022-01-01,Public,1237.6999999999998
+IT,Molise,2023-01-01,Public,1229.6
+IT,Piemonte,2015-01-01,Public,13578.2
+IT,Piemonte,2016-01-01,Public,13421.8
+IT,Piemonte,2017-01-01,Public,13491.3
+IT,Piemonte,2018-01-01,Public,13504.3
+IT,Piemonte,2019-01-01,Public,13290.2
+IT,Piemonte,2020-01-01,Public,12658.3
+IT,Piemonte,2021-01-01,Public,13302.0
+IT,Piemonte,2022-01-01,Public,13487.5
+IT,Piemonte,2023-01-01,Public,13572.8
+IT,Puglia,2015-01-01,Public,12471.0
+IT,Puglia,2016-01-01,Public,12350.4
+IT,Puglia,2017-01-01,Public,12365.7
+IT,Puglia,2018-01-01,Public,12279.2
+IT,Puglia,2019-01-01,Public,12230.1
+IT,Puglia,2020-01-01,Public,11811.5
+IT,Puglia,2021-01-01,Public,12469.0
+IT,Puglia,2022-01-01,Public,12828.599999999999
+IT,Puglia,2023-01-01,Public,12956.7
+IT,Sardegna,2015-01-01,Public,6975.1
+IT,Sardegna,2016-01-01,Public,6871.4
+IT,Sardegna,2017-01-01,Public,6839.8
+IT,Sardegna,2018-01-01,Public,6791.7
+IT,Sardegna,2019-01-01,Public,6802.200000000001
+IT,Sardegna,2020-01-01,Public,6500.299999999999
+IT,Sardegna,2021-01-01,Public,6814.6
+IT,Sardegna,2022-01-01,Public,6953.5
+IT,Sardegna,2023-01-01,Public,7018.4
+IT,Sicilia,2015-01-01,Public,17670.5
+IT,Sicilia,2016-01-01,Public,17434.8
+IT,Sicilia,2017-01-01,Public,17455.6
+IT,Sicilia,2018-01-01,Public,17157.1
+IT,Sicilia,2019-01-01,Public,16832.6
+IT,Sicilia,2020-01-01,Public,16216.4
+IT,Sicilia,2021-01-01,Public,17047.800000000003
+IT,Sicilia,2022-01-01,Public,17732.1
+IT,Sicilia,2023-01-01,Public,17863.7
+IT,Toscana,2015-01-01,Public,13012.900000000001
+IT,Toscana,2016-01-01,Public,12881.7
+IT,Toscana,2017-01-01,Public,12897.8
+IT,Toscana,2018-01-01,Public,12877.900000000001
+IT,Toscana,2019-01-01,Public,12664.2
+IT,Toscana,2020-01-01,Public,12250.900000000001
+IT,Toscana,2021-01-01,Public,12855.1
+IT,Toscana,2022-01-01,Public,12959.5
+IT,Toscana,2023-01-01,Public,13041.0
+IT,Trentino-Alto Adige/Südtirol,2015-01-01,Public,6042.299999999999
+IT,Trentino-Alto Adige/Südtirol,2016-01-01,Public,6634.299999999999
+IT,Trentino-Alto Adige/Südtirol,2017-01-01,Public,6611.4
+IT,Trentino-Alto Adige/Südtirol,2018-01-01,Public,6572.2
+IT,Trentino-Alto Adige/Südtirol,2019-01-01,Public,6371.4
+IT,Trentino-Alto Adige/Südtirol,2020-01-01,Public,6220.4
+IT,Trentino-Alto Adige/Südtirol,2021-01-01,Public,6453.700000000001
+IT,Trentino-Alto Adige/Südtirol,2022-01-01,Public,6324.5
+IT,Trentino-Alto Adige/Südtirol,2023-01-01,Public,6636.9
+IT,Umbria,2015-01-01,Public,2929.7
+IT,Umbria,2016-01-01,Public,2909.8
+IT,Umbria,2017-01-01,Public,2891.8
+IT,Umbria,2018-01-01,Public,2879.4
+IT,Umbria,2019-01-01,Public,2832.8
+IT,Umbria,2020-01-01,Public,2659.2
+IT,Umbria,2021-01-01,Public,2824.0
+IT,Umbria,2022-01-01,Public,2855.2
+IT,Umbria,2023-01-01,Public,2845.7
+IT,Valle d'Aosta/Vallée d'Aoste,2015-01-01,Public,901.0
+IT,Valle d'Aosta/Vallée d'Aoste,2016-01-01,Public,918.5
+IT,Valle d'Aosta/Vallée d'Aoste,2017-01-01,Public,906.5
+IT,Valle d'Aosta/Vallée d'Aoste,2018-01-01,Public,904.9000000000001
+IT,Valle d'Aosta/Vallée d'Aoste,2019-01-01,Public,848.5
+IT,Valle d'Aosta/Vallée d'Aoste,2020-01-01,Public,807.7
+IT,Valle d'Aosta/Vallée d'Aoste,2021-01-01,Public,840.8
+IT,Valle d'Aosta/Vallée d'Aoste,2022-01-01,Public,833.4
+IT,Valle d'Aosta/Vallée d'Aoste,2023-01-01,Public,830.7
+IT,Veneto,2015-01-01,Public,14550.5
+IT,Veneto,2016-01-01,Public,14567.599999999999
+IT,Veneto,2017-01-01,Public,14579.4
+IT,Veneto,2018-01-01,Public,14321.0
+IT,Veneto,2019-01-01,Public,14202.099999999999
+IT,Veneto,2020-01-01,Public,13833.400000000001
+IT,Veneto,2021-01-01,Public,14414.599999999999
+IT,Veneto,2022-01-01,Public,14616.400000000001
+IT,Veneto,2023-01-01,Public,14957.3
+ES,Andalucía,2015-01-01,Public,28997.932
+ES,Andalucía,2016-01-01,Public,29662.492
+ES,Andalucía,2017-01-01,Public,30245.583
+ES,Andalucía,2018-01-01,Public,31195.711
+ES,Andalucía,2019-01-01,Public,32307.954
+ES,Andalucía,2020-01-01,Public,32543.736
+ES,Andalucía,2021-01-01,Public,33878.924
+ES,Andalucía,2022-01-01,Public,35665.99
+ES,Andalucía,2023-01-01,Public,37714.243
+ES,Andalucía,2024-01-01,Public,39608.478
+ES,Aragón,2015-01-01,Public,5812.818
+ES,Aragón,2016-01-01,Public,5911.778
+ES,Aragón,2017-01-01,Public,6061.208
+ES,Aragón,2018-01-01,Public,6303.64
+ES,Aragón,2019-01-01,Public,6460.064
+ES,Aragón,2020-01-01,Public,6571.035
+ES,Aragón,2021-01-01,Public,6740.401
+ES,Aragón,2022-01-01,Public,7095.748
+ES,Aragón,2023-01-01,Public,7478.747
+ES,Aragón,2024-01-01,Public,7987.241
+ES,Canarias,2015-01-01,Public,7746.075
+ES,Canarias,2016-01-01,Public,7874.991
+ES,Canarias,2017-01-01,Public,8002.508
+ES,Canarias,2018-01-01,Public,8256.105
+ES,Canarias,2019-01-01,Public,8685.868
+ES,Canarias,2020-01-01,Public,8953.165
+ES,Canarias,2021-01-01,Public,9479.358
+ES,Canarias,2022-01-01,Public,10045.421
+ES,Canarias,2023-01-01,Public,10675.62
+ES,Canarias,2024-01-01,Public,11326.017
+ES,Cantabria,2015-01-01,Public,2167.423
+ES,Cantabria,2016-01-01,Public,2228.754
+ES,Cantabria,2017-01-01,Public,2243.025
+ES,Cantabria,2018-01-01,Public,2354.701
+ES,Cantabria,2019-01-01,Public,2486.082
+ES,Cantabria,2020-01-01,Public,2466.039
+ES,Cantabria,2021-01-01,Public,2521.211
+ES,Cantabria,2022-01-01,Public,2643.387
+ES,Cantabria,2023-01-01,Public,2801.696
+ES,Cantabria,2024-01-01,Public,2977.131
+ES,Castilla y León,2015-01-01,Public,10616.193
+ES,Castilla y León,2016-01-01,Public,10711.625
+ES,Castilla y León,2017-01-01,Public,11045.114
+ES,Castilla y León,2018-01-01,Public,11337.598
+ES,Castilla y León,2019-01-01,Public,11744.522
+ES,Castilla y León,2020-01-01,Public,11504.815
+ES,Castilla y León,2021-01-01,Public,11548.576
+ES,Castilla y León,2022-01-01,Public,12106.591
+ES,Castilla y León,2023-01-01,Public,12945.733
+ES,Castilla y León,2024-01-01,Public,13631.69
+ES,Castilla-La Mancha,2015-01-01,Public,7033.843
+ES,Castilla-La Mancha,2016-01-01,Public,7098.906
+ES,Castilla-La Mancha,2017-01-01,Public,7351.156
+ES,Castilla-La Mancha,2018-01-01,Public,7567.058
+ES,Castilla-La Mancha,2019-01-01,Public,7876.385
+ES,Castilla-La Mancha,2020-01-01,Public,7980.435
+ES,Castilla-La Mancha,2021-01-01,Public,8276.901
+ES,Castilla-La Mancha,2022-01-01,Public,8714.46
+ES,Castilla-La Mancha,2023-01-01,Public,9323.009
+ES,Castilla-La Mancha,2024-01-01,Public,9658.641
+ES,Cataluña/Catalunya,2015-01-01,Public,27706.097
+ES,Cataluña/Catalunya,2016-01-01,Public,29002.915
+ES,Cataluña/Catalunya,2017-01-01,Public,30179.347
+ES,Cataluña/Catalunya,2018-01-01,Public,31247.756
+ES,Cataluña/Catalunya,2019-01-01,Public,32935.599
+ES,Cataluña/Catalunya,2020-01-01,Public,33466.009
+ES,Cataluña/Catalunya,2021-01-01,Public,33804.512
+ES,Cataluña/Catalunya,2022-01-01,Public,34999.075
+ES,Cataluña/Catalunya,2023-01-01,Public,37636.138
+ES,Cataluña/Catalunya,2024-01-01,Public,40612.362
+ES,Ciudad Autónoma de Ceuta,2015-01-01,Public,688.022
+ES,Ciudad Autónoma de Ceuta,2016-01-01,Public,700.031
+ES,Ciudad Autónoma de Ceuta,2017-01-01,Public,694.997
+ES,Ciudad Autónoma de Ceuta,2018-01-01,Public,718.291
+ES,Ciudad Autónoma de Ceuta,2019-01-01,Public,749.306
+ES,Ciudad Autónoma de Ceuta,2020-01-01,Public,750.547
+ES,Ciudad Autónoma de Ceuta,2021-01-01,Public,775.556
+ES,Ciudad Autónoma de Ceuta,2022-01-01,Public,800.353
+ES,Ciudad Autónoma de Ceuta,2023-01-01,Public,824.569
+ES,Ciudad Autónoma de Ceuta,2024-01-01,Public,839.907
+ES,Ciudad Autónoma de Melilla,2015-01-01,Public,649.115
+ES,Ciudad Autónoma de Melilla,2016-01-01,Public,658.517
+ES,Ciudad Autónoma de Melilla,2017-01-01,Public,648.37
+ES,Ciudad Autónoma de Melilla,2018-01-01,Public,670.555
+ES,Ciudad Autónoma de Melilla,2019-01-01,Public,698.265
+ES,Ciudad Autónoma de Melilla,2020-01-01,Public,702.602
+ES,Ciudad Autónoma de Melilla,2021-01-01,Public,727.908
+ES,Ciudad Autónoma de Melilla,2022-01-01,Public,743.301
+ES,Ciudad Autónoma de Melilla,2023-01-01,Public,766.618
+ES,Ciudad Autónoma de Melilla,2024-01-01,Public,786.447
+ES,Comunidad Foral de Navarra,2015-01-01,Public,2677.892
+ES,Comunidad Foral de Navarra,2016-01-01,Public,2687.733
+ES,Comunidad Foral de Navarra,2017-01-01,Public,2798.645
+ES,Comunidad Foral de Navarra,2018-01-01,Public,2897.189
+ES,Comunidad Foral de Navarra,2019-01-01,Public,3029.793
+ES,Comunidad Foral de Navarra,2020-01-01,Public,3084.229
+ES,Comunidad Foral de Navarra,2021-01-01,Public,3187.01
+ES,Comunidad Foral de Navarra,2022-01-01,Public,3316.5
+ES,Comunidad Foral de Navarra,2023-01-01,Public,3619.382
+ES,Comunidad Foral de Navarra,2024-01-01,Public,3926.034
+ES,Comunidad de Madrid,2015-01-01,Public,29420.435
+ES,Comunidad de Madrid,2016-01-01,Public,30187.216
+ES,Comunidad de Madrid,2017-01-01,Public,30753.445
+ES,Comunidad de Madrid,2018-01-01,Public,31334.508
+ES,Comunidad de Madrid,2019-01-01,Public,33199.309
+ES,Comunidad de Madrid,2020-01-01,Public,33496.896
+ES,Comunidad de Madrid,2021-01-01,Public,34421.531
+ES,Comunidad de Madrid,2022-01-01,Public,35970.015
+ES,Comunidad de Madrid,2023-01-01,Public,38292.659
+ES,Comunidad de Madrid,2024-01-01,Public,42303.762
+ES,Comunitat Valenciana,2015-01-01,Public,16469.499
+ES,Comunitat Valenciana,2016-01-01,Public,16955.849
+ES,Comunitat Valenciana,2017-01-01,Public,17171.329
+ES,Comunitat Valenciana,2018-01-01,Public,17891.537
+ES,Comunitat Valenciana,2019-01-01,Public,18412.28
+ES,Comunitat Valenciana,2020-01-01,Public,18399.139
+ES,Comunitat Valenciana,2021-01-01,Public,19040.428
+ES,Comunitat Valenciana,2022-01-01,Public,19975.636
+ES,Comunitat Valenciana,2023-01-01,Public,21502.831
+ES,Comunitat Valenciana,2024-01-01,Public,23020.687
+ES,Extremadura,2015-01-01,Public,4509.366
+ES,Extremadura,2016-01-01,Public,4545.2
+ES,Extremadura,2017-01-01,Public,4564.404
+ES,Extremadura,2018-01-01,Public,4736.733
+ES,Extremadura,2019-01-01,Public,4954.273
+ES,Extremadura,2020-01-01,Public,5011.898
+ES,Extremadura,2021-01-01,Public,4996.189
+ES,Extremadura,2022-01-01,Public,5380.167
+ES,Extremadura,2023-01-01,Public,5717.014
+ES,Extremadura,2024-01-01,Public,5955.692
+ES,Galicia,2015-01-01,Public,9767.794
+ES,Galicia,2016-01-01,Public,9878.731
+ES,Galicia,2017-01-01,Public,10087.015
+ES,Galicia,2018-01-01,Public,10389.941
+ES,Galicia,2019-01-01,Public,10833.819
+ES,Galicia,2020-01-01,Public,11056.842
+ES,Galicia,2021-01-01,Public,11290.147
+ES,Galicia,2022-01-01,Public,11678.437
+ES,Galicia,2023-01-01,Public,12371.396
+ES,Galicia,2024-01-01,Public,12925.474
+ES,Illes Balears,2015-01-01,Public,3881.798
+ES,Illes Balears,2016-01-01,Public,4003.767
+ES,Illes Balears,2017-01-01,Public,4152.141
+ES,Illes Balears,2018-01-01,Public,4242.661
+ES,Illes Balears,2019-01-01,Public,4484.977
+ES,Illes Balears,2020-01-01,Public,4612.847
+ES,Illes Balears,2021-01-01,Public,4787.897
+ES,Illes Balears,2022-01-01,Public,5004.278
+ES,Illes Balears,2023-01-01,Public,5629.422
+ES,Illes Balears,2024-01-01,Public,5926.347
+ES,La Rioja,2015-01-01,Public,1225.754
+ES,La Rioja,2016-01-01,Public,1261.014
+ES,La Rioja,2017-01-01,Public,1292.75
+ES,La Rioja,2018-01-01,Public,1324.399
+ES,La Rioja,2019-01-01,Public,1444.27
+ES,La Rioja,2020-01-01,Public,1473.387
+ES,La Rioja,2021-01-01,Public,1493.272
+ES,La Rioja,2022-01-01,Public,1552.408
+ES,La Rioja,2023-01-01,Public,1746.676
+ES,La Rioja,2024-01-01,Public,1835.275
+ES,País Vasco/Euskadi,2015-01-01,Public,10259.436
+ES,País Vasco/Euskadi,2016-01-01,Public,10525.895
+ES,País Vasco/Euskadi,2017-01-01,Public,10886.672
+ES,País Vasco/Euskadi,2018-01-01,Public,11016.345
+ES,País Vasco/Euskadi,2019-01-01,Public,11672.636
+ES,País Vasco/Euskadi,2020-01-01,Public,11494.323
+ES,País Vasco/Euskadi,2021-01-01,Public,11876.08
+ES,País Vasco/Euskadi,2022-01-01,Public,12583.128
+ES,País Vasco/Euskadi,2023-01-01,Public,13334.535
+ES,País Vasco/Euskadi,2024-01-01,Public,14470.634
+ES,Principado de Asturias,2015-01-01,Public,3893.536
+ES,Principado de Asturias,2016-01-01,Public,3890.924
+ES,Principado de Asturias,2017-01-01,Public,4007.77
+ES,Principado de Asturias,2018-01-01,Public,4076.947
+ES,Principado de Asturias,2019-01-01,Public,4184.582
+ES,Principado de Asturias,2020-01-01,Public,4245.109
+ES,Principado de Asturias,2021-01-01,Public,4320.741
+ES,Principado de Asturias,2022-01-01,Public,4502.767
+ES,Principado de Asturias,2023-01-01,Public,4763.553
+ES,Principado de Asturias,2024-01-01,Public,5067.582
+ES,Región de Murcia,2015-01-01,Public,5198.24
+ES,Región de Murcia,2016-01-01,Public,5333.3
+ES,Región de Murcia,2017-01-01,Public,5466.307
+ES,Región de Murcia,2018-01-01,Public,5548.84
+ES,Región de Murcia,2019-01-01,Public,5654.399
+ES,Región de Murcia,2020-01-01,Public,5736.877
+ES,Región de Murcia,2021-01-01,Public,6038.382
+ES,Región de Murcia,2022-01-01,Public,6328.302
+ES,Región de Murcia,2023-01-01,Public,6562.904
+ES,Región de Murcia,2024-01-01,Public,7255.657
+IT,Abruzzo,2015-01-01,Other,3712.0
+IT,Abruzzo,2016-01-01,Other,3692.4
+IT,Abruzzo,2017-01-01,Other,3741.3
+IT,Abruzzo,2018-01-01,Other,3710.2000000000003
+IT,Abruzzo,2019-01-01,Other,3593.1
+IT,Abruzzo,2020-01-01,Other,3506.3
+IT,Abruzzo,2021-01-01,Other,3777.2999999999997
+IT,Abruzzo,2022-01-01,Other,4085.0999999999995
+IT,Abruzzo,2023-01-01,Other,4287.5
+IT,Basilicata,2015-01-01,Other,1494.4
+IT,Basilicata,2016-01-01,Other,1478.8
+IT,Basilicata,2017-01-01,Other,1503.8000000000002
+IT,Basilicata,2018-01-01,Other,1485.9
+IT,Basilicata,2019-01-01,Other,1457.0
+IT,Basilicata,2020-01-01,Other,1427.3999999999999
+IT,Basilicata,2021-01-01,Other,1514.6
+IT,Basilicata,2022-01-01,Other,1600.3000000000002
+IT,Basilicata,2023-01-01,Other,1704.6
+IT,Calabria,2015-01-01,Other,4604.4
+IT,Calabria,2016-01-01,Other,4576.6
+IT,Calabria,2017-01-01,Other,4564.9
+IT,Calabria,2018-01-01,Other,4585.4
+IT,Calabria,2019-01-01,Other,4429.5
+IT,Calabria,2020-01-01,Other,4248.0
+IT,Calabria,2021-01-01,Other,4502.1
+IT,Calabria,2022-01-01,Other,4654.6
+IT,Calabria,2023-01-01,Other,4834.1
+IT,Campania,2015-01-01,Other,15285.5
+IT,Campania,2016-01-01,Other,15366.0
+IT,Campania,2017-01-01,Other,15544.400000000001
+IT,Campania,2018-01-01,Other,15368.8
+IT,Campania,2019-01-01,Other,15332.2
+IT,Campania,2020-01-01,Other,14528.8
+IT,Campania,2021-01-01,Other,15392.7
+IT,Campania,2022-01-01,Other,16472.3
+IT,Campania,2023-01-01,Other,17267.0
+IT,Emilia-Romagna,2015-01-01,Other,15556.7
+IT,Emilia-Romagna,2016-01-01,Other,15889.3
+IT,Emilia-Romagna,2017-01-01,Other,16292.2
+IT,Emilia-Romagna,2018-01-01,Other,16494.800000000003
+IT,Emilia-Romagna,2019-01-01,Other,16425.5
+IT,Emilia-Romagna,2020-01-01,Other,16069.1
+IT,Emilia-Romagna,2021-01-01,Other,16636.5
+IT,Emilia-Romagna,2022-01-01,Other,18190.800000000003
+IT,Emilia-Romagna,2023-01-01,Other,18938.0
+IT,Friuli-Venezia Giulia,2015-01-01,Other,3994.1000000000004
+IT,Friuli-Venezia Giulia,2016-01-01,Other,4041.5
+IT,Friuli-Venezia Giulia,2017-01-01,Other,4065.8999999999996
+IT,Friuli-Venezia Giulia,2018-01-01,Other,4100.0
+IT,Friuli-Venezia Giulia,2019-01-01,Other,4070.6
+IT,Friuli-Venezia Giulia,2020-01-01,Other,4009.0
+IT,Friuli-Venezia Giulia,2021-01-01,Other,4185.0
+IT,Friuli-Venezia Giulia,2022-01-01,Other,4405.0
+IT,Friuli-Venezia Giulia,2023-01-01,Other,4611.7
+IT,Lazio,2015-01-01,Other,26320.199999999997
+IT,Lazio,2016-01-01,Other,27838.800000000003
+IT,Lazio,2017-01-01,Other,27648.899999999998
+IT,Lazio,2018-01-01,Other,27829.0
+IT,Lazio,2019-01-01,Other,27809.899999999998
+IT,Lazio,2020-01-01,Other,26529.6
+IT,Lazio,2021-01-01,Other,27856.4
+IT,Lazio,2022-01-01,Other,30116.5
+IT,Lazio,2023-01-01,Other,31987.0
+IT,Liguria,2015-01-01,Other,5349.4
+IT,Liguria,2016-01-01,Other,5458.9
+IT,Liguria,2017-01-01,Other,5553.7
+IT,Liguria,2018-01-01,Other,5490.400000000001
+IT,Liguria,2019-01-01,Other,5337.0
+IT,Liguria,2020-01-01,Other,5170.299999999999
+IT,Liguria,2021-01-01,Other,5469.5
+IT,Liguria,2022-01-01,Other,5755.2
+IT,Liguria,2023-01-01,Other,6037.200000000001
+IT,Lombardia,2015-01-01,Other,43398.700000000004
+IT,Lombardia,2016-01-01,Other,45026.600000000006
+IT,Lombardia,2017-01-01,Other,45946.3
+IT,Lombardia,2018-01-01,Other,48030.200000000004
+IT,Lombardia,2019-01-01,Other,47732.1
+IT,Lombardia,2020-01-01,Other,46640.7
+IT,Lombardia,2021-01-01,Other,48971.1
+IT,Lombardia,2022-01-01,Other,54924.7
+IT,Lombardia,2023-01-01,Other,57113.4
+IT,Marche,2015-01-01,Other,4568.6
+IT,Marche,2016-01-01,Other,4687.7
+IT,Marche,2017-01-01,Other,4730.6
+IT,Marche,2018-01-01,Other,4809.700000000001
+IT,Marche,2019-01-01,Other,4705.0
+IT,Marche,2020-01-01,Other,4682.9
+IT,Marche,2021-01-01,Other,4934.799999999999
+IT,Marche,2022-01-01,Other,5156.2
+IT,Marche,2023-01-01,Other,5450.0
+IT,Molise,2015-01-01,Other,766.5
+IT,Molise,2016-01-01,Other,754.8
+IT,Molise,2017-01-01,Other,768.6
+IT,Molise,2018-01-01,Other,763.5999999999999
+IT,Molise,2019-01-01,Other,743.5
+IT,Molise,2020-01-01,Other,719.6
+IT,Molise,2021-01-01,Other,766.1
+IT,Molise,2022-01-01,Other,830.0
+IT,Molise,2023-01-01,Other,872.7
+IT,Piemonte,2015-01-01,Other,14888.599999999999
+IT,Piemonte,2016-01-01,Other,14862.6
+IT,Piemonte,2017-01-01,Other,15190.300000000001
+IT,Piemonte,2018-01-01,Other,15425.5
+IT,Piemonte,2019-01-01,Other,15202.5
+IT,Piemonte,2020-01-01,Other,14867.8
+IT,Piemonte,2021-01-01,Other,15123.4
+IT,Piemonte,2022-01-01,Other,15879.2
+IT,Piemonte,2023-01-01,Other,16680.8
+IT,Puglia,2015-01-01,Other,9566.6
+IT,Puglia,2016-01-01,Other,9572.5
+IT,Puglia,2017-01-01,Other,9603.7
+IT,Puglia,2018-01-01,Other,9510.3
+IT,Puglia,2019-01-01,Other,9304.099999999999
+IT,Puglia,2020-01-01,Other,8975.8
+IT,Puglia,2021-01-01,Other,9630.099999999999
+IT,Puglia,2022-01-01,Other,10153.4
+IT,Puglia,2023-01-01,Other,10567.3
+IT,Sardegna,2015-01-01,Other,4265.4
+IT,Sardegna,2016-01-01,Other,4285.7
+IT,Sardegna,2017-01-01,Other,4311.5
+IT,Sardegna,2018-01-01,Other,4333.400000000001
+IT,Sardegna,2019-01-01,Other,4353.3
+IT,Sardegna,2020-01-01,Other,4301.3
+IT,Sardegna,2021-01-01,Other,4434.799999999999
+IT,Sardegna,2022-01-01,Other,4657.6
+IT,Sardegna,2023-01-01,Other,4781.4
+IT,Sicilia,2015-01-01,Other,12116.8
+IT,Sicilia,2016-01-01,Other,12071.099999999999
+IT,Sicilia,2017-01-01,Other,12030.5
+IT,Sicilia,2018-01-01,Other,11872.0
+IT,Sicilia,2019-01-01,Other,11684.3
+IT,Sicilia,2020-01-01,Other,11117.599999999999
+IT,Sicilia,2021-01-01,Other,11792.0
+IT,Sicilia,2022-01-01,Other,12487.5
+IT,Sicilia,2023-01-01,Other,12826.2
+IT,Toscana,2015-01-01,Other,13539.4
+IT,Toscana,2016-01-01,Other,13887.3
+IT,Toscana,2017-01-01,Other,14094.5
+IT,Toscana,2018-01-01,Other,14440.2
+IT,Toscana,2019-01-01,Other,13987.199999999999
+IT,Toscana,2020-01-01,Other,13577.400000000001
+IT,Toscana,2021-01-01,Other,14181.4
+IT,Toscana,2022-01-01,Other,15484.9
+IT,Toscana,2023-01-01,Other,16078.9
+IT,Trentino-Alto Adige/Südtirol,2015-01-01,Other,4847.9
+IT,Trentino-Alto Adige/Südtirol,2016-01-01,Other,4342.3
+IT,Trentino-Alto Adige/Südtirol,2017-01-01,Other,4431.0
+IT,Trentino-Alto Adige/Südtirol,2018-01-01,Other,4690.8
+IT,Trentino-Alto Adige/Südtirol,2019-01-01,Other,4818.4
+IT,Trentino-Alto Adige/Südtirol,2020-01-01,Other,4732.1
+IT,Trentino-Alto Adige/Südtirol,2021-01-01,Other,4925.0
+IT,Trentino-Alto Adige/Südtirol,2022-01-01,Other,5396.2
+IT,Trentino-Alto Adige/Südtirol,2023-01-01,Other,5837.7
+IT,Umbria,2015-01-01,Other,2760.5
+IT,Umbria,2016-01-01,Other,2751.8
+IT,Umbria,2017-01-01,Other,2807.9
+IT,Umbria,2018-01-01,Other,2877.3
+IT,Umbria,2019-01-01,Other,2801.2
+IT,Umbria,2020-01-01,Other,2754.2
+IT,Umbria,2021-01-01,Other,2842.7
+IT,Umbria,2022-01-01,Other,3072.0
+IT,Umbria,2023-01-01,Other,3181.3999999999996
+IT,Valle d'Aosta/Vallée d'Aoste,2015-01-01,Other,504.6
+IT,Valle d'Aosta/Vallée d'Aoste,2016-01-01,Other,454.40000000000003
+IT,Valle d'Aosta/Vallée d'Aoste,2017-01-01,Other,452.6
+IT,Valle d'Aosta/Vallée d'Aoste,2018-01-01,Other,449.3
+IT,Valle d'Aosta/Vallée d'Aoste,2019-01-01,Other,492.0
+IT,Valle d'Aosta/Vallée d'Aoste,2020-01-01,Other,438.9
+IT,Valle d'Aosta/Vallée d'Aoste,2021-01-01,Other,459.0
+IT,Valle d'Aosta/Vallée d'Aoste,2022-01-01,Other,512.8
+IT,Valle d'Aosta/Vallée d'Aoste,2023-01-01,Other,553.1
+IT,Veneto,2015-01-01,Other,15147.2
+IT,Veneto,2016-01-01,Other,15540.9
+IT,Veneto,2017-01-01,Other,15850.9
+IT,Veneto,2018-01-01,Other,16105.7
+IT,Veneto,2019-01-01,Other,15930.900000000001
+IT,Veneto,2020-01-01,Other,15438.9
+IT,Veneto,2021-01-01,Other,16259.8
+IT,Veneto,2022-01-01,Other,17700.2
+IT,Veneto,2023-01-01,Other,18373.0
+ES,Andalucía,2015-01-01,Other,14378.173
+ES,Andalucía,2016-01-01,Other,14474.346000000001
+ES,Andalucía,2017-01-01,Other,15359.238000000001
+ES,Andalucía,2018-01-01,Other,16300.060000000001
+ES,Andalucía,2019-01-01,Other,17301.912
+ES,Andalucía,2020-01-01,Other,14463.871000000001
+ES,Andalucía,2021-01-01,Other,15876.224000000002
+ES,Andalucía,2022-01-01,Other,18623.406
+ES,Andalucía,2023-01-01,Other,19911.162
+ES,Andalucía,2024-01-01,Other,20889.506
+ES,Aragón,2015-01-01,Other,2870.3959999999997
+ES,Aragón,2016-01-01,Other,2997.322
+ES,Aragón,2017-01-01,Other,3213.523
+ES,Aragón,2018-01-01,Other,3309.3729999999996
+ES,Aragón,2019-01-01,Other,3408.958
+ES,Aragón,2020-01-01,Other,3056.2650000000003
+ES,Aragón,2021-01-01,Other,3291.5070000000005
+ES,Aragón,2022-01-01,Other,3678.309
+ES,Aragón,2023-01-01,Other,3885.184
+ES,Aragón,2024-01-01,Other,4156.957
+ES,Canarias,2015-01-01,Other,4848.943
+ES,Canarias,2016-01-01,Other,5097.191
+ES,Canarias,2017-01-01,Other,5303.897
+ES,Canarias,2018-01-01,Other,5597.859
+ES,Canarias,2019-01-01,Other,5723.261
+ES,Canarias,2020-01-01,Other,4496.41
+ES,Canarias,2021-01-01,Other,4793.808
+ES,Canarias,2022-01-01,Other,5899.773
+ES,Canarias,2023-01-01,Other,6330.514999999999
+ES,Canarias,2024-01-01,Other,6907.602999999999
+ES,Cantabria,2015-01-01,Other,1220.8980000000001
+ES,Cantabria,2016-01-01,Other,1281.149
+ES,Cantabria,2017-01-01,Other,1326.654
+ES,Cantabria,2018-01-01,Other,1385.741
+ES,Cantabria,2019-01-01,Other,1419.018
+ES,Cantabria,2020-01-01,Other,1232.15
+ES,Cantabria,2021-01-01,Other,1324.193
+ES,Cantabria,2022-01-01,Other,1446.779
+ES,Cantabria,2023-01-01,Other,1500.583
+ES,Cantabria,2024-01-01,Other,1574.9160000000002
+ES,Castilla y León,2015-01-01,Other,4790.148999999999
+ES,Castilla y León,2016-01-01,Other,4770.9529999999995
+ES,Castilla y León,2017-01-01,Other,5088.226000000001
+ES,Castilla y León,2018-01-01,Other,5265.227000000001
+ES,Castilla y León,2019-01-01,Other,5429.463
+ES,Castilla y León,2020-01-01,Other,4695.456
+ES,Castilla y León,2021-01-01,Other,5018.944
+ES,Castilla y León,2022-01-01,Other,5527.953
+ES,Castilla y León,2023-01-01,Other,5812.785
+ES,Castilla y León,2024-01-01,Other,6100.463
+ES,Castilla-La Mancha,2015-01-01,Other,2829.02
+ES,Castilla-La Mancha,2016-01-01,Other,2882.908
+ES,Castilla-La Mancha,2017-01-01,Other,3080.7219999999998
+ES,Castilla-La Mancha,2018-01-01,Other,3205.006
+ES,Castilla-La Mancha,2019-01-01,Other,3401.547
+ES,Castilla-La Mancha,2020-01-01,Other,2956.7259999999997
+ES,Castilla-La Mancha,2021-01-01,Other,3128.569
+ES,Castilla-La Mancha,2022-01-01,Other,3526.821
+ES,Castilla-La Mancha,2023-01-01,Other,3696.792
+ES,Castilla-La Mancha,2024-01-01,Other,3917.142
+ES,Cataluña/Catalunya,2015-01-01,Other,27068.663
+ES,Cataluña/Catalunya,2016-01-01,Other,27683.758
+ES,Cataluña/Catalunya,2017-01-01,Other,29224.981
+ES,Cataluña/Catalunya,2018-01-01,Other,30264.996
+ES,Cataluña/Catalunya,2019-01-01,Other,32274.697
+ES,Cataluña/Catalunya,2020-01-01,Other,27149.183999999997
+ES,Cataluña/Catalunya,2021-01-01,Other,28983.468
+ES,Cataluña/Catalunya,2022-01-01,Other,33309.658
+ES,Cataluña/Catalunya,2023-01-01,Other,36251.651
+ES,Cataluña/Catalunya,2024-01-01,Other,38577.789
+ES,Ciudad Autónoma de Ceuta,2015-01-01,Other,120.83699999999999
+ES,Ciudad Autónoma de Ceuta,2016-01-01,Other,122.03999999999999
+ES,Ciudad Autónoma de Ceuta,2017-01-01,Other,129.056
+ES,Ciudad Autónoma de Ceuta,2018-01-01,Other,132.11599999999999
+ES,Ciudad Autónoma de Ceuta,2019-01-01,Other,139.29899999999998
+ES,Ciudad Autónoma de Ceuta,2020-01-01,Other,119.06200000000001
+ES,Ciudad Autónoma de Ceuta,2021-01-01,Other,127.226
+ES,Ciudad Autónoma de Ceuta,2022-01-01,Other,146.175
+ES,Ciudad Autónoma de Ceuta,2023-01-01,Other,158.506
+ES,Ciudad Autónoma de Ceuta,2024-01-01,Other,167.505
+ES,Ciudad Autónoma de Melilla,2015-01-01,Other,140.211
+ES,Ciudad Autónoma de Melilla,2016-01-01,Other,146.595
+ES,Ciudad Autónoma de Melilla,2017-01-01,Other,151.245
+ES,Ciudad Autónoma de Melilla,2018-01-01,Other,158.98399999999998
+ES,Ciudad Autónoma de Melilla,2019-01-01,Other,165.13
+ES,Ciudad Autónoma de Melilla,2020-01-01,Other,143.397
+ES,Ciudad Autónoma de Melilla,2021-01-01,Other,156.516
+ES,Ciudad Autónoma de Melilla,2022-01-01,Other,179.77
+ES,Ciudad Autónoma de Melilla,2023-01-01,Other,195.759
+ES,Ciudad Autónoma de Melilla,2024-01-01,Other,206.877
+ES,Comunidad Foral de Navarra,2015-01-01,Other,1776.857
+ES,Comunidad Foral de Navarra,2016-01-01,Other,1868.696
+ES,Comunidad Foral de Navarra,2017-01-01,Other,1905.5910000000001
+ES,Comunidad Foral de Navarra,2018-01-01,Other,1980.615
+ES,Comunidad Foral de Navarra,2019-01-01,Other,2084.453
+ES,Comunidad Foral de Navarra,2020-01-01,Other,1804.839
+ES,Comunidad Foral de Navarra,2021-01-01,Other,1911.0500000000002
+ES,Comunidad Foral de Navarra,2022-01-01,Other,2195.844
+ES,Comunidad Foral de Navarra,2023-01-01,Other,2388.871
+ES,Comunidad Foral de Navarra,2024-01-01,Other,2496.6530000000002
+ES,Comunidad de Madrid,2015-01-01,Other,38097.06
+ES,Comunidad de Madrid,2016-01-01,Other,39792.714
+ES,Comunidad de Madrid,2017-01-01,Other,42249.7
+ES,Comunidad de Madrid,2018-01-01,Other,44053.705
+ES,Comunidad de Madrid,2019-01-01,Other,46390.724
+ES,Comunidad de Madrid,2020-01-01,Other,41017.162
+ES,Comunidad de Madrid,2021-01-01,Other,44310.07
+ES,Comunidad de Madrid,2022-01-01,Other,50190.913
+ES,Comunidad de Madrid,2023-01-01,Other,54451.611999999994
+ES,Comunidad de Madrid,2024-01-01,Other,57460.173
+ES,Comunitat Valenciana,2015-01-01,Other,10423.060000000001
+ES,Comunitat Valenciana,2016-01-01,Other,10652.023000000001
+ES,Comunitat Valenciana,2017-01-01,Other,11282.687
+ES,Comunitat Valenciana,2018-01-01,Other,11779.707
+ES,Comunitat Valenciana,2019-01-01,Other,12454.905999999999
+ES,Comunitat Valenciana,2020-01-01,Other,10830.153
+ES,Comunitat Valenciana,2021-01-01,Other,11919.970000000001
+ES,Comunitat Valenciana,2022-01-01,Other,13673.656
+ES,Comunitat Valenciana,2023-01-01,Other,14547.428
+ES,Comunitat Valenciana,2024-01-01,Other,15332.728
+ES,Extremadura,2015-01-01,Other,1468.658
+ES,Extremadura,2016-01-01,Other,1491.993
+ES,Extremadura,2017-01-01,Other,1593.033
+ES,Extremadura,2018-01-01,Other,1700.829
+ES,Extremadura,2019-01-01,Other,1825.905
+ES,Extremadura,2020-01-01,Other,1631.68
+ES,Extremadura,2021-01-01,Other,1718.427
+ES,Extremadura,2022-01-01,Other,1934.6599999999999
+ES,Extremadura,2023-01-01,Other,2029.359
+ES,Extremadura,2024-01-01,Other,2099.304
+ES,Galicia,2015-01-01,Other,5573.57
+ES,Galicia,2016-01-01,Other,5792.435
+ES,Galicia,2017-01-01,Other,6004.665
+ES,Galicia,2018-01-01,Other,6333.754999999999
+ES,Galicia,2019-01-01,Other,6614.401
+ES,Galicia,2020-01-01,Other,5881.027
+ES,Galicia,2021-01-01,Other,6248.923
+ES,Galicia,2022-01-01,Other,6865.572
+ES,Galicia,2023-01-01,Other,7242.27
+ES,Galicia,2024-01-01,Other,7650.109
+ES,Illes Balears,2015-01-01,Other,3696.29
+ES,Illes Balears,2016-01-01,Other,3865.623
+ES,Illes Balears,2017-01-01,Other,4036.13
+ES,Illes Balears,2018-01-01,Other,4337.67
+ES,Illes Balears,2019-01-01,Other,4501.158
+ES,Illes Balears,2020-01-01,Other,3306.2120000000004
+ES,Illes Balears,2021-01-01,Other,3583.179
+ES,Illes Balears,2022-01-01,Other,4432.296
+ES,Illes Balears,2023-01-01,Other,4926.737999999999
+ES,Illes Balears,2024-01-01,Other,5269.4580000000005
+ES,La Rioja,2015-01-01,Other,628.528
+ES,La Rioja,2016-01-01,Other,652.548
+ES,La Rioja,2017-01-01,Other,677.432
+ES,La Rioja,2018-01-01,Other,714.5550000000001
+ES,La Rioja,2019-01-01,Other,739.296
+ES,La Rioja,2020-01-01,Other,658.635
+ES,La Rioja,2021-01-01,Other,686.539
+ES,La Rioja,2022-01-01,Other,779.982
+ES,La Rioja,2023-01-01,Other,826.515
+ES,La Rioja,2024-01-01,Other,901.465
+ES,País Vasco/Euskadi,2015-01-01,Other,7786.089
+ES,País Vasco/Euskadi,2016-01-01,Other,8015.643
+ES,País Vasco/Euskadi,2017-01-01,Other,8235.35
+ES,País Vasco/Euskadi,2018-01-01,Other,8590.43
+ES,País Vasco/Euskadi,2019-01-01,Other,8763.145
+ES,País Vasco/Euskadi,2020-01-01,Other,7779.075
+ES,País Vasco/Euskadi,2021-01-01,Other,8215.552
+ES,País Vasco/Euskadi,2022-01-01,Other,9487.533
+ES,País Vasco/Euskadi,2023-01-01,Other,9920.626
+ES,País Vasco/Euskadi,2024-01-01,Other,10434.286
+ES,Principado de Asturias,2015-01-01,Other,2146.961
+ES,Principado de Asturias,2016-01-01,Other,2195.339
+ES,Principado de Asturias,2017-01-01,Other,2272.899
+ES,Principado de Asturias,2018-01-01,Other,2344.487
+ES,Principado de Asturias,2019-01-01,Other,2374.7309999999998
+ES,Principado de Asturias,2020-01-01,Other,1997.9740000000002
+ES,Principado de Asturias,2021-01-01,Other,2145.206
+ES,Principado de Asturias,2022-01-01,Other,2372.317
+ES,Principado de Asturias,2023-01-01,Other,2593.2870000000003
+ES,Principado de Asturias,2024-01-01,Other,2819.433
+ES,Región de Murcia,2015-01-01,Other,2638.656
+ES,Región de Murcia,2016-01-01,Other,2775.612
+ES,Región de Murcia,2017-01-01,Other,2961.647
+ES,Región de Murcia,2018-01-01,Other,3075.321
+ES,Región de Murcia,2019-01-01,Other,3245.1
+ES,Región de Murcia,2020-01-01,Other,2862.1859999999997
+ES,Región de Murcia,2021-01-01,Other,3110.185
+ES,Región de Murcia,2022-01-01,Other,3390.433
+ES,Región de Murcia,2023-01-01,Other,3568.1759999999995
+ES,Región de Murcia,2024-01-01,Other,3790.1580000000004
+IT,Abruzzo,2015-01-01,Total_GDP,31791.1
+IT,Abruzzo,2016-01-01,Total_GDP,31926.0
+IT,Abruzzo,2017-01-01,Total_GDP,32733.3
+IT,Abruzzo,2018-01-01,Total_GDP,32798.6
+IT,Abruzzo,2019-01-01,Total_GDP,33030.0
+IT,Abruzzo,2020-01-01,Total_GDP,30550.3
+IT,Abruzzo,2021-01-01,Total_GDP,33614.9
+IT,Abruzzo,2022-01-01,Total_GDP,36445.1
+IT,Abruzzo,2023-01-01,Total_GDP,39557.1
+IT,Basilicata,2015-01-01,Total_GDP,11980.7
+IT,Basilicata,2016-01-01,Total_GDP,11972.1
+IT,Basilicata,2017-01-01,Total_GDP,12070.6
+IT,Basilicata,2018-01-01,Total_GDP,12645.0
+IT,Basilicata,2019-01-01,Total_GDP,12473.0
+IT,Basilicata,2020-01-01,Total_GDP,11304.4
+IT,Basilicata,2021-01-01,Total_GDP,12958.3
+IT,Basilicata,2022-01-01,Total_GDP,13988.9
+IT,Basilicata,2023-01-01,Total_GDP,14840.7
+IT,Calabria,2015-01-01,Total_GDP,32244.5
+IT,Calabria,2016-01-01,Total_GDP,32784.5
+IT,Calabria,2017-01-01,Total_GDP,33454.8
+IT,Calabria,2018-01-01,Total_GDP,33215.9
+IT,Calabria,2019-01-01,Total_GDP,33490.1
+IT,Calabria,2020-01-01,Total_GDP,31143.4
+IT,Calabria,2021-01-01,Total_GDP,34067.2
+IT,Calabria,2022-01-01,Total_GDP,36403.8
+IT,Calabria,2023-01-01,Total_GDP,38936.2
+IT,Campania,2015-01-01,Total_GDP,103440.7
+IT,Campania,2016-01-01,Total_GDP,105261.1
+IT,Campania,2017-01-01,Total_GDP,107434.8
+IT,Campania,2018-01-01,Total_GDP,108541.1
+IT,Campania,2019-01-01,Total_GDP,110821.4
+IT,Campania,2020-01-01,Total_GDP,102472.9
+IT,Campania,2021-01-01,Total_GDP,111969.8
+IT,Campania,2022-01-01,Total_GDP,122400.5
+IT,Campania,2023-01-01,Total_GDP,132901.5
+IT,Emilia-Romagna,2015-01-01,Total_GDP,149022.8
+IT,Emilia-Romagna,2016-01-01,Total_GDP,153783.3
+IT,Emilia-Romagna,2017-01-01,Total_GDP,158008.1
+IT,Emilia-Romagna,2018-01-01,Total_GDP,161559.2
+IT,Emilia-Romagna,2019-01-01,Total_GDP,162949.2
+IT,Emilia-Romagna,2020-01-01,Total_GDP,152164.3
+IT,Emilia-Romagna,2021-01-01,Total_GDP,169036.8
+IT,Emilia-Romagna,2022-01-01,Total_GDP,180561.1
+IT,Emilia-Romagna,2023-01-01,Total_GDP,194492.2
+IT,Friuli-Venezia Giulia,2015-01-01,Total_GDP,35844.9
+IT,Friuli-Venezia Giulia,2016-01-01,Total_GDP,36301.7
+IT,Friuli-Venezia Giulia,2017-01-01,Total_GDP,37053.7
+IT,Friuli-Venezia Giulia,2018-01-01,Total_GDP,38062.9
+IT,Friuli-Venezia Giulia,2019-01-01,Total_GDP,38985.3
+IT,Friuli-Venezia Giulia,2020-01-01,Total_GDP,36404.7
+IT,Friuli-Venezia Giulia,2021-01-01,Total_GDP,40456.8
+IT,Friuli-Venezia Giulia,2022-01-01,Total_GDP,42682.2
+IT,Friuli-Venezia Giulia,2023-01-01,Total_GDP,45064.0
+IT,Lazio,2015-01-01,Total_GDP,189573.1
+IT,Lazio,2016-01-01,Total_GDP,197785.2
+IT,Lazio,2017-01-01,Total_GDP,200415.9
+IT,Lazio,2018-01-01,Total_GDP,203326.8
+IT,Lazio,2019-01-01,Total_GDP,206615.0
+IT,Lazio,2020-01-01,Total_GDP,190931.9
+IT,Lazio,2021-01-01,Total_GDP,204609.6
+IT,Lazio,2022-01-01,Total_GDP,227486.1
+IT,Lazio,2023-01-01,Total_GDP,241297.6
+IT,Liguria,2015-01-01,Total_GDP,46792.0
+IT,Liguria,2016-01-01,Total_GDP,47673.0
+IT,Liguria,2017-01-01,Total_GDP,48676.0
+IT,Liguria,2018-01-01,Total_GDP,48776.2
+IT,Liguria,2019-01-01,Total_GDP,49542.1
+IT,Liguria,2020-01-01,Total_GDP,44959.6
+IT,Liguria,2021-01-01,Total_GDP,49383.5
+IT,Liguria,2022-01-01,Total_GDP,53042.2
+IT,Liguria,2023-01-01,Total_GDP,58081.2
+IT,Lombardia,2015-01-01,Total_GDP,369754.7
+IT,Lombardia,2016-01-01,Total_GDP,380390.4
+IT,Lombardia,2017-01-01,Total_GDP,390313.4
+IT,Lombardia,2018-01-01,Total_GDP,400745.5
+IT,Lombardia,2019-01-01,Total_GDP,405032.5
+IT,Lombardia,2020-01-01,Total_GDP,380035.5
+IT,Lombardia,2021-01-01,Total_GDP,424242.3
+IT,Lombardia,2022-01-01,Total_GDP,457792.3
+IT,Lombardia,2023-01-01,Total_GDP,491161.8
+IT,Marche,2015-01-01,Total_GDP,39555.7
+IT,Marche,2016-01-01,Total_GDP,40309.2
+IT,Marche,2017-01-01,Total_GDP,41187.0
+IT,Marche,2018-01-01,Total_GDP,41838.8
+IT,Marche,2019-01-01,Total_GDP,42572.5
+IT,Marche,2020-01-01,Total_GDP,39248.7
+IT,Marche,2021-01-01,Total_GDP,43192.9
+IT,Marche,2022-01-01,Total_GDP,46394.6
+IT,Marche,2023-01-01,Total_GDP,49447.3
+IT,Molise,2015-01-01,Total_GDP,6242.5
+IT,Molise,2016-01-01,Total_GDP,6336.0
+IT,Molise,2017-01-01,Total_GDP,6486.6
+IT,Molise,2018-01-01,Total_GDP,6604.9
+IT,Molise,2019-01-01,Total_GDP,6737.1
+IT,Molise,2020-01-01,Total_GDP,6237.0
+IT,Molise,2021-01-01,Total_GDP,6841.1
+IT,Molise,2022-01-01,Total_GDP,7287.6
+IT,Molise,2023-01-01,Total_GDP,7874.0
+IT,Piemonte,2015-01-01,Total_GDP,124970.1
+IT,Piemonte,2016-01-01,Total_GDP,128292.3
+IT,Piemonte,2017-01-01,Total_GDP,132625.4
+IT,Piemonte,2018-01-01,Total_GDP,135216.6
+IT,Piemonte,2019-01-01,Total_GDP,135773.8
+IT,Piemonte,2020-01-01,Total_GDP,124757.0
+IT,Piemonte,2021-01-01,Total_GDP,137614.9
+IT,Piemonte,2022-01-01,Total_GDP,146819.8
+IT,Piemonte,2023-01-01,Total_GDP,159173.1
+IT,Puglia,2015-01-01,Total_GDP,71883.2
+IT,Puglia,2016-01-01,Total_GDP,73193.2
+IT,Puglia,2017-01-01,Total_GDP,74209.6
+IT,Puglia,2018-01-01,Total_GDP,75458.0
+IT,Puglia,2019-01-01,Total_GDP,76392.8
+IT,Puglia,2020-01-01,Total_GDP,71840.6
+IT,Puglia,2021-01-01,Total_GDP,79570.1
+IT,Puglia,2022-01-01,Total_GDP,86406.7
+IT,Puglia,2023-01-01,Total_GDP,92162.8
+IT,Sardegna,2015-01-01,Total_GDP,33509.8
+IT,Sardegna,2016-01-01,Total_GDP,33144.1
+IT,Sardegna,2017-01-01,Total_GDP,33773.5
+IT,Sardegna,2018-01-01,Total_GDP,34282.2
+IT,Sardegna,2019-01-01,Total_GDP,34999.6
+IT,Sardegna,2020-01-01,Total_GDP,32335.6
+IT,Sardegna,2021-01-01,Total_GDP,35702.3
+IT,Sardegna,2022-01-01,Total_GDP,38870.7
+IT,Sardegna,2023-01-01,Total_GDP,41799.3
+IT,Sicilia,2015-01-01,Total_GDP,85496.0
+IT,Sicilia,2016-01-01,Total_GDP,86060.7
+IT,Sicilia,2017-01-01,Total_GDP,87772.0
+IT,Sicilia,2018-01-01,Total_GDP,87856.6
+IT,Sicilia,2019-01-01,Total_GDP,88972.2
+IT,Sicilia,2020-01-01,Total_GDP,83567.8
+IT,Sicilia,2021-01-01,Total_GDP,92204.8
+IT,Sicilia,2022-01-01,Total_GDP,102406.5
+IT,Sicilia,2023-01-01,Total_GDP,106884.6
+IT,Toscana,2015-01-01,Total_GDP,110108.1
+IT,Toscana,2016-01-01,Total_GDP,112595.8
+IT,Toscana,2017-01-01,Total_GDP,115004.9
+IT,Toscana,2018-01-01,Total_GDP,117668.6
+IT,Toscana,2019-01-01,Total_GDP,122266.1
+IT,Toscana,2020-01-01,Total_GDP,108108.7
+IT,Toscana,2021-01-01,Total_GDP,119580.2
+IT,Toscana,2022-01-01,Total_GDP,130563.1
+IT,Toscana,2023-01-01,Total_GDP,139658.9
+IT,Trentino-Alto Adige/Südtirol,2015-01-01,Total_GDP,41927.4
+IT,Trentino-Alto Adige/Südtirol,2016-01-01,Total_GDP,42796.5
+IT,Trentino-Alto Adige/Südtirol,2017-01-01,Total_GDP,44052.7
+IT,Trentino-Alto Adige/Südtirol,2018-01-01,Total_GDP,45850.2
+IT,Trentino-Alto Adige/Südtirol,2019-01-01,Total_GDP,47198.0
+IT,Trentino-Alto Adige/Südtirol,2020-01-01,Total_GDP,44161.2
+IT,Trentino-Alto Adige/Südtirol,2021-01-01,Total_GDP,48038.5
+IT,Trentino-Alto Adige/Südtirol,2022-01-01,Total_GDP,53581.7
+IT,Trentino-Alto Adige/Südtirol,2023-01-01,Total_GDP,58444.5
+IT,Umbria,2015-01-01,Total_GDP,21425.9
+IT,Umbria,2016-01-01,Total_GDP,21531.0
+IT,Umbria,2017-01-01,Total_GDP,22035.3
+IT,Umbria,2018-01-01,Total_GDP,22672.4
+IT,Umbria,2019-01-01,Total_GDP,22826.9
+IT,Umbria,2020-01-01,Total_GDP,20979.4
+IT,Umbria,2021-01-01,Total_GDP,23012.0
+IT,Umbria,2022-01-01,Total_GDP,24725.0
+IT,Umbria,2023-01-01,Total_GDP,26874.3
+IT,Valle d'Aosta/Vallée d'Aoste,2015-01-01,Total_GDP,4649.3
+IT,Valle d'Aosta/Vallée d'Aoste,2016-01-01,Total_GDP,4598.6
+IT,Valle d'Aosta/Vallée d'Aoste,2017-01-01,Total_GDP,4768.5
+IT,Valle d'Aosta/Vallée d'Aoste,2018-01-01,Total_GDP,4806.9
+IT,Valle d'Aosta/Vallée d'Aoste,2019-01-01,Total_GDP,4847.7
+IT,Valle d'Aosta/Vallée d'Aoste,2020-01-01,Total_GDP,4437.1
+IT,Valle d'Aosta/Vallée d'Aoste,2021-01-01,Total_GDP,4783.0
+IT,Valle d'Aosta/Vallée d'Aoste,2022-01-01,Total_GDP,5396.0
+IT,Valle d'Aosta/Vallée d'Aoste,2023-01-01,Total_GDP,5796.2
+IT,Veneto,2015-01-01,Total_GDP,151987.8
+IT,Veneto,2016-01-01,Total_GDP,157062.5
+IT,Veneto,2017-01-01,Total_GDP,161182.8
+IT,Veneto,2018-01-01,Total_GDP,164509.0
+IT,Veneto,2019-01-01,Total_GDP,167492.6
+IT,Veneto,2020-01-01,Total_GDP,153519.2
+IT,Veneto,2021-01-01,Total_GDP,170031.5
+IT,Veneto,2022-01-01,Total_GDP,184035.1
+IT,Veneto,2023-01-01,Total_GDP,197293.3
+ES,Andalucía,2015-01-01,Total_GDP,146406.094
+ES,Andalucía,2016-01-01,Total_GDP,149901.897
+ES,Andalucía,2017-01-01,Total_GDP,156789.484
+ES,Andalucía,2018-01-01,Total_GDP,161894.301
+ES,Andalucía,2019-01-01,Total_GDP,166478.73
+ES,Andalucía,2020-01-01,Total_GDP,150452.909
+ES,Andalucía,2021-01-01,Total_GDP,166296.356
+ES,Andalucía,2022-01-01,Total_GDP,184364.39
+ES,Andalucía,2023-01-01,Total_GDP,199406.067
+ES,Andalucía,2024-01-01,Total_GDP,212359.142
+ES,Aragón,2015-01-01,Total_GDP,33265.93
+ES,Aragón,2016-01-01,Total_GDP,34542.128
+ES,Aragón,2017-01-01,Total_GDP,35983.544
+ES,Aragón,2018-01-01,Total_GDP,37213.896
+ES,Aragón,2019-01-01,Total_GDP,38465.053
+ES,Aragón,2020-01-01,Total_GDP,35955.571
+ES,Aragón,2021-01-01,Total_GDP,38782.157
+ES,Aragón,2022-01-01,Total_GDP,43668.835
+ES,Aragón,2023-01-01,Total_GDP,46778.12
+ES,Aragón,2024-01-01,Total_GDP,49634.925
+ES,Canarias,2015-01-01,Total_GDP,39636.569
+ES,Canarias,2016-01-01,Total_GDP,40979.67
+ES,Canarias,2017-01-01,Total_GDP,43035.839
+ES,Canarias,2018-01-01,Total_GDP,44609.266
+ES,Canarias,2019-01-01,Total_GDP,45766.832
+ES,Canarias,2020-01-01,Total_GDP,37587.399
+ES,Canarias,2021-01-01,Total_GDP,41407.275
+ES,Canarias,2022-01-01,Total_GDP,48908.196
+ES,Canarias,2023-01-01,Total_GDP,53990.089
+ES,Canarias,2024-01-01,Total_GDP,58144.618
+ES,Cantabria,2015-01-01,Total_GDP,12443.843
+ES,Cantabria,2016-01-01,Total_GDP,12833.899
+ES,Cantabria,2017-01-01,Total_GDP,13318.023
+ES,Cantabria,2018-01-01,Total_GDP,13843.935
+ES,Cantabria,2019-01-01,Total_GDP,14274.351
+ES,Cantabria,2020-01-01,Total_GDP,12991.241
+ES,Cantabria,2021-01-01,Total_GDP,14206.538
+ES,Cantabria,2022-01-01,Total_GDP,15557.155
+ES,Cantabria,2023-01-01,Total_GDP,16740.663
+ES,Cantabria,2024-01-01,Total_GDP,17700.122
+ES,Castilla y León,2015-01-01,Total_GDP,53183.396
+ES,Castilla y León,2016-01-01,Total_GDP,54630.532
+ES,Castilla y León,2017-01-01,Total_GDP,55879.293
+ES,Castilla y León,2018-01-01,Total_GDP,58326.859
+ES,Castilla y León,2019-01-01,Total_GDP,59649.198
+ES,Castilla y León,2020-01-01,Total_GDP,54794.589
+ES,Castilla y León,2021-01-01,Total_GDP,59465.9
+ES,Castilla y León,2022-01-01,Total_GDP,65467.208
+ES,Castilla y León,2023-01-01,Total_GDP,69893.92
+ES,Castilla y León,2024-01-01,Total_GDP,73992.645
+ES,Castilla-La Mancha,2015-01-01,Total_GDP,37998.035
+ES,Castilla-La Mancha,2016-01-01,Total_GDP,39136.242
+ES,Castilla-La Mancha,2017-01-01,Total_GDP,40768.959
+ES,Castilla-La Mancha,2018-01-01,Total_GDP,42290.925
+ES,Castilla-La Mancha,2019-01-01,Total_GDP,43393.303
+ES,Castilla-La Mancha,2020-01-01,Total_GDP,40254.36
+ES,Castilla-La Mancha,2021-01-01,Total_GDP,44123.986
+ES,Castilla-La Mancha,2022-01-01,Total_GDP,50032.018
+ES,Castilla-La Mancha,2023-01-01,Total_GDP,52544.941
+ES,Castilla-La Mancha,2024-01-01,Total_GDP,55559.897
+ES,Cataluña/Catalunya,2015-01-01,Total_GDP,206434.27
+ES,Cataluña/Catalunya,2016-01-01,Total_GDP,214502.547
+ES,Cataluña/Catalunya,2017-01-01,Total_GDP,223139.777
+ES,Cataluña/Catalunya,2018-01-01,Total_GDP,231101.287
+ES,Cataluña/Catalunya,2019-01-01,Total_GDP,240165.818
+ES,Cataluña/Catalunya,2020-01-01,Total_GDP,214857.435
+ES,Cataluña/Catalunya,2021-01-01,Total_GDP,234820.402
+ES,Cataluña/Catalunya,2022-01-01,Total_GDP,258787.407
+ES,Cataluña/Catalunya,2023-01-01,Total_GDP,283274.025
+ES,Cataluña/Catalunya,2024-01-01,Total_GDP,302303.884
+ES,Ciudad Autónoma de Ceuta,2015-01-01,Total_GDP,1498.459
+ES,Ciudad Autónoma de Ceuta,2016-01-01,Total_GDP,1537.398
+ES,Ciudad Autónoma de Ceuta,2017-01-01,Total_GDP,1553.567
+ES,Ciudad Autónoma de Ceuta,2018-01-01,Total_GDP,1611.648
+ES,Ciudad Autónoma de Ceuta,2019-01-01,Total_GDP,1659.979
+ES,Ciudad Autónoma de Ceuta,2020-01-01,Total_GDP,1535.718
+ES,Ciudad Autónoma de Ceuta,2021-01-01,Total_GDP,1634.006
+ES,Ciudad Autónoma de Ceuta,2022-01-01,Total_GDP,1766.735
+ES,Ciudad Autónoma de Ceuta,2023-01-01,Total_GDP,1862.863
+ES,Ciudad Autónoma de Ceuta,2024-01-01,Total_GDP,1923.193
+ES,Ciudad Autónoma de Melilla,2015-01-01,Total_GDP,1407.605
+ES,Ciudad Autónoma de Melilla,2016-01-01,Total_GDP,1452.752
+ES,Ciudad Autónoma de Melilla,2017-01-01,Total_GDP,1466.61
+ES,Ciudad Autónoma de Melilla,2018-01-01,Total_GDP,1510.904
+ES,Ciudad Autónoma de Melilla,2019-01-01,Total_GDP,1560.101
+ES,Ciudad Autónoma de Melilla,2020-01-01,Total_GDP,1452.031
+ES,Ciudad Autónoma de Melilla,2021-01-01,Total_GDP,1534.391
+ES,Ciudad Autónoma de Melilla,2022-01-01,Total_GDP,1655.971
+ES,Ciudad Autónoma de Melilla,2023-01-01,Total_GDP,1753.666
+ES,Ciudad Autónoma de Melilla,2024-01-01,Total_GDP,1825.473
+ES,Comunidad Foral de Navarra,2015-01-01,Total_GDP,18334.417
+ES,Comunidad Foral de Navarra,2016-01-01,Total_GDP,18911.331
+ES,Comunidad Foral de Navarra,2017-01-01,Total_GDP,19698.794
+ES,Comunidad Foral de Navarra,2018-01-01,Total_GDP,20235.995
+ES,Comunidad Foral de Navarra,2019-01-01,Total_GDP,21070.268
+ES,Comunidad Foral de Navarra,2020-01-01,Total_GDP,19160.726
+ES,Comunidad Foral de Navarra,2021-01-01,Total_GDP,20821.017
+ES,Comunidad Foral de Navarra,2022-01-01,Total_GDP,23204.474
+ES,Comunidad Foral de Navarra,2023-01-01,Total_GDP,24975.376
+ES,Comunidad Foral de Navarra,2024-01-01,Total_GDP,26619.297
+ES,Comunidad de Madrid,2015-01-01,Total_GDP,206231.525
+ES,Comunidad de Madrid,2016-01-01,Total_GDP,214469.101
+ES,Comunidad de Madrid,2017-01-01,Total_GDP,224373.156
+ES,Comunidad de Madrid,2018-01-01,Total_GDP,233735.808
+ES,Comunidad de Madrid,2019-01-01,Total_GDP,243889.359
+ES,Comunidad de Madrid,2020-01-01,Total_GDP,221061.932
+ES,Comunidad de Madrid,2021-01-01,Total_GDP,239837.609
+ES,Comunidad de Madrid,2022-01-01,Total_GDP,267171.57
+ES,Comunidad de Madrid,2023-01-01,Total_GDP,295939.562
+ES,Comunidad de Madrid,2024-01-01,Total_GDP,316193.37
+ES,Comunitat Valenciana,2015-01-01,Total_GDP,101214.206
+ES,Comunitat Valenciana,2016-01-01,Total_GDP,104205.396
+ES,Comunitat Valenciana,2017-01-01,Total_GDP,108666.712
+ES,Comunitat Valenciana,2018-01-01,Total_GDP,112749.574
+ES,Comunitat Valenciana,2019-01-01,Total_GDP,116588.528
+ES,Comunitat Valenciana,2020-01-01,Total_GDP,106067.171
+ES,Comunitat Valenciana,2021-01-01,Total_GDP,116386.906
+ES,Comunitat Valenciana,2022-01-01,Total_GDP,127583.394
+ES,Comunitat Valenciana,2023-01-01,Total_GDP,139655.905
+ES,Comunitat Valenciana,2024-01-01,Total_GDP,148283.453
+ES,Extremadura,2015-01-01,Total_GDP,18494.971
+ES,Extremadura,2016-01-01,Total_GDP,19069.471
+ES,Extremadura,2017-01-01,Total_GDP,20169.546
+ES,Extremadura,2018-01-01,Total_GDP,20713.254
+ES,Extremadura,2019-01-01,Total_GDP,21166.132
+ES,Extremadura,2020-01-01,Total_GDP,19497.343
+ES,Extremadura,2021-01-01,Total_GDP,21551.517
+ES,Extremadura,2022-01-01,Total_GDP,23486.645
+ES,Extremadura,2023-01-01,Total_GDP,25192.615
+ES,Extremadura,2024-01-01,Total_GDP,26583.476
+ES,Galicia,2015-01-01,Total_GDP,57010.602
+ES,Galicia,2016-01-01,Total_GDP,58564.023
+ES,Galicia,2017-01-01,Total_GDP,60630.852
+ES,Galicia,2018-01-01,Total_GDP,62649.363
+ES,Galicia,2019-01-01,Total_GDP,64502.005
+ES,Galicia,2020-01-01,Total_GDP,59007.178
+ES,Galicia,2021-01-01,Total_GDP,64387.386
+ES,Galicia,2022-01-01,Total_GDP,71636.381
+ES,Galicia,2023-01-01,Total_GDP,77461.411
+ES,Galicia,2024-01-01,Total_GDP,81839.712
+ES,Illes Balears,2015-01-01,Total_GDP,28653.742
+ES,Illes Balears,2016-01-01,Total_GDP,30233.284
+ES,Illes Balears,2017-01-01,Total_GDP,31746.251
+ES,Illes Balears,2018-01-01,Total_GDP,33185.968
+ES,Illes Balears,2019-01-01,Total_GDP,34350.576
+ES,Illes Balears,2020-01-01,Total_GDP,26669.106
+ES,Illes Balears,2021-01-01,Total_GDP,30512.146
+ES,Illes Balears,2022-01-01,Total_GDP,37189.162
+ES,Illes Balears,2023-01-01,Total_GDP,41502.526
+ES,Illes Balears,2024-01-01,Total_GDP,44692.852
+ES,La Rioja,2015-01-01,Total_GDP,8033.065
+ES,La Rioja,2016-01-01,Total_GDP,8074.094
+ES,La Rioja,2017-01-01,Total_GDP,8351.707
+ES,La Rioja,2018-01-01,Total_GDP,8649.852
+ES,La Rioja,2019-01-01,Total_GDP,8889.997
+ES,La Rioja,2020-01-01,Total_GDP,8186.915
+ES,La Rioja,2021-01-01,Total_GDP,8735.75
+ES,La Rioja,2022-01-01,Total_GDP,9767.469
+ES,La Rioja,2023-01-01,Total_GDP,10476.65
+ES,La Rioja,2024-01-01,Total_GDP,11111.889
+ES,País Vasco/Euskadi,2015-01-01,Total_GDP,65073.341
+ES,País Vasco/Euskadi,2016-01-01,Total_GDP,67114.993
+ES,País Vasco/Euskadi,2017-01-01,Total_GDP,69585.295
+ES,País Vasco/Euskadi,2018-01-01,Total_GDP,71915.111
+ES,País Vasco/Euskadi,2019-01-01,Total_GDP,73999.981
+ES,País Vasco/Euskadi,2020-01-01,Total_GDP,66672.598
+ES,País Vasco/Euskadi,2021-01-01,Total_GDP,72513.029
+ES,País Vasco/Euskadi,2022-01-01,Total_GDP,80218.167
+ES,País Vasco/Euskadi,2023-01-01,Total_GDP,86748.107
+ES,País Vasco/Euskadi,2024-01-01,Total_GDP,91612.735
+ES,Principado de Asturias,2015-01-01,Total_GDP,21388.142
+ES,Principado de Asturias,2016-01-01,Total_GDP,21675.441
+ES,Principado de Asturias,2017-01-01,Total_GDP,22538.267
+ES,Principado de Asturias,2018-01-01,Total_GDP,23185.68
+ES,Principado de Asturias,2019-01-01,Total_GDP,23666.618
+ES,Principado de Asturias,2020-01-01,Total_GDP,21376.392
+ES,Principado de Asturias,2021-01-01,Total_GDP,23617.641
+ES,Principado de Asturias,2022-01-01,Total_GDP,26690.102
+ES,Principado de Asturias,2023-01-01,Total_GDP,28350.371
+ES,Principado de Asturias,2024-01-01,Total_GDP,30012.308
+ES,Región de Murcia,2015-01-01,Total_GDP,29168.718
+ES,Región de Murcia,2016-01-01,Total_GDP,30009.138
+ES,Región de Murcia,2017-01-01,Total_GDP,31192.49
+ES,Región de Murcia,2018-01-01,Total_GDP,31715.345
+ES,Región de Murcia,2019-01-01,Total_GDP,33000.651
+ES,Región de Murcia,2020-01-01,Total_GDP,30440.306
+ES,Región de Murcia,2021-01-01,Total_GDP,33603.543
+ES,Región de Murcia,2022-01-01,Total_GDP,37380.806
+ES,Región de Murcia,2023-01-01,Total_GDP,39838.741
+ES,Región de Murcia,2024-01-01,Total_GDP,42488.024
+IT,Piemonte,2023-01-01,R&D Spending,3319321.0
+IT,Valle d'Aosta/Vallée d'Aoste,2023-01-01,R&D Spending,30966.0
+IT,Liguria,2023-01-01,R&D Spending,842076.0
+IT,Lombardia,2023-01-01,R&D Spending,5838424.0
+IT,Trentino-Alto Adige/Südtirol,2023-01-01,R&D Spending,616772.0
+IT,Veneto,2023-01-01,R&D Spending,2361473.0
+IT,Friuli-Venezia Giulia,2023-01-01,R&D Spending,761679.0
+IT,Emilia-Romagna,2023-01-01,R&D Spending,4070369.0
+IT,Toscana,2023-01-01,R&D Spending,1911194.0
+IT,Umbria,2023-01-01,R&D Spending,237183.0
+IT,Marche,2023-01-01,R&D Spending,464776.0
+IT,Lazio,2023-01-01,R&D Spending,4353844.0
+IT,Abruzzo,2023-01-01,R&D Spending,434074.0
+IT,Molise,2023-01-01,R&D Spending,61603.0
+IT,Campania,2023-01-01,R&D Spending,1595661.0
+IT,Puglia,2023-01-01,R&D Spending,755714.0
+IT,Basilicata,2023-01-01,R&D Spending,94236.0
+IT,Calabria,2023-01-01,R&D Spending,249424.0
+IT,Sicilia,2023-01-01,R&D Spending,1051921.0
+IT,Sardegna,2023-01-01,R&D Spending,348692.0
+ES,Andalucía,2024-01-01,R&D Spending,2309973.0
+ES,Aragón,2024-01-01,R&D Spending,569365.0
+ES,Principado de Asturias,2024-01-01,R&D Spending,307867.0
+ES,Illes Balears,2024-01-01,R&D Spending,176351.0
+ES,Canarias,2024-01-01,R&D Spending,305907.0
+ES,Cantabria,2024-01-01,R&D Spending,173413.0
+ES,Castilla y León,2024-01-01,R&D Spending,1022345.0
+ES,Castilla-La Mancha,2024-01-01,R&D Spending,310989.0
+ES,Cataluña/Catalunya,2024-01-01,R&D Spending,5485123.0
+ES,Comunitat Valenciana,2024-01-01,R&D Spending,1805864.0
+ES,Extremadura,2024-01-01,R&D Spending,187222.0
+ES,Galicia,2024-01-01,R&D Spending,1058152.0
+ES,Comunidad de Madrid,2024-01-01,R&D Spending,6902714.0
+ES,Región de Murcia,2024-01-01,R&D Spending,468492.0
+ES,Comunidad Foral de Navarra,2024-01-01,R&D Spending,623126.0
+ES,País Vasco/Euskadi,2024-01-01,R&D Spending,2107249.0
+ES,La Rioja,2024-01-01,R&D Spending,102670.0
+ES,Ciudad Autónoma de Ceuta,2024-01-01,R&D Spending,5426.0
+ES,Ciudad Autónoma de Melilla,2024-01-01,R&D Spending,8635.0

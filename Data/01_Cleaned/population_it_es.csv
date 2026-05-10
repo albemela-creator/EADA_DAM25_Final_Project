@@ -1,0 +1,1873 @@
+Country,Region,Sex,Year,Age_Group,Population
+IT,Abruzzo,Female,2021-01-01,Under_16,81
+IT,Abruzzo,Male,2021-01-01,Under_16,86
+IT,Abruzzo,Female,2022-01-01,Under_16,80
+IT,Abruzzo,Male,2022-01-01,Under_16,85
+IT,Abruzzo,Female,2023-01-01,Under_16,79
+IT,Abruzzo,Male,2023-01-01,Under_16,83
+IT,Basilicata,Female,2021-01-01,Under_16,33
+IT,Basilicata,Male,2021-01-01,Under_16,35
+IT,Basilicata,Female,2022-01-01,Under_16,32
+IT,Basilicata,Male,2022-01-01,Under_16,34
+IT,Basilicata,Female,2023-01-01,Under_16,31
+IT,Basilicata,Male,2023-01-01,Under_16,33
+IT,Calabria,Female,2021-01-01,Under_16,128
+IT,Calabria,Male,2021-01-01,Under_16,135
+IT,Calabria,Female,2022-01-01,Under_16,126
+IT,Calabria,Male,2022-01-01,Under_16,133
+IT,Calabria,Female,2023-01-01,Under_16,124
+IT,Calabria,Male,2023-01-01,Under_16,130
+IT,Campania,Female,2021-01-01,Under_16,422
+IT,Campania,Male,2021-01-01,Under_16,446
+IT,Campania,Female,2022-01-01,Under_16,413
+IT,Campania,Male,2022-01-01,Under_16,437
+IT,Campania,Female,2023-01-01,Under_16,405
+IT,Campania,Male,2023-01-01,Under_16,428
+IT,Emilia-Romagna,Female,2021-01-01,Under_16,294
+IT,Emilia-Romagna,Male,2021-01-01,Under_16,312
+IT,Emilia-Romagna,Female,2022-01-01,Under_16,290
+IT,Emilia-Romagna,Male,2022-01-01,Under_16,308
+IT,Emilia-Romagna,Female,2023-01-01,Under_16,286
+IT,Emilia-Romagna,Male,2023-01-01,Under_16,303
+IT,Friuli-Venezia Giulia,Female,2021-01-01,Under_16,73
+IT,Friuli-Venezia Giulia,Male,2021-01-01,Under_16,77
+IT,Friuli-Venezia Giulia,Female,2022-01-01,Under_16,72
+IT,Friuli-Venezia Giulia,Male,2022-01-01,Under_16,76
+IT,Friuli-Venezia Giulia,Female,2023-01-01,Under_16,71
+IT,Friuli-Venezia Giulia,Male,2023-01-01,Under_16,75
+IT,Lazio,Female,2021-01-01,Under_16,389
+IT,Lazio,Male,2021-01-01,Under_16,412
+IT,Lazio,Female,2022-01-01,Under_16,384
+IT,Lazio,Male,2022-01-01,Under_16,406
+IT,Lazio,Female,2023-01-01,Under_16,376
+IT,Lazio,Male,2023-01-01,Under_16,397
+IT,Liguria,Female,2021-01-01,Under_16,86
+IT,Liguria,Male,2021-01-01,Under_16,92
+IT,Liguria,Female,2022-01-01,Under_16,85
+IT,Liguria,Male,2022-01-01,Under_16,90
+IT,Liguria,Female,2023-01-01,Under_16,84
+IT,Liguria,Male,2023-01-01,Under_16,89
+IT,Lombardia,Female,2021-01-01,Under_16,690
+IT,Lombardia,Male,2021-01-01,Under_16,732
+IT,Lombardia,Female,2022-01-01,Under_16,679
+IT,Lombardia,Male,2022-01-01,Under_16,720
+IT,Lombardia,Female,2023-01-01,Under_16,668
+IT,Lombardia,Male,2023-01-01,Under_16,709
+IT,Marche,Female,2021-01-01,Under_16,95
+IT,Marche,Male,2021-01-01,Under_16,101
+IT,Marche,Female,2022-01-01,Under_16,93
+IT,Marche,Male,2022-01-01,Under_16,99
+IT,Marche,Female,2023-01-01,Under_16,92
+IT,Marche,Male,2023-01-01,Under_16,97
+IT,Molise,Female,2021-01-01,Under_16,16
+IT,Molise,Male,2021-01-01,Under_16,18
+IT,Molise,Female,2022-01-01,Under_16,16
+IT,Molise,Male,2022-01-01,Under_16,17
+IT,Molise,Female,2023-01-01,Under_16,16
+IT,Molise,Male,2023-01-01,Under_16,17
+IT,Piemonte,Female,2021-01-01,Under_16,270
+IT,Piemonte,Male,2021-01-01,Under_16,286
+IT,Piemonte,Female,2022-01-01,Under_16,265
+IT,Piemonte,Male,2022-01-01,Under_16,281
+IT,Piemonte,Female,2023-01-01,Under_16,261
+IT,Piemonte,Male,2023-01-01,Under_16,275
+IT,Puglia,Female,2021-01-01,Under_16,262
+IT,Puglia,Male,2021-01-01,Under_16,278
+IT,Puglia,Female,2022-01-01,Under_16,257
+IT,Puglia,Male,2022-01-01,Under_16,272
+IT,Puglia,Female,2023-01-01,Under_16,251
+IT,Puglia,Male,2023-01-01,Under_16,267
+IT,Sardegna,Female,2021-01-01,Under_16,90
+IT,Sardegna,Male,2021-01-01,Under_16,96
+IT,Sardegna,Female,2022-01-01,Under_16,88
+IT,Sardegna,Male,2022-01-01,Under_16,94
+IT,Sardegna,Female,2023-01-01,Under_16,85
+IT,Sardegna,Male,2023-01-01,Under_16,91
+IT,Sicilia,Female,2021-01-01,Under_16,345
+IT,Sicilia,Male,2021-01-01,Under_16,365
+IT,Sicilia,Female,2022-01-01,Under_16,340
+IT,Sicilia,Male,2022-01-01,Under_16,359
+IT,Sicilia,Female,2023-01-01,Under_16,335
+IT,Sicilia,Male,2023-01-01,Under_16,353
+IT,Toscana,Female,2021-01-01,Under_16,231
+IT,Toscana,Male,2021-01-01,Under_16,245
+IT,Toscana,Female,2022-01-01,Under_16,227
+IT,Toscana,Male,2022-01-01,Under_16,240
+IT,Toscana,Female,2023-01-01,Under_16,222
+IT,Toscana,Male,2023-01-01,Under_16,235
+IT,Trentino-Alto Adige/Südtirol,Female,2021-01-01,Under_16,82
+IT,Trentino-Alto Adige/Südtirol,Male,2021-01-01,Under_16,87
+IT,Trentino-Alto Adige/Südtirol,Female,2022-01-01,Under_16,81
+IT,Trentino-Alto Adige/Südtirol,Male,2022-01-01,Under_16,86
+IT,Trentino-Alto Adige/Südtirol,Female,2023-01-01,Under_16,80
+IT,Trentino-Alto Adige/Südtirol,Male,2023-01-01,Under_16,85
+IT,Umbria,Female,2021-01-01,Under_16,54
+IT,Umbria,Male,2021-01-01,Under_16,57
+IT,Umbria,Female,2022-01-01,Under_16,53
+IT,Umbria,Male,2022-01-01,Under_16,56
+IT,Umbria,Female,2023-01-01,Under_16,52
+IT,Umbria,Male,2023-01-01,Under_16,55
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2021-01-01,Under_16,8
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2021-01-01,Under_16,8
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2022-01-01,Under_16,7
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2022-01-01,Under_16,8
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2023-01-01,Under_16,7
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2023-01-01,Under_16,8
+IT,Veneto,Female,2021-01-01,Under_16,325
+IT,Veneto,Male,2021-01-01,Under_16,344
+IT,Veneto,Female,2022-01-01,Under_16,319
+IT,Veneto,Male,2022-01-01,Under_16,338
+IT,Veneto,Female,2023-01-01,Under_16,313
+IT,Veneto,Male,2023-01-01,Under_16,332
+ES,Andalucía,Male,2023-01-01,Under_16,692
+ES,Andalucía,Male,2022-01-01,Under_16,697
+ES,Andalucía,Male,2021-01-01,Under_16,713
+ES,Aragón,Male,2023-01-01,Under_16,99
+ES,Aragón,Male,2022-01-01,Under_16,98
+ES,Aragón,Male,2021-01-01,Under_16,100
+ES,Principado de Asturias,Male,2023-01-01,Under_16,56
+ES,Principado de Asturias,Male,2022-01-01,Under_16,58
+ES,Principado de Asturias,Male,2021-01-01,Under_16,60
+ES,Illes Balears,Male,2023-01-01,Under_16,94
+ES,Illes Balears,Male,2022-01-01,Under_16,96
+ES,Illes Balears,Male,2021-01-01,Under_16,95
+ES,Canarias,Male,2023-01-01,Under_16,149
+ES,Canarias,Male,2022-01-01,Under_16,152
+ES,Canarias,Male,2021-01-01,Under_16,152
+ES,Cantabria,Male,2023-01-01,Under_16,40
+ES,Cantabria,Male,2022-01-01,Under_16,40
+ES,Cantabria,Male,2021-01-01,Under_16,40
+ES,Castilla y León,Male,2023-01-01,Under_16,150
+ES,Castilla y León,Male,2022-01-01,Under_16,150
+ES,Castilla y León,Male,2021-01-01,Under_16,151
+ES,Castilla-La Mancha,Male,2023-01-01,Under_16,166
+ES,Castilla-La Mancha,Male,2022-01-01,Under_16,165
+ES,Castilla-La Mancha,Male,2021-01-01,Under_16,166
+ES,Cataluña/Catalunya,Male,2023-01-01,Under_16,620
+ES,Cataluña/Catalunya,Male,2022-01-01,Under_16,622
+ES,Cataluña/Catalunya,Male,2021-01-01,Under_16,631
+ES,Comunitat Valenciana,Male,2023-01-01,Under_16,401
+ES,Comunitat Valenciana,Male,2022-01-01,Under_16,399
+ES,Comunitat Valenciana,Male,2021-01-01,Under_16,397
+ES,Extremadura,Male,2023-01-01,Under_16,75
+ES,Extremadura,Male,2022-01-01,Under_16,76
+ES,Extremadura,Male,2021-01-01,Under_16,76
+ES,Galicia,Male,2023-01-01,Under_16,166
+ES,Galicia,Male,2022-01-01,Under_16,167
+ES,Galicia,Male,2021-01-01,Under_16,169
+ES,Comunidad de Madrid,Male,2023-01-01,Under_16,541
+ES,Comunidad de Madrid,Male,2022-01-01,Under_16,540
+ES,Comunidad de Madrid,Male,2021-01-01,Under_16,548
+ES,Región de Murcia,Male,2023-01-01,Under_16,135
+ES,Región de Murcia,Male,2022-01-01,Under_16,136
+ES,Región de Murcia,Male,2021-01-01,Under_16,139
+ES,Comunidad Foral de Navarra,Male,2023-01-01,Under_16,53
+ES,Comunidad Foral de Navarra,Male,2022-01-01,Under_16,53
+ES,Comunidad Foral de Navarra,Male,2021-01-01,Under_16,54
+ES,País Vasco/Euskadi,Male,2023-01-01,Under_16,156
+ES,País Vasco/Euskadi,Male,2022-01-01,Under_16,160
+ES,País Vasco/Euskadi,Male,2021-01-01,Under_16,161
+ES,La Rioja,Male,2023-01-01,Under_16,23
+ES,La Rioja,Male,2022-01-01,Under_16,24
+ES,La Rioja,Male,2021-01-01,Under_16,25
+ES,Ciudad Autónoma de Ceuta,Male,2023-01-01,Under_16,9
+ES,Ciudad Autónoma de Ceuta,Male,2022-01-01,Under_16,7
+ES,Ciudad Autónoma de Ceuta,Male,2021-01-01,Under_16,7
+ES,Ciudad Autónoma de Melilla,Male,2023-01-01,Under_16,9
+ES,Ciudad Autónoma de Melilla,Male,2022-01-01,Under_16,10
+ES,Ciudad Autónoma de Melilla,Male,2021-01-01,Under_16,11
+ES,Andalucía,Female,2023-01-01,Under_16,654
+ES,Andalucía,Female,2022-01-01,Under_16,660
+ES,Andalucía,Female,2021-01-01,Under_16,669
+ES,Aragón,Female,2023-01-01,Under_16,92
+ES,Aragón,Female,2022-01-01,Under_16,91
+ES,Aragón,Female,2021-01-01,Under_16,93
+ES,Principado de Asturias,Female,2023-01-01,Under_16,53
+ES,Principado de Asturias,Female,2022-01-01,Under_16,53
+ES,Principado de Asturias,Female,2021-01-01,Under_16,56
+ES,Illes Balears,Female,2023-01-01,Under_16,89
+ES,Illes Balears,Female,2022-01-01,Under_16,89
+ES,Illes Balears,Female,2021-01-01,Under_16,89
+ES,Canarias,Female,2023-01-01,Under_16,139
+ES,Canarias,Female,2022-01-01,Under_16,140
+ES,Canarias,Female,2021-01-01,Under_16,144
+ES,Cantabria,Female,2023-01-01,Under_16,37
+ES,Cantabria,Female,2022-01-01,Under_16,37
+ES,Cantabria,Female,2021-01-01,Under_16,39
+ES,Castilla y León,Female,2023-01-01,Under_16,140
+ES,Castilla y León,Female,2022-01-01,Under_16,141
+ES,Castilla y León,Female,2021-01-01,Under_16,143
+ES,Castilla-La Mancha,Female,2023-01-01,Under_16,154
+ES,Castilla-La Mancha,Female,2022-01-01,Under_16,154
+ES,Castilla-La Mancha,Female,2021-01-01,Under_16,157
+ES,Cataluña/Catalunya,Female,2023-01-01,Under_16,576
+ES,Cataluña/Catalunya,Female,2022-01-01,Under_16,581
+ES,Cataluña/Catalunya,Female,2021-01-01,Under_16,589
+ES,Comunitat Valenciana,Female,2023-01-01,Under_16,371
+ES,Comunitat Valenciana,Female,2022-01-01,Under_16,373
+ES,Comunitat Valenciana,Female,2021-01-01,Under_16,372
+ES,Extremadura,Female,2023-01-01,Under_16,70
+ES,Extremadura,Female,2022-01-01,Under_16,69
+ES,Extremadura,Female,2021-01-01,Under_16,72
+ES,Galicia,Female,2023-01-01,Under_16,155
+ES,Galicia,Female,2022-01-01,Under_16,158
+ES,Galicia,Female,2021-01-01,Under_16,159
+ES,Comunidad de Madrid,Female,2023-01-01,Under_16,520
+ES,Comunidad de Madrid,Female,2022-01-01,Under_16,509
+ES,Comunidad de Madrid,Female,2021-01-01,Under_16,516
+ES,Región de Murcia,Female,2023-01-01,Under_16,128
+ES,Región de Murcia,Female,2022-01-01,Under_16,129
+ES,Región de Murcia,Female,2021-01-01,Under_16,128
+ES,Comunidad Foral de Navarra,Female,2023-01-01,Under_16,51
+ES,Comunidad Foral de Navarra,Female,2022-01-01,Under_16,50
+ES,Comunidad Foral de Navarra,Female,2021-01-01,Under_16,52
+ES,País Vasco/Euskadi,Female,2023-01-01,Under_16,150
+ES,País Vasco/Euskadi,Female,2022-01-01,Under_16,152
+ES,País Vasco/Euskadi,Female,2021-01-01,Under_16,152
+ES,La Rioja,Female,2023-01-01,Under_16,22
+ES,La Rioja,Female,2022-01-01,Under_16,23
+ES,La Rioja,Female,2021-01-01,Under_16,22
+ES,Ciudad Autónoma de Ceuta,Female,2023-01-01,Under_16,9
+ES,Ciudad Autónoma de Ceuta,Female,2022-01-01,Under_16,9
+ES,Ciudad Autónoma de Ceuta,Female,2021-01-01,Under_16,8
+ES,Ciudad Autónoma de Melilla,Female,2023-01-01,Under_16,7
+ES,Ciudad Autónoma de Melilla,Female,2022-01-01,Under_16,8
+ES,Ciudad Autónoma de Melilla,Female,2021-01-01,Under_16,9
+IT,Abruzzo,Female,2021-01-01,16_19,22
+IT,Abruzzo,Male,2021-01-01,16_19,24
+IT,Abruzzo,Female,2022-01-01,16_19,22
+IT,Abruzzo,Male,2022-01-01,16_19,24
+IT,Abruzzo,Female,2023-01-01,16_19,22
+IT,Abruzzo,Male,2023-01-01,16_19,24
+IT,Basilicata,Female,2021-01-01,16_19,10
+IT,Basilicata,Male,2021-01-01,16_19,11
+IT,Basilicata,Female,2022-01-01,16_19,10
+IT,Basilicata,Male,2022-01-01,16_19,10
+IT,Basilicata,Female,2023-01-01,16_19,9
+IT,Basilicata,Male,2023-01-01,16_19,10
+IT,Calabria,Female,2021-01-01,16_19,36
+IT,Calabria,Male,2021-01-01,16_19,39
+IT,Calabria,Female,2022-01-01,16_19,35
+IT,Calabria,Male,2022-01-01,16_19,38
+IT,Calabria,Female,2023-01-01,16_19,35
+IT,Calabria,Male,2023-01-01,16_19,38
+IT,Campania,Female,2021-01-01,16_19,125
+IT,Campania,Male,2021-01-01,16_19,132
+IT,Campania,Female,2022-01-01,16_19,123
+IT,Campania,Male,2022-01-01,16_19,131
+IT,Campania,Female,2023-01-01,16_19,123
+IT,Campania,Male,2023-01-01,16_19,131
+IT,Emilia-Romagna,Female,2021-01-01,16_19,77
+IT,Emilia-Romagna,Male,2021-01-01,16_19,83
+IT,Emilia-Romagna,Female,2022-01-01,16_19,77
+IT,Emilia-Romagna,Male,2022-01-01,16_19,84
+IT,Emilia-Romagna,Female,2023-01-01,16_19,79
+IT,Emilia-Romagna,Male,2023-01-01,16_19,86
+IT,Friuli-Venezia Giulia,Female,2021-01-01,16_19,20
+IT,Friuli-Venezia Giulia,Male,2021-01-01,16_19,21
+IT,Friuli-Venezia Giulia,Female,2022-01-01,16_19,20
+IT,Friuli-Venezia Giulia,Male,2022-01-01,16_19,22
+IT,Friuli-Venezia Giulia,Female,2023-01-01,16_19,20
+IT,Friuli-Venezia Giulia,Male,2023-01-01,16_19,22
+IT,Lazio,Female,2021-01-01,16_19,102
+IT,Lazio,Male,2021-01-01,16_19,109
+IT,Lazio,Female,2022-01-01,16_19,103
+IT,Lazio,Male,2022-01-01,16_19,110
+IT,Lazio,Female,2023-01-01,16_19,105
+IT,Lazio,Male,2023-01-01,16_19,113
+IT,Liguria,Female,2021-01-01,16_19,24
+IT,Liguria,Male,2021-01-01,16_19,26
+IT,Liguria,Female,2022-01-01,16_19,24
+IT,Liguria,Male,2022-01-01,16_19,26
+IT,Liguria,Female,2023-01-01,16_19,25
+IT,Liguria,Male,2023-01-01,16_19,27
+IT,Lombardia,Female,2021-01-01,16_19,182
+IT,Lombardia,Male,2021-01-01,16_19,195
+IT,Lombardia,Female,2022-01-01,16_19,183
+IT,Lombardia,Male,2022-01-01,16_19,197
+IT,Lombardia,Female,2023-01-01,16_19,188
+IT,Lombardia,Male,2023-01-01,16_19,202
+IT,Marche,Female,2021-01-01,16_19,26
+IT,Marche,Male,2021-01-01,16_19,28
+IT,Marche,Female,2022-01-01,16_19,26
+IT,Marche,Male,2022-01-01,16_19,28
+IT,Marche,Female,2023-01-01,16_19,26
+IT,Marche,Male,2023-01-01,16_19,28
+IT,Molise,Female,2021-01-01,16_19,5
+IT,Molise,Male,2021-01-01,16_19,5
+IT,Molise,Female,2022-01-01,16_19,4
+IT,Molise,Male,2022-01-01,16_19,5
+IT,Molise,Female,2023-01-01,16_19,4
+IT,Molise,Male,2023-01-01,16_19,5
+IT,Piemonte,Female,2021-01-01,16_19,73
+IT,Piemonte,Male,2021-01-01,16_19,78
+IT,Piemonte,Female,2022-01-01,16_19,74
+IT,Piemonte,Male,2022-01-01,16_19,79
+IT,Piemonte,Female,2023-01-01,16_19,74
+IT,Piemonte,Male,2023-01-01,16_19,80
+IT,Puglia,Female,2021-01-01,16_19,80
+IT,Puglia,Male,2021-01-01,16_19,84
+IT,Puglia,Female,2022-01-01,16_19,79
+IT,Puglia,Male,2022-01-01,16_19,83
+IT,Puglia,Female,2023-01-01,16_19,78
+IT,Puglia,Male,2023-01-01,16_19,82
+IT,Sardegna,Female,2021-01-01,16_19,26
+IT,Sardegna,Male,2021-01-01,16_19,28
+IT,Sardegna,Female,2022-01-01,16_19,26
+IT,Sardegna,Male,2022-01-01,16_19,28
+IT,Sardegna,Female,2023-01-01,16_19,26
+IT,Sardegna,Male,2023-01-01,16_19,28
+IT,Sicilia,Female,2021-01-01,16_19,98
+IT,Sicilia,Male,2021-01-01,16_19,105
+IT,Sicilia,Female,2022-01-01,16_19,98
+IT,Sicilia,Male,2022-01-01,16_19,105
+IT,Sicilia,Female,2023-01-01,16_19,97
+IT,Sicilia,Male,2023-01-01,16_19,106
+IT,Toscana,Female,2021-01-01,16_19,63
+IT,Toscana,Male,2021-01-01,16_19,68
+IT,Toscana,Female,2022-01-01,16_19,63
+IT,Toscana,Male,2022-01-01,16_19,69
+IT,Toscana,Female,2023-01-01,16_19,65
+IT,Toscana,Male,2023-01-01,16_19,70
+IT,Trentino-Alto Adige/Südtirol,Female,2021-01-01,16_19,21
+IT,Trentino-Alto Adige/Südtirol,Male,2021-01-01,16_19,23
+IT,Trentino-Alto Adige/Südtirol,Female,2022-01-01,16_19,21
+IT,Trentino-Alto Adige/Südtirol,Male,2022-01-01,16_19,23
+IT,Trentino-Alto Adige/Südtirol,Female,2023-01-01,16_19,22
+IT,Trentino-Alto Adige/Südtirol,Male,2023-01-01,16_19,23
+IT,Umbria,Female,2021-01-01,16_19,14
+IT,Umbria,Male,2021-01-01,16_19,16
+IT,Umbria,Female,2022-01-01,16_19,15
+IT,Umbria,Male,2022-01-01,16_19,16
+IT,Umbria,Female,2023-01-01,16_19,15
+IT,Umbria,Male,2023-01-01,16_19,16
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2021-01-01,16_19,2
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2021-01-01,16_19,2
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2022-01-01,16_19,2
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2022-01-01,16_19,2
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2023-01-01,16_19,2
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2023-01-01,16_19,2
+IT,Veneto,Female,2021-01-01,16_19,89
+IT,Veneto,Male,2021-01-01,16_19,96
+IT,Veneto,Female,2022-01-01,16_19,90
+IT,Veneto,Male,2022-01-01,16_19,97
+IT,Veneto,Female,2023-01-01,16_19,91
+IT,Veneto,Male,2023-01-01,16_19,98
+ES,Andalucía,Male,2023-01-01,16_19,200
+ES,Andalucía,Male,2022-01-01,16_19,198
+ES,Andalucía,Male,2021-01-01,16_19,189
+ES,Aragón,Male,2023-01-01,16_19,28
+ES,Aragón,Male,2022-01-01,16_19,28
+ES,Aragón,Male,2021-01-01,16_19,27
+ES,Principado de Asturias,Male,2023-01-01,16_19,18
+ES,Principado de Asturias,Male,2022-01-01,16_19,16
+ES,Principado de Asturias,Male,2021-01-01,16_19,15
+ES,Illes Balears,Male,2023-01-01,16_19,28
+ES,Illes Balears,Male,2022-01-01,16_19,25
+ES,Illes Balears,Male,2021-01-01,16_19,25
+ES,Canarias,Male,2023-01-01,16_19,47
+ES,Canarias,Male,2022-01-01,16_19,45
+ES,Canarias,Male,2021-01-01,16_19,48
+ES,Cantabria,Male,2023-01-01,16_19,11
+ES,Cantabria,Male,2022-01-01,16_19,11
+ES,Cantabria,Male,2021-01-01,16_19,11
+ES,Castilla y León,Male,2023-01-01,16_19,43
+ES,Castilla y León,Male,2022-01-01,16_19,43
+ES,Castilla y León,Male,2021-01-01,16_19,43
+ES,Castilla-La Mancha,Male,2023-01-01,16_19,44
+ES,Castilla-La Mancha,Male,2022-01-01,16_19,45
+ES,Castilla-La Mancha,Male,2021-01-01,16_19,44
+ES,Cataluña/Catalunya,Male,2023-01-01,16_19,182
+ES,Cataluña/Catalunya,Male,2022-01-01,16_19,175
+ES,Cataluña/Catalunya,Male,2021-01-01,16_19,169
+ES,Comunitat Valenciana,Male,2023-01-01,16_19,116
+ES,Comunitat Valenciana,Male,2022-01-01,16_19,110
+ES,Comunitat Valenciana,Male,2021-01-01,16_19,110
+ES,Extremadura,Male,2023-01-01,16_19,21
+ES,Extremadura,Male,2022-01-01,16_19,20
+ES,Extremadura,Male,2021-01-01,16_19,22
+ES,Galicia,Male,2023-01-01,16_19,49
+ES,Galicia,Male,2022-01-01,16_19,49
+ES,Galicia,Male,2021-01-01,16_19,47
+ES,Comunidad de Madrid,Male,2023-01-01,16_19,150
+ES,Comunidad de Madrid,Male,2022-01-01,16_19,147
+ES,Comunidad de Madrid,Male,2021-01-01,16_19,140
+ES,Región de Murcia,Male,2023-01-01,16_19,40
+ES,Región de Murcia,Male,2022-01-01,16_19,39
+ES,Región de Murcia,Male,2021-01-01,16_19,35
+ES,Comunidad Foral de Navarra,Male,2023-01-01,16_19,15
+ES,Comunidad Foral de Navarra,Male,2022-01-01,16_19,15
+ES,Comunidad Foral de Navarra,Male,2021-01-01,16_19,14
+ES,País Vasco/Euskadi,Male,2023-01-01,16_19,47
+ES,País Vasco/Euskadi,Male,2022-01-01,16_19,43
+ES,País Vasco/Euskadi,Male,2021-01-01,16_19,44
+ES,La Rioja,Male,2023-01-01,16_19,7
+ES,La Rioja,Male,2022-01-01,16_19,6
+ES,La Rioja,Male,2021-01-01,16_19,6
+ES,Ciudad Autónoma de Ceuta,Male,2023-01-01,16_19,3
+ES,Ciudad Autónoma de Ceuta,Male,2022-01-01,16_19,1
+ES,Ciudad Autónoma de Ceuta,Male,2021-01-01,16_19,1
+ES,Ciudad Autónoma de Melilla,Male,2023-01-01,16_19,1
+ES,Ciudad Autónoma de Melilla,Male,2022-01-01,16_19,2
+ES,Ciudad Autónoma de Melilla,Male,2021-01-01,16_19,2
+ES,Andalucía,Female,2023-01-01,16_19,188
+ES,Andalucía,Female,2022-01-01,16_19,184
+ES,Andalucía,Female,2021-01-01,16_19,181
+ES,Aragón,Female,2023-01-01,16_19,26
+ES,Aragón,Female,2022-01-01,16_19,26
+ES,Aragón,Female,2021-01-01,16_19,25
+ES,Principado de Asturias,Female,2023-01-01,16_19,16
+ES,Principado de Asturias,Female,2022-01-01,16_19,16
+ES,Principado de Asturias,Female,2021-01-01,16_19,15
+ES,Illes Balears,Female,2023-01-01,16_19,25
+ES,Illes Balears,Female,2022-01-01,16_19,24
+ES,Illes Balears,Female,2021-01-01,16_19,23
+ES,Canarias,Female,2023-01-01,16_19,45
+ES,Canarias,Female,2022-01-01,16_19,46
+ES,Canarias,Female,2021-01-01,16_19,45
+ES,Cantabria,Female,2023-01-01,16_19,10
+ES,Cantabria,Female,2022-01-01,16_19,11
+ES,Cantabria,Female,2021-01-01,16_19,9
+ES,Castilla y León,Female,2023-01-01,16_19,42
+ES,Castilla y León,Female,2022-01-01,16_19,41
+ES,Castilla y León,Female,2021-01-01,16_19,40
+ES,Castilla-La Mancha,Female,2023-01-01,16_19,43
+ES,Castilla-La Mancha,Female,2022-01-01,16_19,42
+ES,Castilla-La Mancha,Female,2021-01-01,16_19,40
+ES,Cataluña/Catalunya,Female,2023-01-01,16_19,172
+ES,Cataluña/Catalunya,Female,2022-01-01,16_19,163
+ES,Cataluña/Catalunya,Female,2021-01-01,16_19,157
+ES,Comunitat Valenciana,Female,2023-01-01,16_19,112
+ES,Comunitat Valenciana,Female,2022-01-01,16_19,103
+ES,Comunitat Valenciana,Female,2021-01-01,16_19,102
+ES,Extremadura,Female,2023-01-01,16_19,20
+ES,Extremadura,Female,2022-01-01,16_19,22
+ES,Extremadura,Female,2021-01-01,16_19,20
+ES,Galicia,Female,2023-01-01,16_19,46
+ES,Galicia,Female,2022-01-01,16_19,44
+ES,Galicia,Female,2021-01-01,16_19,44
+ES,Comunidad de Madrid,Female,2023-01-01,16_19,134
+ES,Comunidad de Madrid,Female,2022-01-01,16_19,141
+ES,Comunidad de Madrid,Female,2021-01-01,16_19,135
+ES,Región de Murcia,Female,2023-01-01,16_19,36
+ES,Región de Murcia,Female,2022-01-01,16_19,33
+ES,Región de Murcia,Female,2021-01-01,16_19,35
+ES,Comunidad Foral de Navarra,Female,2023-01-01,16_19,14
+ES,Comunidad Foral de Navarra,Female,2022-01-01,16_19,14
+ES,Comunidad Foral de Navarra,Female,2021-01-01,16_19,12
+ES,País Vasco/Euskadi,Female,2023-01-01,16_19,41
+ES,País Vasco/Euskadi,Female,2022-01-01,16_19,40
+ES,País Vasco/Euskadi,Female,2021-01-01,16_19,41
+ES,La Rioja,Female,2023-01-01,16_19,6
+ES,La Rioja,Female,2022-01-01,16_19,6
+ES,La Rioja,Female,2021-01-01,16_19,6
+ES,Ciudad Autónoma de Ceuta,Female,2023-01-01,16_19,2
+ES,Ciudad Autónoma de Ceuta,Female,2022-01-01,16_19,3
+ES,Ciudad Autónoma de Ceuta,Female,2021-01-01,16_19,2
+ES,Ciudad Autónoma de Melilla,Female,2023-01-01,16_19,1
+ES,Ciudad Autónoma de Melilla,Female,2022-01-01,16_19,1
+ES,Ciudad Autónoma de Melilla,Female,2021-01-01,16_19,2
+IT,Abruzzo,Female,2021-01-01,20_24,29
+IT,Abruzzo,Male,2021-01-01,20_24,32
+IT,Abruzzo,Female,2022-01-01,20_24,28
+IT,Abruzzo,Male,2022-01-01,20_24,31
+IT,Abruzzo,Female,2023-01-01,20_24,28
+IT,Abruzzo,Male,2023-01-01,20_24,31
+IT,Basilicata,Female,2021-01-01,20_24,13
+IT,Basilicata,Male,2021-01-01,20_24,15
+IT,Basilicata,Female,2022-01-01,20_24,13
+IT,Basilicata,Male,2022-01-01,20_24,15
+IT,Basilicata,Female,2023-01-01,20_24,13
+IT,Basilicata,Male,2023-01-01,20_24,15
+IT,Calabria,Female,2021-01-01,20_24,47
+IT,Calabria,Male,2021-01-01,20_24,50
+IT,Calabria,Female,2022-01-01,20_24,46
+IT,Calabria,Male,2022-01-01,20_24,50
+IT,Calabria,Female,2023-01-01,20_24,46
+IT,Calabria,Male,2023-01-01,20_24,50
+IT,Campania,Female,2021-01-01,20_24,156
+IT,Campania,Male,2021-01-01,20_24,169
+IT,Campania,Female,2022-01-01,20_24,155
+IT,Campania,Male,2022-01-01,20_24,167
+IT,Campania,Female,2023-01-01,20_24,155
+IT,Campania,Male,2023-01-01,20_24,167
+IT,Emilia-Romagna,Female,2021-01-01,20_24,98
+IT,Emilia-Romagna,Male,2021-01-01,20_24,109
+IT,Emilia-Romagna,Female,2022-01-01,20_24,97
+IT,Emilia-Romagna,Male,2022-01-01,20_24,108
+IT,Emilia-Romagna,Female,2023-01-01,20_24,98
+IT,Emilia-Romagna,Male,2023-01-01,20_24,110
+IT,Friuli-Venezia Giulia,Female,2021-01-01,20_24,25
+IT,Friuli-Venezia Giulia,Male,2021-01-01,20_24,28
+IT,Friuli-Venezia Giulia,Female,2022-01-01,20_24,25
+IT,Friuli-Venezia Giulia,Male,2022-01-01,20_24,28
+IT,Friuli-Venezia Giulia,Female,2023-01-01,20_24,26
+IT,Friuli-Venezia Giulia,Male,2023-01-01,20_24,29
+IT,Lazio,Female,2021-01-01,20_24,129
+IT,Lazio,Male,2021-01-01,20_24,142
+IT,Lazio,Female,2022-01-01,20_24,126
+IT,Lazio,Male,2022-01-01,20_24,139
+IT,Lazio,Female,2023-01-01,20_24,128
+IT,Lazio,Male,2023-01-01,20_24,140
+IT,Liguria,Female,2021-01-01,20_24,31
+IT,Liguria,Male,2021-01-01,20_24,35
+IT,Liguria,Female,2022-01-01,20_24,31
+IT,Liguria,Male,2022-01-01,20_24,35
+IT,Liguria,Female,2023-01-01,20_24,32
+IT,Liguria,Male,2023-01-01,20_24,35
+IT,Lombardia,Female,2021-01-01,20_24,232
+IT,Lombardia,Male,2021-01-01,20_24,257
+IT,Lombardia,Female,2022-01-01,20_24,229
+IT,Lombardia,Male,2022-01-01,20_24,255
+IT,Lombardia,Female,2023-01-01,20_24,232
+IT,Lombardia,Male,2023-01-01,20_24,258
+IT,Marche,Female,2021-01-01,20_24,34
+IT,Marche,Male,2021-01-01,20_24,38
+IT,Marche,Female,2022-01-01,20_24,33
+IT,Marche,Male,2022-01-01,20_24,37
+IT,Marche,Female,2023-01-01,20_24,33
+IT,Marche,Male,2023-01-01,20_24,37
+IT,Molise,Female,2021-01-01,20_24,6
+IT,Molise,Male,2021-01-01,20_24,7
+IT,Molise,Female,2022-01-01,20_24,6
+IT,Molise,Male,2022-01-01,20_24,7
+IT,Molise,Female,2023-01-01,20_24,6
+IT,Molise,Male,2023-01-01,20_24,7
+IT,Piemonte,Female,2021-01-01,20_24,94
+IT,Piemonte,Male,2021-01-01,20_24,105
+IT,Piemonte,Female,2022-01-01,20_24,94
+IT,Piemonte,Male,2022-01-01,20_24,104
+IT,Piemonte,Female,2023-01-01,20_24,94
+IT,Piemonte,Male,2023-01-01,20_24,105
+IT,Puglia,Female,2021-01-01,20_24,102
+IT,Puglia,Male,2021-01-01,20_24,111
+IT,Puglia,Female,2022-01-01,20_24,101
+IT,Puglia,Male,2022-01-01,20_24,110
+IT,Puglia,Female,2023-01-01,20_24,101
+IT,Puglia,Male,2023-01-01,20_24,109
+IT,Sardegna,Female,2021-01-01,20_24,33
+IT,Sardegna,Male,2021-01-01,20_24,36
+IT,Sardegna,Female,2022-01-01,20_24,33
+IT,Sardegna,Male,2022-01-01,20_24,36
+IT,Sardegna,Female,2023-01-01,20_24,33
+IT,Sardegna,Male,2023-01-01,20_24,36
+IT,Sicilia,Female,2021-01-01,20_24,125
+IT,Sicilia,Male,2021-01-01,20_24,136
+IT,Sicilia,Female,2022-01-01,20_24,123
+IT,Sicilia,Male,2022-01-01,20_24,135
+IT,Sicilia,Female,2023-01-01,20_24,123
+IT,Sicilia,Male,2023-01-01,20_24,134
+IT,Toscana,Female,2021-01-01,20_24,80
+IT,Toscana,Male,2021-01-01,20_24,89
+IT,Toscana,Female,2022-01-01,20_24,78
+IT,Toscana,Male,2022-01-01,20_24,87
+IT,Toscana,Female,2023-01-01,20_24,79
+IT,Toscana,Male,2023-01-01,20_24,88
+IT,Trentino-Alto Adige/Südtirol,Female,2021-01-01,20_24,28
+IT,Trentino-Alto Adige/Südtirol,Male,2021-01-01,20_24,31
+IT,Trentino-Alto Adige/Südtirol,Female,2022-01-01,20_24,28
+IT,Trentino-Alto Adige/Südtirol,Male,2022-01-01,20_24,30
+IT,Trentino-Alto Adige/Südtirol,Female,2023-01-01,20_24,28
+IT,Trentino-Alto Adige/Südtirol,Male,2023-01-01,20_24,30
+IT,Umbria,Female,2021-01-01,20_24,19
+IT,Umbria,Male,2021-01-01,20_24,20
+IT,Umbria,Female,2022-01-01,20_24,18
+IT,Umbria,Male,2022-01-01,20_24,20
+IT,Umbria,Female,2023-01-01,20_24,18
+IT,Umbria,Male,2023-01-01,20_24,20
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2021-01-01,20_24,2
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2021-01-01,20_24,3
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2022-01-01,20_24,2
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2022-01-01,20_24,3
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2023-01-01,20_24,2
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2023-01-01,20_24,3
+IT,Veneto,Female,2021-01-01,20_24,115
+IT,Veneto,Male,2021-01-01,20_24,126
+IT,Veneto,Female,2022-01-01,20_24,114
+IT,Veneto,Male,2022-01-01,20_24,124
+IT,Veneto,Female,2023-01-01,20_24,115
+IT,Veneto,Male,2023-01-01,20_24,125
+ES,Andalucía,Male,2023-01-01,20_24,242
+ES,Andalucía,Male,2022-01-01,20_24,237
+ES,Andalucía,Male,2021-01-01,20_24,233
+ES,Aragón,Male,2023-01-01,20_24,34
+ES,Aragón,Male,2022-01-01,20_24,32
+ES,Aragón,Male,2021-01-01,20_24,32
+ES,Principado de Asturias,Male,2023-01-01,20_24,20
+ES,Principado de Asturias,Male,2022-01-01,20_24,20
+ES,Principado de Asturias,Male,2021-01-01,20_24,20
+ES,Illes Balears,Male,2023-01-01,20_24,34
+ES,Illes Balears,Male,2022-01-01,20_24,32
+ES,Illes Balears,Male,2021-01-01,20_24,31
+ES,Canarias,Male,2023-01-01,20_24,63
+ES,Canarias,Male,2022-01-01,20_24,61
+ES,Canarias,Male,2021-01-01,20_24,60
+ES,Cantabria,Male,2023-01-01,20_24,14
+ES,Cantabria,Male,2022-01-01,20_24,13
+ES,Cantabria,Male,2021-01-01,20_24,13
+ES,Castilla y León,Male,2023-01-01,20_24,54
+ES,Castilla y León,Male,2022-01-01,20_24,53
+ES,Castilla y León,Male,2021-01-01,20_24,53
+ES,Castilla-La Mancha,Male,2023-01-01,20_24,58
+ES,Castilla-La Mancha,Male,2022-01-01,20_24,57
+ES,Castilla-La Mancha,Male,2021-01-01,20_24,56
+ES,Cataluña/Catalunya,Male,2023-01-01,20_24,224
+ES,Cataluña/Catalunya,Male,2022-01-01,20_24,212
+ES,Cataluña/Catalunya,Male,2021-01-01,20_24,207
+ES,Comunitat Valenciana,Male,2023-01-01,20_24,140
+ES,Comunitat Valenciana,Male,2022-01-01,20_24,133
+ES,Comunitat Valenciana,Male,2021-01-01,20_24,130
+ES,Extremadura,Male,2023-01-01,20_24,28
+ES,Extremadura,Male,2022-01-01,20_24,27
+ES,Extremadura,Male,2021-01-01,20_24,27
+ES,Galicia,Male,2023-01-01,20_24,59
+ES,Galicia,Male,2022-01-01,20_24,57
+ES,Galicia,Male,2021-01-01,20_24,56
+ES,Comunidad de Madrid,Male,2023-01-01,20_24,191
+ES,Comunidad de Madrid,Male,2022-01-01,20_24,180
+ES,Comunidad de Madrid,Male,2021-01-01,20_24,173
+ES,Región de Murcia,Male,2023-01-01,20_24,47
+ES,Región de Murcia,Male,2022-01-01,20_24,46
+ES,Región de Murcia,Male,2021-01-01,20_24,44
+ES,Comunidad Foral de Navarra,Male,2023-01-01,20_24,19
+ES,Comunidad Foral de Navarra,Male,2022-01-01,20_24,18
+ES,Comunidad Foral de Navarra,Male,2021-01-01,20_24,17
+ES,País Vasco/Euskadi,Male,2023-01-01,20_24,55
+ES,País Vasco/Euskadi,Male,2022-01-01,20_24,53
+ES,País Vasco/Euskadi,Male,2021-01-01,20_24,51
+ES,La Rioja,Male,2023-01-01,20_24,8
+ES,La Rioja,Male,2022-01-01,20_24,7
+ES,La Rioja,Male,2021-01-01,20_24,7
+ES,Ciudad Autónoma de Ceuta,Male,2023-01-01,20_24,1
+ES,Ciudad Autónoma de Ceuta,Male,2022-01-01,20_24,3
+ES,Ciudad Autónoma de Ceuta,Male,2021-01-01,20_24,3
+ES,Ciudad Autónoma de Melilla,Male,2023-01-01,20_24,4
+ES,Ciudad Autónoma de Melilla,Male,2022-01-01,20_24,2
+ES,Ciudad Autónoma de Melilla,Male,2021-01-01,20_24,2
+ES,Andalucía,Female,2023-01-01,20_24,226
+ES,Andalucía,Female,2022-01-01,20_24,221
+ES,Andalucía,Female,2021-01-01,20_24,218
+ES,Aragón,Female,2023-01-01,20_24,32
+ES,Aragón,Female,2022-01-01,20_24,31
+ES,Aragón,Female,2021-01-01,20_24,30
+ES,Principado de Asturias,Female,2023-01-01,20_24,19
+ES,Principado de Asturias,Female,2022-01-01,20_24,19
+ES,Principado de Asturias,Female,2021-01-01,20_24,18
+ES,Illes Balears,Female,2023-01-01,20_24,33
+ES,Illes Balears,Female,2022-01-01,20_24,31
+ES,Illes Balears,Female,2021-01-01,20_24,30
+ES,Canarias,Female,2023-01-01,20_24,62
+ES,Canarias,Female,2022-01-01,20_24,60
+ES,Canarias,Female,2021-01-01,20_24,60
+ES,Cantabria,Female,2023-01-01,20_24,13
+ES,Cantabria,Female,2022-01-01,20_24,12
+ES,Cantabria,Female,2021-01-01,20_24,12
+ES,Castilla y León,Female,2023-01-01,20_24,52
+ES,Castilla y León,Female,2022-01-01,20_24,51
+ES,Castilla y León,Female,2021-01-01,20_24,50
+ES,Castilla-La Mancha,Female,2023-01-01,20_24,53
+ES,Castilla-La Mancha,Female,2022-01-01,20_24,52
+ES,Castilla-La Mancha,Female,2021-01-01,20_24,52
+ES,Cataluña/Catalunya,Female,2023-01-01,20_24,208
+ES,Cataluña/Catalunya,Female,2022-01-01,20_24,197
+ES,Cataluña/Catalunya,Female,2021-01-01,20_24,192
+ES,Comunitat Valenciana,Female,2023-01-01,20_24,133
+ES,Comunitat Valenciana,Female,2022-01-01,20_24,126
+ES,Comunitat Valenciana,Female,2021-01-01,20_24,123
+ES,Extremadura,Female,2023-01-01,20_24,26
+ES,Extremadura,Female,2022-01-01,20_24,26
+ES,Extremadura,Female,2021-01-01,20_24,26
+ES,Galicia,Female,2023-01-01,20_24,56
+ES,Galicia,Female,2022-01-01,20_24,54
+ES,Galicia,Female,2021-01-01,20_24,53
+ES,Comunidad de Madrid,Female,2023-01-01,20_24,188
+ES,Comunidad de Madrid,Female,2022-01-01,20_24,177
+ES,Comunidad de Madrid,Female,2021-01-01,20_24,170
+ES,Región de Murcia,Female,2023-01-01,20_24,43
+ES,Región de Murcia,Female,2022-01-01,20_24,42
+ES,Región de Murcia,Female,2021-01-01,20_24,41
+ES,Comunidad Foral de Navarra,Female,2023-01-01,20_24,18
+ES,Comunidad Foral de Navarra,Female,2022-01-01,20_24,17
+ES,Comunidad Foral de Navarra,Female,2021-01-01,20_24,17
+ES,País Vasco/Euskadi,Female,2023-01-01,20_24,52
+ES,País Vasco/Euskadi,Female,2022-01-01,20_24,50
+ES,País Vasco/Euskadi,Female,2021-01-01,20_24,49
+ES,La Rioja,Female,2023-01-01,20_24,7
+ES,La Rioja,Female,2022-01-01,20_24,7
+ES,La Rioja,Female,2021-01-01,20_24,7
+ES,Ciudad Autónoma de Ceuta,Female,2023-01-01,20_24,2
+ES,Ciudad Autónoma de Ceuta,Female,2022-01-01,20_24,2
+ES,Ciudad Autónoma de Ceuta,Female,2021-01-01,20_24,2
+ES,Ciudad Autónoma de Melilla,Female,2023-01-01,20_24,3
+ES,Ciudad Autónoma de Melilla,Female,2022-01-01,20_24,3
+ES,Ciudad Autónoma de Melilla,Female,2021-01-01,20_24,2
+IT,Abruzzo,Female,2021-01-01,25_34,65
+IT,Abruzzo,Male,2021-01-01,25_34,69
+IT,Abruzzo,Female,2022-01-01,25_34,64
+IT,Abruzzo,Male,2022-01-01,25_34,68
+IT,Abruzzo,Female,2023-01-01,25_34,63
+IT,Abruzzo,Male,2023-01-01,25_34,67
+IT,Basilicata,Female,2021-01-01,25_34,29
+IT,Basilicata,Male,2021-01-01,25_34,31
+IT,Basilicata,Female,2022-01-01,25_34,28
+IT,Basilicata,Male,2022-01-01,25_34,31
+IT,Basilicata,Female,2023-01-01,25_34,28
+IT,Basilicata,Male,2023-01-01,25_34,31
+IT,Calabria,Female,2021-01-01,25_34,106
+IT,Calabria,Male,2021-01-01,25_34,108
+IT,Calabria,Female,2022-01-01,25_34,103
+IT,Calabria,Male,2022-01-01,25_34,107
+IT,Calabria,Female,2023-01-01,25_34,100
+IT,Calabria,Male,2023-01-01,25_34,105
+IT,Campania,Female,2021-01-01,25_34,334
+IT,Campania,Male,2021-01-01,25_34,338
+IT,Campania,Female,2022-01-01,25_34,330
+IT,Campania,Male,2022-01-01,25_34,337
+IT,Campania,Female,2023-01-01,25_34,326
+IT,Campania,Male,2023-01-01,25_34,333
+IT,Emilia-Romagna,Female,2021-01-01,25_34,221
+IT,Emilia-Romagna,Male,2021-01-01,25_34,233
+IT,Emilia-Romagna,Female,2022-01-01,25_34,220
+IT,Emilia-Romagna,Male,2022-01-01,25_34,232
+IT,Emilia-Romagna,Female,2023-01-01,25_34,223
+IT,Emilia-Romagna,Male,2023-01-01,25_34,238
+IT,Friuli-Venezia Giulia,Female,2021-01-01,25_34,55
+IT,Friuli-Venezia Giulia,Male,2021-01-01,25_34,59
+IT,Friuli-Venezia Giulia,Female,2022-01-01,25_34,54
+IT,Friuli-Venezia Giulia,Male,2022-01-01,25_34,59
+IT,Friuli-Venezia Giulia,Female,2023-01-01,25_34,55
+IT,Friuli-Venezia Giulia,Male,2023-01-01,25_34,60
+IT,Lazio,Female,2021-01-01,25_34,292
+IT,Lazio,Male,2021-01-01,25_34,304
+IT,Lazio,Female,2022-01-01,25_34,287
+IT,Lazio,Male,2022-01-01,25_34,302
+IT,Lazio,Female,2023-01-01,25_34,286
+IT,Lazio,Male,2023-01-01,25_34,304
+IT,Liguria,Female,2021-01-01,25_34,68
+IT,Liguria,Male,2021-01-01,25_34,72
+IT,Liguria,Female,2022-01-01,25_34,67
+IT,Liguria,Male,2022-01-01,25_34,73
+IT,Liguria,Female,2023-01-01,25_34,69
+IT,Liguria,Male,2023-01-01,25_34,74
+IT,Lombardia,Female,2021-01-01,25_34,515
+IT,Lombardia,Male,2021-01-01,25_34,537
+IT,Lombardia,Female,2022-01-01,25_34,510
+IT,Lombardia,Male,2022-01-01,25_34,534
+IT,Lombardia,Female,2023-01-01,25_34,517
+IT,Lombardia,Male,2023-01-01,25_34,545
+IT,Marche,Female,2021-01-01,25_34,72
+IT,Marche,Male,2021-01-01,25_34,77
+IT,Marche,Female,2022-01-01,25_34,71
+IT,Marche,Male,2022-01-01,25_34,76
+IT,Marche,Female,2023-01-01,25_34,71
+IT,Marche,Male,2023-01-01,25_34,77
+IT,Molise,Female,2021-01-01,25_34,15
+IT,Molise,Male,2021-01-01,25_34,16
+IT,Molise,Female,2022-01-01,25_34,14
+IT,Molise,Male,2022-01-01,25_34,16
+IT,Molise,Female,2023-01-01,25_34,14
+IT,Molise,Male,2023-01-01,25_34,16
+IT,Piemonte,Female,2021-01-01,25_34,205
+IT,Piemonte,Male,2021-01-01,25_34,217
+IT,Piemonte,Female,2022-01-01,25_34,203
+IT,Piemonte,Male,2022-01-01,25_34,217
+IT,Piemonte,Female,2023-01-01,25_34,205
+IT,Piemonte,Male,2023-01-01,25_34,222
+IT,Puglia,Female,2021-01-01,25_34,212
+IT,Puglia,Male,2021-01-01,25_34,221
+IT,Puglia,Female,2022-01-01,25_34,210
+IT,Puglia,Male,2022-01-01,25_34,219
+IT,Puglia,Female,2023-01-01,25_34,206
+IT,Puglia,Male,2023-01-01,25_34,217
+IT,Sardegna,Female,2021-01-01,25_34,76
+IT,Sardegna,Male,2021-01-01,25_34,80
+IT,Sardegna,Female,2022-01-01,25_34,74
+IT,Sardegna,Male,2022-01-01,25_34,80
+IT,Sardegna,Female,2023-01-01,25_34,72
+IT,Sardegna,Male,2023-01-01,25_34,78
+IT,Sicilia,Female,2021-01-01,25_34,273
+IT,Sicilia,Male,2021-01-01,25_34,278
+IT,Sicilia,Female,2022-01-01,25_34,269
+IT,Sicilia,Male,2022-01-01,25_34,277
+IT,Sicilia,Female,2023-01-01,25_34,265
+IT,Sicilia,Male,2023-01-01,25_34,274
+IT,Toscana,Female,2021-01-01,25_34,177
+IT,Toscana,Male,2021-01-01,25_34,185
+IT,Toscana,Female,2022-01-01,25_34,174
+IT,Toscana,Male,2022-01-01,25_34,182
+IT,Toscana,Female,2023-01-01,25_34,174
+IT,Toscana,Male,2023-01-01,25_34,184
+IT,Trentino-Alto Adige/Südtirol,Female,2021-01-01,25_34,58
+IT,Trentino-Alto Adige/Südtirol,Male,2021-01-01,25_34,61
+IT,Trentino-Alto Adige/Südtirol,Female,2022-01-01,25_34,57
+IT,Trentino-Alto Adige/Südtirol,Male,2022-01-01,25_34,61
+IT,Trentino-Alto Adige/Südtirol,Female,2023-01-01,25_34,58
+IT,Trentino-Alto Adige/Südtirol,Male,2023-01-01,25_34,62
+IT,Umbria,Female,2021-01-01,25_34,41
+IT,Umbria,Male,2021-01-01,25_34,43
+IT,Umbria,Female,2022-01-01,25_34,40
+IT,Umbria,Male,2022-01-01,25_34,42
+IT,Umbria,Female,2023-01-01,25_34,40
+IT,Umbria,Male,2023-01-01,25_34,43
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2021-01-01,25_34,5
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2021-01-01,25_34,6
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2022-01-01,25_34,5
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2022-01-01,25_34,6
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2023-01-01,25_34,5
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2023-01-01,25_34,6
+IT,Veneto,Female,2021-01-01,25_34,241
+IT,Veneto,Male,2021-01-01,25_34,254
+IT,Veneto,Female,2022-01-01,25_34,239
+IT,Veneto,Male,2022-01-01,25_34,252
+IT,Veneto,Female,2023-01-01,25_34,241
+IT,Veneto,Male,2023-01-01,25_34,256
+ES,Andalucía,Male,2023-01-01,25_34,491
+ES,Andalucía,Male,2022-01-01,25_34,489
+ES,Andalucía,Male,2021-01-01,25_34,492
+ES,Aragón,Male,2023-01-01,25_34,68
+ES,Aragón,Male,2022-01-01,25_34,66
+ES,Aragón,Male,2021-01-01,25_34,67
+ES,Principado de Asturias,Male,2023-01-01,25_34,41
+ES,Principado de Asturias,Male,2022-01-01,25_34,41
+ES,Principado de Asturias,Male,2021-01-01,25_34,42
+ES,Illes Balears,Male,2023-01-01,25_34,81
+ES,Illes Balears,Male,2022-01-01,25_34,78
+ES,Illes Balears,Male,2021-01-01,25_34,78
+ES,Canarias,Male,2023-01-01,25_34,138
+ES,Canarias,Male,2022-01-01,25_34,137
+ES,Canarias,Male,2021-01-01,25_34,137
+ES,Cantabria,Male,2023-01-01,25_34,27
+ES,Cantabria,Male,2022-01-01,25_34,27
+ES,Cantabria,Male,2021-01-01,25_34,27
+ES,Castilla y León,Male,2023-01-01,25_34,110
+ES,Castilla y León,Male,2022-01-01,25_34,110
+ES,Castilla y León,Male,2021-01-01,25_34,111
+ES,Castilla-La Mancha,Male,2023-01-01,25_34,118
+ES,Castilla-La Mancha,Male,2022-01-01,25_34,117
+ES,Castilla-La Mancha,Male,2021-01-01,25_34,117
+ES,Cataluña/Catalunya,Male,2023-01-01,25_34,460
+ES,Cataluña/Catalunya,Male,2022-01-01,25_34,439
+ES,Cataluña/Catalunya,Male,2021-01-01,25_34,437
+ES,Comunitat Valenciana,Male,2023-01-01,25_34,282
+ES,Comunitat Valenciana,Male,2022-01-01,25_34,273
+ES,Comunitat Valenciana,Male,2021-01-01,25_34,271
+ES,Extremadura,Male,2023-01-01,25_34,57
+ES,Extremadura,Male,2022-01-01,25_34,58
+ES,Extremadura,Male,2021-01-01,25_34,60
+ES,Galicia,Male,2023-01-01,25_34,124
+ES,Galicia,Male,2022-01-01,25_34,125
+ES,Galicia,Male,2021-01-01,25_34,126
+ES,Comunidad de Madrid,Male,2023-01-01,25_34,413
+ES,Comunidad de Madrid,Male,2022-01-01,25_34,393
+ES,Comunidad de Madrid,Male,2021-01-01,25_34,386
+ES,Región de Murcia,Male,2023-01-01,25_34,95
+ES,Región de Murcia,Male,2022-01-01,25_34,93
+ES,Región de Murcia,Male,2021-01-01,25_34,92
+ES,Comunidad Foral de Navarra,Male,2023-01-01,25_34,36
+ES,Comunidad Foral de Navarra,Male,2022-01-01,25_34,35
+ES,Comunidad Foral de Navarra,Male,2021-01-01,25_34,34
+ES,País Vasco/Euskadi,Male,2023-01-01,25_34,103
+ES,País Vasco/Euskadi,Male,2022-01-01,25_34,101
+ES,País Vasco/Euskadi,Male,2021-01-01,25_34,100
+ES,La Rioja,Male,2023-01-01,25_34,15
+ES,La Rioja,Male,2022-01-01,25_34,15
+ES,La Rioja,Male,2021-01-01,25_34,15
+ES,Ciudad Autónoma de Ceuta,Male,2023-01-01,25_34,4
+ES,Ciudad Autónoma de Ceuta,Male,2022-01-01,25_34,5
+ES,Ciudad Autónoma de Ceuta,Male,2021-01-01,25_34,5
+ES,Ciudad Autónoma de Melilla,Male,2023-01-01,25_34,6
+ES,Ciudad Autónoma de Melilla,Male,2022-01-01,25_34,5
+ES,Ciudad Autónoma de Melilla,Male,2021-01-01,25_34,5
+ES,Andalucía,Female,2023-01-01,25_34,475
+ES,Andalucía,Female,2022-01-01,25_34,474
+ES,Andalucía,Female,2021-01-01,25_34,479
+ES,Aragón,Female,2023-01-01,25_34,66
+ES,Aragón,Female,2022-01-01,25_34,65
+ES,Aragón,Female,2021-01-01,25_34,66
+ES,Principado de Asturias,Female,2023-01-01,25_34,41
+ES,Principado de Asturias,Female,2022-01-01,25_34,41
+ES,Principado de Asturias,Female,2021-01-01,25_34,42
+ES,Illes Balears,Female,2023-01-01,25_34,81
+ES,Illes Balears,Female,2022-01-01,25_34,79
+ES,Illes Balears,Female,2021-01-01,25_34,79
+ES,Canarias,Female,2023-01-01,25_34,142
+ES,Canarias,Female,2022-01-01,25_34,140
+ES,Canarias,Female,2021-01-01,25_34,140
+ES,Cantabria,Female,2023-01-01,25_34,26
+ES,Cantabria,Female,2022-01-01,25_34,26
+ES,Cantabria,Female,2021-01-01,25_34,26
+ES,Castilla y León,Female,2023-01-01,25_34,105
+ES,Castilla y León,Female,2022-01-01,25_34,104
+ES,Castilla y León,Female,2021-01-01,25_34,106
+ES,Castilla-La Mancha,Female,2023-01-01,25_34,108
+ES,Castilla-La Mancha,Female,2022-01-01,25_34,108
+ES,Castilla-La Mancha,Female,2021-01-01,25_34,110
+ES,Cataluña/Catalunya,Female,2023-01-01,25_34,452
+ES,Cataluña/Catalunya,Female,2022-01-01,25_34,435
+ES,Cataluña/Catalunya,Female,2021-01-01,25_34,435
+ES,Comunitat Valenciana,Female,2023-01-01,25_34,277
+ES,Comunitat Valenciana,Female,2022-01-01,25_34,268
+ES,Comunitat Valenciana,Female,2021-01-01,25_34,266
+ES,Extremadura,Female,2023-01-01,25_34,55
+ES,Extremadura,Female,2022-01-01,25_34,56
+ES,Extremadura,Female,2021-01-01,25_34,57
+ES,Galicia,Female,2023-01-01,25_34,122
+ES,Galicia,Female,2022-01-01,25_34,123
+ES,Galicia,Female,2021-01-01,25_34,124
+ES,Comunidad de Madrid,Female,2023-01-01,25_34,427
+ES,Comunidad de Madrid,Female,2022-01-01,25_34,409
+ES,Comunidad de Madrid,Female,2021-01-01,25_34,403
+ES,Región de Murcia,Female,2023-01-01,25_34,88
+ES,Región de Murcia,Female,2022-01-01,25_34,87
+ES,Región de Murcia,Female,2021-01-01,25_34,87
+ES,Comunidad Foral de Navarra,Female,2023-01-01,25_34,34
+ES,Comunidad Foral de Navarra,Female,2022-01-01,25_34,34
+ES,Comunidad Foral de Navarra,Female,2021-01-01,25_34,33
+ES,País Vasco/Euskadi,Female,2023-01-01,25_34,103
+ES,País Vasco/Euskadi,Female,2022-01-01,25_34,101
+ES,País Vasco/Euskadi,Female,2021-01-01,25_34,101
+ES,La Rioja,Female,2023-01-01,25_34,15
+ES,La Rioja,Female,2022-01-01,25_34,15
+ES,La Rioja,Female,2021-01-01,25_34,15
+ES,Ciudad Autónoma de Ceuta,Female,2023-01-01,25_34,4
+ES,Ciudad Autónoma de Ceuta,Female,2022-01-01,25_34,4
+ES,Ciudad Autónoma de Ceuta,Female,2021-01-01,25_34,4
+ES,Ciudad Autónoma de Melilla,Female,2023-01-01,25_34,6
+ES,Ciudad Autónoma de Melilla,Female,2022-01-01,25_34,6
+ES,Ciudad Autónoma de Melilla,Female,2021-01-01,25_34,6
+IT,Abruzzo,Female,2021-01-01,35_44,80
+IT,Abruzzo,Male,2021-01-01,35_44,82
+IT,Abruzzo,Female,2022-01-01,35_44,78
+IT,Abruzzo,Male,2022-01-01,35_44,80
+IT,Abruzzo,Female,2023-01-01,35_44,77
+IT,Abruzzo,Male,2023-01-01,35_44,78
+IT,Basilicata,Female,2021-01-01,35_44,33
+IT,Basilicata,Male,2021-01-01,35_44,34
+IT,Basilicata,Female,2022-01-01,35_44,32
+IT,Basilicata,Male,2022-01-01,35_44,33
+IT,Basilicata,Female,2023-01-01,35_44,31
+IT,Basilicata,Male,2023-01-01,35_44,32
+IT,Calabria,Female,2021-01-01,35_44,119
+IT,Calabria,Male,2021-01-01,35_44,118
+IT,Calabria,Female,2022-01-01,35_44,116
+IT,Calabria,Male,2022-01-01,35_44,117
+IT,Calabria,Female,2023-01-01,35_44,114
+IT,Calabria,Male,2023-01-01,35_44,116
+IT,Campania,Female,2021-01-01,35_44,370
+IT,Campania,Male,2021-01-01,35_44,365
+IT,Campania,Female,2022-01-01,35_44,363
+IT,Campania,Male,2022-01-01,35_44,361
+IT,Campania,Female,2023-01-01,35_44,357
+IT,Campania,Male,2023-01-01,35_44,356
+IT,Emilia-Romagna,Female,2021-01-01,35_44,282
+IT,Emilia-Romagna,Male,2021-01-01,35_44,283
+IT,Emilia-Romagna,Female,2022-01-01,35_44,273
+IT,Emilia-Romagna,Male,2022-01-01,35_44,274
+IT,Emilia-Romagna,Female,2023-01-01,35_44,267
+IT,Emilia-Romagna,Male,2023-01-01,35_44,268
+IT,Friuli-Venezia Giulia,Female,2021-01-01,35_44,69
+IT,Friuli-Venezia Giulia,Male,2021-01-01,35_44,72
+IT,Friuli-Venezia Giulia,Female,2022-01-01,35_44,67
+IT,Friuli-Venezia Giulia,Male,2022-01-01,35_44,69
+IT,Friuli-Venezia Giulia,Female,2023-01-01,35_44,65
+IT,Friuli-Venezia Giulia,Male,2023-01-01,35_44,68
+IT,Lazio,Female,2021-01-01,35_44,383
+IT,Lazio,Male,2021-01-01,35_44,376
+IT,Lazio,Female,2022-01-01,35_44,369
+IT,Lazio,Male,2022-01-01,35_44,368
+IT,Lazio,Female,2023-01-01,35_44,362
+IT,Lazio,Male,2023-01-01,35_44,362
+IT,Liguria,Female,2021-01-01,35_44,82
+IT,Liguria,Male,2021-01-01,35_44,82
+IT,Liguria,Female,2022-01-01,35_44,79
+IT,Liguria,Male,2022-01-01,35_44,80
+IT,Liguria,Female,2023-01-01,35_44,77
+IT,Liguria,Male,2023-01-01,35_44,79
+IT,Lombardia,Female,2021-01-01,35_44,636
+IT,Lombardia,Male,2021-01-01,35_44,653
+IT,Lombardia,Female,2022-01-01,35_44,615
+IT,Lombardia,Male,2022-01-01,35_44,632
+IT,Lombardia,Female,2023-01-01,35_44,606
+IT,Lombardia,Male,2023-01-01,35_44,621
+IT,Marche,Female,2021-01-01,35_44,93
+IT,Marche,Male,2021-01-01,35_44,93
+IT,Marche,Female,2022-01-01,35_44,90
+IT,Marche,Male,2022-01-01,35_44,90
+IT,Marche,Female,2023-01-01,35_44,87
+IT,Marche,Male,2023-01-01,35_44,88
+IT,Molise,Female,2021-01-01,35_44,17
+IT,Molise,Male,2021-01-01,35_44,18
+IT,Molise,Female,2022-01-01,35_44,17
+IT,Molise,Male,2022-01-01,35_44,17
+IT,Molise,Female,2023-01-01,35_44,16
+IT,Molise,Male,2023-01-01,35_44,17
+IT,Piemonte,Female,2021-01-01,35_44,254
+IT,Piemonte,Male,2021-01-01,35_44,254
+IT,Piemonte,Female,2022-01-01,35_44,246
+IT,Piemonte,Male,2022-01-01,35_44,248
+IT,Piemonte,Female,2023-01-01,35_44,240
+IT,Piemonte,Male,2023-01-01,35_44,242
+IT,Puglia,Female,2021-01-01,35_44,252
+IT,Puglia,Male,2021-01-01,35_44,248
+IT,Puglia,Female,2022-01-01,35_44,245
+IT,Puglia,Male,2022-01-01,35_44,242
+IT,Puglia,Female,2023-01-01,35_44,239
+IT,Puglia,Male,2023-01-01,35_44,237
+IT,Sardegna,Female,2021-01-01,35_44,101
+IT,Sardegna,Male,2021-01-01,35_44,103
+IT,Sardegna,Female,2022-01-01,35_44,97
+IT,Sardegna,Male,2022-01-01,35_44,101
+IT,Sardegna,Female,2023-01-01,35_44,95
+IT,Sardegna,Male,2023-01-01,35_44,97
+IT,Sicilia,Female,2021-01-01,35_44,309
+IT,Sicilia,Male,2021-01-01,35_44,303
+IT,Sicilia,Female,2022-01-01,35_44,302
+IT,Sicilia,Male,2022-01-01,35_44,301
+IT,Sicilia,Female,2023-01-01,35_44,297
+IT,Sicilia,Male,2023-01-01,35_44,296
+IT,Toscana,Female,2021-01-01,35_44,230
+IT,Toscana,Male,2021-01-01,35_44,227
+IT,Toscana,Female,2022-01-01,35_44,220
+IT,Toscana,Male,2022-01-01,35_44,218
+IT,Toscana,Female,2023-01-01,35_44,216
+IT,Toscana,Male,2023-01-01,35_44,213
+IT,Trentino-Alto Adige/Südtirol,Female,2021-01-01,35_44,66
+IT,Trentino-Alto Adige/Südtirol,Male,2021-01-01,35_44,67
+IT,Trentino-Alto Adige/Südtirol,Female,2022-01-01,35_44,64
+IT,Trentino-Alto Adige/Südtirol,Male,2022-01-01,35_44,65
+IT,Trentino-Alto Adige/Südtirol,Female,2023-01-01,35_44,63
+IT,Trentino-Alto Adige/Südtirol,Male,2023-01-01,35_44,64
+IT,Umbria,Female,2021-01-01,35_44,54
+IT,Umbria,Male,2021-01-01,35_44,53
+IT,Umbria,Female,2022-01-01,35_44,52
+IT,Umbria,Male,2022-01-01,35_44,51
+IT,Umbria,Female,2023-01-01,35_44,51
+IT,Umbria,Male,2023-01-01,35_44,50
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2021-01-01,35_44,7
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2021-01-01,35_44,7
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2022-01-01,35_44,7
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2022-01-01,35_44,7
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2023-01-01,35_44,6
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2023-01-01,35_44,6
+IT,Veneto,Female,2021-01-01,35_44,298
+IT,Veneto,Male,2021-01-01,35_44,302
+IT,Veneto,Female,2022-01-01,35_44,288
+IT,Veneto,Male,2022-01-01,35_44,290
+IT,Veneto,Female,2023-01-01,35_44,280
+IT,Veneto,Male,2023-01-01,35_44,283
+ES,Andalucía,Male,2023-01-01,35_44,597
+ES,Andalucía,Male,2022-01-01,35_44,610
+ES,Andalucía,Male,2021-01-01,35_44,627
+ES,Aragón,Male,2023-01-01,35_44,85
+ES,Aragón,Male,2022-01-01,35_44,87
+ES,Aragón,Male,2021-01-01,35_44,92
+ES,Principado de Asturias,Male,2023-01-01,35_44,63
+ES,Principado de Asturias,Male,2022-01-01,35_44,65
+ES,Principado de Asturias,Male,2021-01-01,35_44,69
+ES,Illes Balears,Male,2023-01-01,35_44,100
+ES,Illes Balears,Male,2022-01-01,35_44,100
+ES,Illes Balears,Male,2021-01-01,35_44,103
+ES,Canarias,Male,2023-01-01,35_44,167
+ES,Canarias,Male,2022-01-01,35_44,169
+ES,Canarias,Male,2021-01-01,35_44,173
+ES,Cantabria,Male,2023-01-01,35_44,39
+ES,Cantabria,Male,2022-01-01,35_44,40
+ES,Cantabria,Male,2021-01-01,35_44,42
+ES,Castilla y León,Male,2023-01-01,35_44,146
+ES,Castilla y León,Male,2022-01-01,35_44,150
+ES,Castilla y León,Male,2021-01-01,35_44,156
+ES,Castilla-La Mancha,Male,2023-01-01,35_44,147
+ES,Castilla-La Mancha,Male,2022-01-01,35_44,150
+ES,Castilla-La Mancha,Male,2021-01-01,35_44,154
+ES,Cataluña/Catalunya,Male,2023-01-01,35_44,517
+ES,Cataluña/Catalunya,Male,2022-01-01,35_44,526
+ES,Cataluña/Catalunya,Male,2021-01-01,35_44,550
+ES,Comunitat Valenciana,Male,2023-01-01,35_44,350
+ES,Comunitat Valenciana,Male,2022-01-01,35_44,356
+ES,Comunitat Valenciana,Male,2021-01-01,35_44,368
+ES,Extremadura,Male,2023-01-01,35_44,69
+ES,Extremadura,Male,2022-01-01,35_44,70
+ES,Extremadura,Male,2021-01-01,35_44,72
+ES,Galicia,Male,2023-01-01,35_44,176
+ES,Galicia,Male,2022-01-01,35_44,183
+ES,Galicia,Male,2021-01-01,35_44,191
+ES,Comunidad de Madrid,Male,2023-01-01,35_44,476
+ES,Comunidad de Madrid,Male,2022-01-01,35_44,483
+ES,Comunidad de Madrid,Male,2021-01-01,35_44,500
+ES,Región de Murcia,Male,2023-01-01,35_44,110
+ES,Región de Murcia,Male,2022-01-01,35_44,113
+ES,Región de Murcia,Male,2021-01-01,35_44,116
+ES,Comunidad Foral de Navarra,Male,2023-01-01,35_44,42
+ES,Comunidad Foral de Navarra,Male,2022-01-01,35_44,43
+ES,Comunidad Foral de Navarra,Male,2021-01-01,35_44,45
+ES,País Vasco/Euskadi,Male,2023-01-01,35_44,131
+ES,País Vasco/Euskadi,Male,2022-01-01,35_44,137
+ES,País Vasco/Euskadi,Male,2021-01-01,35_44,144
+ES,La Rioja,Male,2023-01-01,35_44,20
+ES,La Rioja,Male,2022-01-01,35_44,21
+ES,La Rioja,Male,2021-01-01,35_44,22
+ES,Ciudad Autónoma de Ceuta,Male,2023-01-01,35_44,6
+ES,Ciudad Autónoma de Ceuta,Male,2022-01-01,35_44,5
+ES,Ciudad Autónoma de Ceuta,Male,2021-01-01,35_44,4
+ES,Ciudad Autónoma de Melilla,Male,2023-01-01,35_44,4
+ES,Ciudad Autónoma de Melilla,Male,2022-01-01,35_44,5
+ES,Ciudad Autónoma de Melilla,Male,2021-01-01,35_44,6
+ES,Andalucía,Female,2023-01-01,35_44,609
+ES,Andalucía,Female,2022-01-01,35_44,618
+ES,Andalucía,Female,2021-01-01,35_44,631
+ES,Aragón,Female,2023-01-01,35_44,86
+ES,Aragón,Female,2022-01-01,35_44,87
+ES,Aragón,Female,2021-01-01,35_44,91
+ES,Principado de Asturias,Female,2023-01-01,35_44,64
+ES,Principado de Asturias,Female,2022-01-01,35_44,66
+ES,Principado de Asturias,Female,2021-01-01,35_44,69
+ES,Illes Balears,Female,2023-01-01,35_44,99
+ES,Illes Balears,Female,2022-01-01,35_44,99
+ES,Illes Balears,Female,2021-01-01,35_44,100
+ES,Canarias,Female,2023-01-01,35_44,172
+ES,Canarias,Female,2022-01-01,35_44,173
+ES,Canarias,Female,2021-01-01,35_44,175
+ES,Cantabria,Female,2023-01-01,35_44,39
+ES,Cantabria,Female,2022-01-01,35_44,40
+ES,Cantabria,Female,2021-01-01,35_44,42
+ES,Castilla y León,Female,2023-01-01,35_44,143
+ES,Castilla y León,Female,2022-01-01,35_44,147
+ES,Castilla y León,Female,2021-01-01,35_44,152
+ES,Castilla-La Mancha,Female,2023-01-01,35_44,140
+ES,Castilla-La Mancha,Female,2022-01-01,35_44,142
+ES,Castilla-La Mancha,Female,2021-01-01,35_44,145
+ES,Cataluña/Catalunya,Female,2023-01-01,35_44,540
+ES,Cataluña/Catalunya,Female,2022-01-01,35_44,548
+ES,Cataluña/Catalunya,Female,2021-01-01,35_44,567
+ES,Comunitat Valenciana,Female,2023-01-01,35_44,359
+ES,Comunitat Valenciana,Female,2022-01-01,35_44,361
+ES,Comunitat Valenciana,Female,2021-01-01,35_44,369
+ES,Extremadura,Female,2023-01-01,35_44,67
+ES,Extremadura,Female,2022-01-01,35_44,68
+ES,Extremadura,Female,2021-01-01,35_44,70
+ES,Galicia,Female,2023-01-01,35_44,178
+ES,Galicia,Female,2022-01-01,35_44,184
+ES,Galicia,Female,2021-01-01,35_44,192
+ES,Comunidad de Madrid,Female,2023-01-01,35_44,504
+ES,Comunidad de Madrid,Female,2022-01-01,35_44,511
+ES,Comunidad de Madrid,Female,2021-01-01,35_44,525
+ES,Región de Murcia,Female,2023-01-01,35_44,109
+ES,Región de Murcia,Female,2022-01-01,35_44,111
+ES,Región de Murcia,Female,2021-01-01,35_44,113
+ES,Comunidad Foral de Navarra,Female,2023-01-01,35_44,43
+ES,Comunidad Foral de Navarra,Female,2022-01-01,35_44,44
+ES,Comunidad Foral de Navarra,Female,2021-01-01,35_44,45
+ES,País Vasco/Euskadi,Female,2023-01-01,35_44,136
+ES,País Vasco/Euskadi,Female,2022-01-01,35_44,140
+ES,País Vasco/Euskadi,Female,2021-01-01,35_44,146
+ES,La Rioja,Female,2023-01-01,35_44,21
+ES,La Rioja,Female,2022-01-01,35_44,21
+ES,La Rioja,Female,2021-01-01,35_44,22
+ES,Ciudad Autónoma de Ceuta,Female,2023-01-01,35_44,6
+ES,Ciudad Autónoma de Ceuta,Female,2022-01-01,35_44,5
+ES,Ciudad Autónoma de Ceuta,Female,2021-01-01,35_44,5
+ES,Ciudad Autónoma de Melilla,Female,2023-01-01,35_44,5
+ES,Ciudad Autónoma de Melilla,Female,2022-01-01,35_44,5
+ES,Ciudad Autónoma de Melilla,Female,2021-01-01,35_44,6
+IT,Abruzzo,Female,2021-01-01,45_54,102
+IT,Abruzzo,Male,2021-01-01,45_54,99
+IT,Abruzzo,Female,2022-01-01,45_54,101
+IT,Abruzzo,Male,2022-01-01,45_54,98
+IT,Abruzzo,Female,2023-01-01,45_54,99
+IT,Abruzzo,Male,2023-01-01,45_54,97
+IT,Basilicata,Female,2021-01-01,45_54,42
+IT,Basilicata,Male,2021-01-01,45_54,41
+IT,Basilicata,Female,2022-01-01,45_54,41
+IT,Basilicata,Male,2022-01-01,45_54,41
+IT,Basilicata,Female,2023-01-01,45_54,40
+IT,Basilicata,Male,2023-01-01,45_54,40
+IT,Calabria,Female,2021-01-01,45_54,141
+IT,Calabria,Male,2021-01-01,45_54,132
+IT,Calabria,Female,2022-01-01,45_54,140
+IT,Calabria,Male,2022-01-01,45_54,133
+IT,Calabria,Female,2023-01-01,45_54,139
+IT,Calabria,Male,2023-01-01,45_54,131
+IT,Campania,Female,2021-01-01,45_54,441
+IT,Campania,Male,2021-01-01,45_54,418
+IT,Campania,Female,2022-01-01,45_54,439
+IT,Campania,Male,2022-01-01,45_54,420
+IT,Campania,Female,2023-01-01,45_54,434
+IT,Campania,Male,2023-01-01,45_54,415
+IT,Emilia-Romagna,Female,2021-01-01,45_54,367
+IT,Emilia-Romagna,Male,2021-01-01,45_54,366
+IT,Emilia-Romagna,Female,2022-01-01,45_54,364
+IT,Emilia-Romagna,Male,2022-01-01,45_54,363
+IT,Emilia-Romagna,Female,2023-01-01,45_54,361
+IT,Emilia-Romagna,Male,2023-01-01,45_54,359
+IT,Friuli-Venezia Giulia,Female,2021-01-01,45_54,98
+IT,Friuli-Venezia Giulia,Male,2021-01-01,45_54,98
+IT,Friuli-Venezia Giulia,Female,2022-01-01,45_54,96
+IT,Friuli-Venezia Giulia,Male,2022-01-01,45_54,96
+IT,Friuli-Venezia Giulia,Female,2023-01-01,45_54,94
+IT,Friuli-Venezia Giulia,Male,2023-01-01,45_54,94
+IT,Lazio,Female,2021-01-01,45_54,493
+IT,Lazio,Male,2021-01-01,45_54,463
+IT,Lazio,Female,2022-01-01,45_54,488
+IT,Lazio,Male,2022-01-01,45_54,462
+IT,Lazio,Female,2023-01-01,45_54,482
+IT,Lazio,Male,2023-01-01,45_54,457
+IT,Liguria,Female,2021-01-01,45_54,123
+IT,Liguria,Male,2021-01-01,45_54,119
+IT,Liguria,Female,2022-01-01,45_54,120
+IT,Liguria,Male,2022-01-01,45_54,117
+IT,Liguria,Female,2023-01-01,45_54,117
+IT,Liguria,Male,2023-01-01,45_54,114
+IT,Lombardia,Female,2021-01-01,45_54,815
+IT,Lombardia,Male,2021-01-01,45_54,833
+IT,Lombardia,Female,2022-01-01,45_54,803
+IT,Lombardia,Male,2022-01-01,45_54,821
+IT,Lombardia,Female,2023-01-01,45_54,794
+IT,Lombardia,Male,2023-01-01,45_54,811
+IT,Marche,Female,2021-01-01,45_54,119
+IT,Marche,Male,2021-01-01,45_54,117
+IT,Marche,Female,2022-01-01,45_54,118
+IT,Marche,Male,2022-01-01,45_54,115
+IT,Marche,Female,2023-01-01,45_54,117
+IT,Marche,Male,2023-01-01,45_54,114
+IT,Molise,Female,2021-01-01,45_54,22
+IT,Molise,Male,2021-01-01,45_54,22
+IT,Molise,Female,2022-01-01,45_54,22
+IT,Molise,Male,2022-01-01,45_54,22
+IT,Molise,Female,2023-01-01,45_54,21
+IT,Molise,Male,2023-01-01,45_54,21
+IT,Piemonte,Female,2021-01-01,45_54,347
+IT,Piemonte,Male,2021-01-01,45_54,342
+IT,Piemonte,Female,2022-01-01,45_54,342
+IT,Piemonte,Male,2022-01-01,45_54,338
+IT,Piemonte,Female,2023-01-01,45_54,336
+IT,Piemonte,Male,2023-01-01,45_54,331
+IT,Puglia,Female,2021-01-01,45_54,310
+IT,Puglia,Male,2021-01-01,45_54,297
+IT,Puglia,Female,2022-01-01,45_54,308
+IT,Puglia,Male,2022-01-01,45_54,297
+IT,Puglia,Female,2023-01-01,45_54,306
+IT,Puglia,Male,2023-01-01,45_54,295
+IT,Sardegna,Female,2021-01-01,45_54,132
+IT,Sardegna,Male,2021-01-01,45_54,132
+IT,Sardegna,Female,2022-01-01,45_54,131
+IT,Sardegna,Male,2022-01-01,45_54,132
+IT,Sardegna,Female,2023-01-01,45_54,129
+IT,Sardegna,Male,2023-01-01,45_54,130
+IT,Sicilia,Female,2021-01-01,45_54,373
+IT,Sicilia,Male,2021-01-01,45_54,355
+IT,Sicilia,Female,2022-01-01,45_54,372
+IT,Sicilia,Male,2022-01-01,45_54,357
+IT,Sicilia,Female,2023-01-01,45_54,367
+IT,Sicilia,Male,2023-01-01,45_54,352
+IT,Toscana,Female,2021-01-01,45_54,305
+IT,Toscana,Male,2021-01-01,45_54,296
+IT,Toscana,Female,2022-01-01,45_54,301
+IT,Toscana,Male,2022-01-01,45_54,292
+IT,Toscana,Female,2023-01-01,45_54,298
+IT,Toscana,Male,2023-01-01,45_54,289
+IT,Trentino-Alto Adige/Südtirol,Female,2021-01-01,45_54,84
+IT,Trentino-Alto Adige/Südtirol,Male,2021-01-01,45_54,84
+IT,Trentino-Alto Adige/Südtirol,Female,2022-01-01,45_54,82
+IT,Trentino-Alto Adige/Südtirol,Male,2022-01-01,45_54,82
+IT,Trentino-Alto Adige/Südtirol,Female,2023-01-01,45_54,81
+IT,Trentino-Alto Adige/Südtirol,Male,2023-01-01,45_54,80
+IT,Umbria,Female,2021-01-01,45_54,69
+IT,Umbria,Male,2021-01-01,45_54,65
+IT,Umbria,Female,2022-01-01,45_54,68
+IT,Umbria,Male,2022-01-01,45_54,65
+IT,Umbria,Female,2023-01-01,45_54,68
+IT,Umbria,Male,2023-01-01,45_54,64
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2021-01-01,45_54,10
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2021-01-01,45_54,10
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2022-01-01,45_54,10
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2022-01-01,45_54,9
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2023-01-01,45_54,10
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2023-01-01,45_54,9
+IT,Veneto,Female,2021-01-01,45_54,401
+IT,Veneto,Male,2021-01-01,45_54,407
+IT,Veneto,Female,2022-01-01,45_54,394
+IT,Veneto,Male,2022-01-01,45_54,399
+IT,Veneto,Female,2023-01-01,45_54,388
+IT,Veneto,Male,2023-01-01,45_54,392
+ES,Andalucía,Male,2023-01-01,45_54,687
+ES,Andalucía,Male,2022-01-01,45_54,681
+ES,Andalucía,Male,2021-01-01,45_54,677
+ES,Aragón,Male,2023-01-01,45_54,106
+ES,Aragón,Male,2022-01-01,45_54,105
+ES,Aragón,Male,2021-01-01,45_54,105
+ES,Principado de Asturias,Male,2023-01-01,45_54,83
+ES,Principado de Asturias,Male,2022-01-01,45_54,82
+ES,Principado de Asturias,Male,2021-01-01,45_54,82
+ES,Illes Balears,Male,2023-01-01,45_54,108
+ES,Illes Balears,Male,2022-01-01,45_54,106
+ES,Illes Balears,Male,2021-01-01,45_54,104
+ES,Canarias,Male,2023-01-01,45_54,202
+ES,Canarias,Male,2022-01-01,45_54,201
+ES,Canarias,Male,2021-01-01,45_54,200
+ES,Cantabria,Male,2023-01-01,45_54,48
+ES,Cantabria,Male,2022-01-01,45_54,48
+ES,Cantabria,Male,2021-01-01,45_54,47
+ES,Castilla y León,Male,2023-01-01,45_54,186
+ES,Castilla y León,Male,2022-01-01,45_54,186
+ES,Castilla y León,Male,2021-01-01,45_54,187
+ES,Castilla-La Mancha,Male,2023-01-01,45_54,169
+ES,Castilla-La Mancha,Male,2022-01-01,45_54,167
+ES,Castilla-La Mancha,Male,2021-01-01,45_54,166
+ES,Cataluña/Catalunya,Male,2023-01-01,45_54,624
+ES,Cataluña/Catalunya,Male,2022-01-01,45_54,616
+ES,Cataluña/Catalunya,Male,2021-01-01,45_54,612
+ES,Comunitat Valenciana,Male,2023-01-01,45_54,426
+ES,Comunitat Valenciana,Male,2022-01-01,45_54,418
+ES,Comunitat Valenciana,Male,2021-01-01,45_54,413
+ES,Extremadura,Male,2023-01-01,45_54,80
+ES,Extremadura,Male,2022-01-01,45_54,81
+ES,Extremadura,Male,2021-01-01,45_54,81
+ES,Galicia,Male,2023-01-01,45_54,220
+ES,Galicia,Male,2022-01-01,45_54,217
+ES,Galicia,Male,2021-01-01,45_54,214
+ES,Comunidad de Madrid,Male,2023-01-01,45_54,555
+ES,Comunidad de Madrid,Male,2022-01-01,45_54,547
+ES,Comunidad de Madrid,Male,2021-01-01,45_54,540
+ES,Región de Murcia,Male,2023-01-01,45_54,126
+ES,Región de Murcia,Male,2022-01-01,45_54,124
+ES,Región de Murcia,Male,2021-01-01,45_54,123
+ES,Comunidad Foral de Navarra,Male,2023-01-01,45_54,53
+ES,Comunidad Foral de Navarra,Male,2022-01-01,45_54,53
+ES,Comunidad Foral de Navarra,Male,2021-01-01,45_54,53
+ES,País Vasco/Euskadi,Male,2023-01-01,45_54,175
+ES,País Vasco/Euskadi,Male,2022-01-01,45_54,174
+ES,País Vasco/Euskadi,Male,2021-01-01,45_54,174
+ES,La Rioja,Male,2023-01-01,45_54,26
+ES,La Rioja,Male,2022-01-01,45_54,25
+ES,La Rioja,Male,2021-01-01,45_54,25
+ES,Ciudad Autónoma de Ceuta,Male,2023-01-01,45_54,6
+ES,Ciudad Autónoma de Ceuta,Male,2022-01-01,45_54,6
+ES,Ciudad Autónoma de Ceuta,Male,2021-01-01,45_54,5
+ES,Ciudad Autónoma de Melilla,Male,2023-01-01,45_54,4
+ES,Ciudad Autónoma de Melilla,Male,2022-01-01,45_54,5
+ES,Ciudad Autónoma de Melilla,Male,2021-01-01,45_54,5
+ES,Andalucía,Female,2023-01-01,45_54,691
+ES,Andalucía,Female,2022-01-01,45_54,684
+ES,Andalucía,Female,2021-01-01,45_54,678
+ES,Aragón,Female,2023-01-01,45_54,104
+ES,Aragón,Female,2022-01-01,45_54,102
+ES,Aragón,Female,2021-01-01,45_54,102
+ES,Principado de Asturias,Female,2023-01-01,45_54,85
+ES,Principado de Asturias,Female,2022-01-01,45_54,84
+ES,Principado de Asturias,Female,2021-01-01,45_54,83
+ES,Illes Balears,Female,2023-01-01,45_54,102
+ES,Illes Balears,Female,2022-01-01,45_54,99
+ES,Illes Balears,Female,2021-01-01,45_54,97
+ES,Canarias,Female,2023-01-01,45_54,199
+ES,Canarias,Female,2022-01-01,45_54,196
+ES,Canarias,Female,2021-01-01,45_54,195
+ES,Cantabria,Female,2023-01-01,45_54,49
+ES,Cantabria,Female,2022-01-01,45_54,48
+ES,Cantabria,Female,2021-01-01,45_54,47
+ES,Castilla y León,Female,2023-01-01,45_54,183
+ES,Castilla y León,Female,2022-01-01,45_54,183
+ES,Castilla y León,Female,2021-01-01,45_54,183
+ES,Castilla-La Mancha,Female,2023-01-01,45_54,161
+ES,Castilla-La Mancha,Female,2022-01-01,45_54,160
+ES,Castilla-La Mancha,Female,2021-01-01,45_54,158
+ES,Cataluña/Catalunya,Female,2023-01-01,45_54,629
+ES,Cataluña/Catalunya,Female,2022-01-01,45_54,616
+ES,Cataluña/Catalunya,Female,2021-01-01,45_54,608
+ES,Comunitat Valenciana,Female,2023-01-01,45_54,423
+ES,Comunitat Valenciana,Female,2022-01-01,45_54,413
+ES,Comunitat Valenciana,Female,2021-01-01,45_54,406
+ES,Extremadura,Female,2023-01-01,45_54,79
+ES,Extremadura,Female,2022-01-01,45_54,80
+ES,Extremadura,Female,2021-01-01,45_54,80
+ES,Galicia,Female,2023-01-01,45_54,225
+ES,Galicia,Female,2022-01-01,45_54,222
+ES,Galicia,Female,2021-01-01,45_54,220
+ES,Comunidad de Madrid,Female,2023-01-01,45_54,586
+ES,Comunidad de Madrid,Female,2022-01-01,45_54,576
+ES,Comunidad de Madrid,Female,2021-01-01,45_54,566
+ES,Región de Murcia,Female,2023-01-01,45_54,121
+ES,Región de Murcia,Female,2022-01-01,45_54,119
+ES,Región de Murcia,Female,2021-01-01,45_54,117
+ES,Comunidad Foral de Navarra,Female,2023-01-01,45_54,52
+ES,Comunidad Foral de Navarra,Female,2022-01-01,45_54,52
+ES,Comunidad Foral de Navarra,Female,2021-01-01,45_54,51
+ES,País Vasco/Euskadi,Female,2023-01-01,45_54,176
+ES,País Vasco/Euskadi,Female,2022-01-01,45_54,175
+ES,País Vasco/Euskadi,Female,2021-01-01,45_54,174
+ES,La Rioja,Female,2023-01-01,45_54,25
+ES,La Rioja,Female,2022-01-01,45_54,25
+ES,La Rioja,Female,2021-01-01,45_54,24
+ES,Ciudad Autónoma de Ceuta,Female,2023-01-01,45_54,6
+ES,Ciudad Autónoma de Ceuta,Female,2022-01-01,45_54,5
+ES,Ciudad Autónoma de Ceuta,Female,2021-01-01,45_54,5
+ES,Ciudad Autónoma de Melilla,Female,2023-01-01,45_54,5
+ES,Ciudad Autónoma de Melilla,Female,2022-01-01,45_54,5
+ES,Ciudad Autónoma de Melilla,Female,2021-01-01,45_54,5
+IT,Abruzzo,Female,2021-01-01,55_64,97
+IT,Abruzzo,Male,2021-01-01,55_64,91
+IT,Abruzzo,Female,2022-01-01,55_64,99
+IT,Abruzzo,Male,2022-01-01,55_64,94
+IT,Abruzzo,Female,2023-01-01,55_64,101
+IT,Abruzzo,Male,2023-01-01,55_64,95
+IT,Basilicata,Female,2021-01-01,55_64,42
+IT,Basilicata,Male,2021-01-01,55_64,40
+IT,Basilicata,Female,2022-01-01,55_64,43
+IT,Basilicata,Male,2022-01-01,55_64,40
+IT,Basilicata,Female,2023-01-01,55_64,43
+IT,Basilicata,Male,2023-01-01,55_64,41
+IT,Calabria,Female,2021-01-01,55_64,139
+IT,Calabria,Male,2021-01-01,55_64,129
+IT,Calabria,Female,2022-01-01,55_64,141
+IT,Calabria,Male,2022-01-01,55_64,132
+IT,Calabria,Female,2023-01-01,55_64,143
+IT,Calabria,Male,2023-01-01,55_64,133
+IT,Campania,Female,2021-01-01,55_64,407
+IT,Campania,Male,2021-01-01,55_64,375
+IT,Campania,Female,2022-01-01,55_64,418
+IT,Campania,Male,2022-01-01,55_64,390
+IT,Campania,Female,2023-01-01,55_64,427
+IT,Campania,Male,2023-01-01,55_64,397
+IT,Emilia-Romagna,Female,2021-01-01,55_64,326
+IT,Emilia-Romagna,Male,2021-01-01,55_64,309
+IT,Emilia-Romagna,Female,2022-01-01,55_64,333
+IT,Emilia-Romagna,Male,2022-01-01,55_64,318
+IT,Emilia-Romagna,Female,2023-01-01,55_64,340
+IT,Emilia-Romagna,Male,2023-01-01,55_64,325
+IT,Friuli-Venezia Giulia,Female,2021-01-01,55_64,91
+IT,Friuli-Venezia Giulia,Male,2021-01-01,55_64,88
+IT,Friuli-Venezia Giulia,Female,2022-01-01,55_64,93
+IT,Friuli-Venezia Giulia,Male,2022-01-01,55_64,90
+IT,Friuli-Venezia Giulia,Female,2023-01-01,55_64,95
+IT,Friuli-Venezia Giulia,Male,2023-01-01,55_64,92
+IT,Lazio,Female,2021-01-01,55_64,436
+IT,Lazio,Male,2021-01-01,55_64,399
+IT,Lazio,Female,2022-01-01,55_64,446
+IT,Lazio,Male,2022-01-01,55_64,413
+IT,Lazio,Female,2023-01-01,55_64,458
+IT,Lazio,Male,2023-01-01,55_64,423
+IT,Liguria,Female,2021-01-01,55_64,121
+IT,Liguria,Male,2021-01-01,55_64,114
+IT,Liguria,Female,2022-01-01,55_64,123
+IT,Liguria,Male,2022-01-01,55_64,117
+IT,Liguria,Female,2023-01-01,55_64,126
+IT,Liguria,Male,2023-01-01,55_64,119
+IT,Lombardia,Female,2021-01-01,55_64,717
+IT,Lombardia,Male,2021-01-01,55_64,695
+IT,Lombardia,Female,2022-01-01,55_64,735
+IT,Lombardia,Male,2022-01-01,55_64,718
+IT,Lombardia,Female,2023-01-01,55_64,754
+IT,Lombardia,Male,2023-01-01,55_64,739
+IT,Marche,Female,2021-01-01,55_64,112
+IT,Marche,Male,2021-01-01,55_64,106
+IT,Marche,Female,2022-01-01,55_64,113
+IT,Marche,Male,2022-01-01,55_64,108
+IT,Marche,Female,2023-01-01,55_64,115
+IT,Marche,Male,2023-01-01,55_64,110
+IT,Molise,Female,2021-01-01,55_64,22
+IT,Molise,Male,2021-01-01,55_64,22
+IT,Molise,Female,2022-01-01,55_64,23
+IT,Molise,Male,2022-01-01,55_64,22
+IT,Molise,Female,2023-01-01,55_64,23
+IT,Molise,Male,2023-01-01,55_64,22
+IT,Piemonte,Female,2021-01-01,55_64,322
+IT,Piemonte,Male,2021-01-01,55_64,308
+IT,Piemonte,Female,2022-01-01,55_64,329
+IT,Piemonte,Male,2022-01-01,55_64,315
+IT,Piemonte,Female,2023-01-01,55_64,335
+IT,Piemonte,Male,2023-01-01,55_64,321
+IT,Puglia,Female,2021-01-01,55_64,291
+IT,Puglia,Male,2021-01-01,55_64,268
+IT,Puglia,Female,2022-01-01,55_64,298
+IT,Puglia,Male,2022-01-01,55_64,276
+IT,Puglia,Female,2023-01-01,55_64,303
+IT,Puglia,Male,2023-01-01,55_64,281
+IT,Sardegna,Female,2021-01-01,55_64,128
+IT,Sardegna,Male,2021-01-01,55_64,121
+IT,Sardegna,Female,2022-01-01,55_64,130
+IT,Sardegna,Male,2022-01-01,55_64,124
+IT,Sardegna,Female,2023-01-01,55_64,131
+IT,Sardegna,Male,2023-01-01,55_64,126
+IT,Sicilia,Female,2021-01-01,55_64,355
+IT,Sicilia,Male,2021-01-01,55_64,326
+IT,Sicilia,Female,2022-01-01,55_64,362
+IT,Sicilia,Male,2022-01-01,55_64,335
+IT,Sicilia,Female,2023-01-01,55_64,367
+IT,Sicilia,Male,2023-01-01,55_64,340
+IT,Toscana,Female,2021-01-01,55_64,277
+IT,Toscana,Male,2021-01-01,55_64,260
+IT,Toscana,Female,2022-01-01,55_64,282
+IT,Toscana,Male,2022-01-01,55_64,267
+IT,Toscana,Female,2023-01-01,55_64,289
+IT,Toscana,Male,2023-01-01,55_64,273
+IT,Trentino-Alto Adige/Südtirol,Female,2021-01-01,55_64,76
+IT,Trentino-Alto Adige/Südtirol,Male,2021-01-01,55_64,75
+IT,Trentino-Alto Adige/Südtirol,Female,2022-01-01,55_64,78
+IT,Trentino-Alto Adige/Südtirol,Male,2022-01-01,55_64,77
+IT,Trentino-Alto Adige/Südtirol,Female,2023-01-01,55_64,80
+IT,Trentino-Alto Adige/Südtirol,Male,2023-01-01,55_64,79
+IT,Umbria,Female,2021-01-01,55_64,65
+IT,Umbria,Male,2021-01-01,55_64,60
+IT,Umbria,Female,2022-01-01,55_64,66
+IT,Umbria,Male,2022-01-01,55_64,61
+IT,Umbria,Female,2023-01-01,55_64,67
+IT,Umbria,Male,2023-01-01,55_64,62
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2021-01-01,55_64,9
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2021-01-01,55_64,9
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2022-01-01,55_64,9
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2022-01-01,55_64,9
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2023-01-01,55_64,9
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2023-01-01,55_64,9
+IT,Veneto,Female,2021-01-01,55_64,365
+IT,Veneto,Male,2021-01-01,55_64,357
+IT,Veneto,Female,2022-01-01,55_64,374
+IT,Veneto,Male,2022-01-01,55_64,367
+IT,Veneto,Female,2023-01-01,55_64,383
+IT,Veneto,Male,2023-01-01,55_64,376
+ES,Andalucía,Male,2023-01-01,55_64,597
+ES,Andalucía,Male,2022-01-01,55_64,584
+ES,Andalucía,Male,2021-01-01,55_64,570
+ES,Aragón,Male,2023-01-01,55_64,94
+ES,Aragón,Male,2022-01-01,55_64,93
+ES,Aragón,Male,2021-01-01,55_64,92
+ES,Principado de Asturias,Male,2023-01-01,55_64,77
+ES,Principado de Asturias,Male,2022-01-01,55_64,77
+ES,Principado de Asturias,Male,2021-01-01,55_64,77
+ES,Illes Balears,Male,2023-01-01,55_64,81
+ES,Illes Balears,Male,2022-01-01,55_64,79
+ES,Illes Balears,Male,2021-01-01,55_64,76
+ES,Canarias,Male,2023-01-01,55_64,169
+ES,Canarias,Male,2022-01-01,55_64,163
+ES,Canarias,Male,2021-01-01,55_64,157
+ES,Cantabria,Male,2023-01-01,55_64,43
+ES,Cantabria,Male,2022-01-01,55_64,43
+ES,Cantabria,Male,2021-01-01,55_64,42
+ES,Castilla y León,Male,2023-01-01,55_64,187
+ES,Castilla y León,Male,2022-01-01,55_64,186
+ES,Castilla y León,Male,2021-01-01,55_64,185
+ES,Castilla-La Mancha,Male,2023-01-01,55_64,150
+ES,Castilla-La Mancha,Male,2022-01-01,55_64,147
+ES,Castilla-La Mancha,Male,2021-01-01,55_64,143
+ES,Cataluña/Catalunya,Male,2023-01-01,55_64,498
+ES,Cataluña/Catalunya,Male,2022-01-01,55_64,486
+ES,Cataluña/Catalunya,Male,2021-01-01,55_64,477
+ES,Comunitat Valenciana,Male,2023-01-01,55_64,358
+ES,Comunitat Valenciana,Male,2022-01-01,55_64,349
+ES,Comunitat Valenciana,Male,2021-01-01,55_64,340
+ES,Extremadura,Male,2023-01-01,55_64,82
+ES,Extremadura,Male,2022-01-01,55_64,81
+ES,Extremadura,Male,2021-01-01,55_64,80
+ES,Galicia,Male,2023-01-01,55_64,192
+ES,Galicia,Male,2022-01-01,55_64,189
+ES,Galicia,Male,2021-01-01,55_64,187
+ES,Comunidad de Madrid,Male,2023-01-01,55_64,432
+ES,Comunidad de Madrid,Male,2022-01-01,55_64,420
+ES,Comunidad de Madrid,Male,2021-01-01,55_64,409
+ES,Región de Murcia,Male,2023-01-01,55_64,101
+ES,Región de Murcia,Male,2022-01-01,55_64,98
+ES,Región de Murcia,Male,2021-01-01,55_64,94
+ES,Comunidad Foral de Navarra,Male,2023-01-01,55_64,45
+ES,Comunidad Foral de Navarra,Male,2022-01-01,55_64,44
+ES,Comunidad Foral de Navarra,Male,2021-01-01,55_64,44
+ES,País Vasco/Euskadi,Male,2023-01-01,55_64,158
+ES,País Vasco/Euskadi,Male,2022-01-01,55_64,156
+ES,País Vasco/Euskadi,Male,2021-01-01,55_64,155
+ES,La Rioja,Male,2023-01-01,55_64,22
+ES,La Rioja,Male,2022-01-01,55_64,22
+ES,La Rioja,Male,2021-01-01,55_64,22
+ES,Ciudad Autónoma de Ceuta,Male,2023-01-01,55_64,5
+ES,Ciudad Autónoma de Ceuta,Male,2022-01-01,55_64,6
+ES,Ciudad Autónoma de Ceuta,Male,2021-01-01,55_64,6
+ES,Ciudad Autónoma de Melilla,Male,2023-01-01,55_64,5
+ES,Ciudad Autónoma de Melilla,Male,2022-01-01,55_64,4
+ES,Ciudad Autónoma de Melilla,Male,2021-01-01,55_64,4
+ES,Andalucía,Female,2023-01-01,55_64,624
+ES,Andalucía,Female,2022-01-01,55_64,609
+ES,Andalucía,Female,2021-01-01,55_64,593
+ES,Aragón,Female,2023-01-01,55_64,95
+ES,Aragón,Female,2022-01-01,55_64,93
+ES,Aragón,Female,2021-01-01,55_64,92
+ES,Principado de Asturias,Female,2023-01-01,55_64,83
+ES,Principado de Asturias,Female,2022-01-01,55_64,83
+ES,Principado de Asturias,Female,2021-01-01,55_64,84
+ES,Illes Balears,Female,2023-01-01,55_64,82
+ES,Illes Balears,Female,2022-01-01,55_64,80
+ES,Illes Balears,Female,2021-01-01,55_64,77
+ES,Canarias,Female,2023-01-01,55_64,172
+ES,Canarias,Female,2022-01-01,55_64,166
+ES,Canarias,Female,2021-01-01,55_64,160
+ES,Cantabria,Female,2023-01-01,55_64,45
+ES,Cantabria,Female,2022-01-01,55_64,45
+ES,Cantabria,Female,2021-01-01,55_64,45
+ES,Castilla y León,Female,2023-01-01,55_64,187
+ES,Castilla y León,Female,2022-01-01,55_64,185
+ES,Castilla y León,Female,2021-01-01,55_64,184
+ES,Castilla-La Mancha,Female,2023-01-01,55_64,147
+ES,Castilla-La Mancha,Female,2022-01-01,55_64,143
+ES,Castilla-La Mancha,Female,2021-01-01,55_64,139
+ES,Cataluña/Catalunya,Female,2023-01-01,55_64,526
+ES,Cataluña/Catalunya,Female,2022-01-01,55_64,515
+ES,Cataluña/Catalunya,Female,2021-01-01,55_64,506
+ES,Comunitat Valenciana,Female,2023-01-01,55_64,375
+ES,Comunitat Valenciana,Female,2022-01-01,55_64,365
+ES,Comunitat Valenciana,Female,2021-01-01,55_64,355
+ES,Extremadura,Female,2023-01-01,55_64,81
+ES,Extremadura,Female,2022-01-01,55_64,80
+ES,Extremadura,Female,2021-01-01,55_64,78
+ES,Galicia,Female,2023-01-01,55_64,205
+ES,Galicia,Female,2022-01-01,55_64,202
+ES,Galicia,Female,2021-01-01,55_64,199
+ES,Comunidad de Madrid,Female,2023-01-01,55_64,483
+ES,Comunidad de Madrid,Female,2022-01-01,55_64,470
+ES,Comunidad de Madrid,Female,2021-01-01,55_64,459
+ES,Región de Murcia,Female,2023-01-01,55_64,102
+ES,Región de Murcia,Female,2022-01-01,55_64,100
+ES,Región de Murcia,Female,2021-01-01,55_64,96
+ES,Comunidad Foral de Navarra,Female,2023-01-01,55_64,46
+ES,Comunidad Foral de Navarra,Female,2022-01-01,55_64,45
+ES,Comunidad Foral de Navarra,Female,2021-01-01,55_64,44
+ES,País Vasco/Euskadi,Female,2023-01-01,55_64,168
+ES,País Vasco/Euskadi,Female,2022-01-01,55_64,167
+ES,País Vasco/Euskadi,Female,2021-01-01,55_64,165
+ES,La Rioja,Female,2023-01-01,55_64,23
+ES,La Rioja,Female,2022-01-01,55_64,22
+ES,La Rioja,Female,2021-01-01,55_64,22
+ES,Ciudad Autónoma de Ceuta,Female,2023-01-01,55_64,5
+ES,Ciudad Autónoma de Ceuta,Female,2022-01-01,55_64,5
+ES,Ciudad Autónoma de Ceuta,Female,2021-01-01,55_64,5
+ES,Ciudad Autónoma de Melilla,Female,2023-01-01,55_64,5
+ES,Ciudad Autónoma de Melilla,Female,2022-01-01,55_64,5
+ES,Ciudad Autónoma de Melilla,Female,2021-01-01,55_64,4
+IT,Abruzzo,Female,2021-01-01,Over_65,176
+IT,Abruzzo,Male,2021-01-01,Over_65,140
+IT,Abruzzo,Female,2022-01-01,Over_65,177
+IT,Abruzzo,Male,2022-01-01,Over_65,141
+IT,Abruzzo,Female,2023-01-01,Over_65,178
+IT,Abruzzo,Male,2023-01-01,Over_65,143
+IT,Basilicata,Female,2021-01-01,Over_65,72
+IT,Basilicata,Male,2021-01-01,Over_65,58
+IT,Basilicata,Female,2022-01-01,Over_65,73
+IT,Basilicata,Male,2022-01-01,Over_65,59
+IT,Basilicata,Female,2023-01-01,Over_65,73
+IT,Basilicata,Male,2023-01-01,Over_65,59
+IT,Calabria,Female,2021-01-01,Over_65,233
+IT,Calabria,Male,2021-01-01,Over_65,191
+IT,Calabria,Female,2022-01-01,Over_65,235
+IT,Calabria,Male,2022-01-01,Over_65,194
+IT,Calabria,Female,2023-01-01,Over_65,237
+IT,Calabria,Male,2023-01-01,Over_65,197
+IT,Campania,Female,2021-01-01,Over_65,626
+IT,Campania,Male,2021-01-01,Over_65,492
+IT,Campania,Female,2022-01-01,Over_65,632
+IT,Campania,Male,2022-01-01,Over_65,500
+IT,Campania,Female,2023-01-01,Over_65,639
+IT,Campania,Male,2023-01-01,Over_65,509
+IT,Emilia-Romagna,Female,2021-01-01,Over_65,605
+IT,Emilia-Romagna,Male,2021-01-01,Over_65,468
+IT,Emilia-Romagna,Female,2022-01-01,Over_65,606
+IT,Emilia-Romagna,Male,2022-01-01,Over_65,472
+IT,Emilia-Romagna,Female,2023-01-01,Over_65,609
+IT,Emilia-Romagna,Male,2023-01-01,Over_65,477
+IT,Friuli-Venezia Giulia,Female,2021-01-01,Over_65,181
+IT,Friuli-Venezia Giulia,Male,2021-01-01,Over_65,138
+IT,Friuli-Venezia Giulia,Female,2022-01-01,Over_65,181
+IT,Friuli-Venezia Giulia,Male,2022-01-01,Over_65,138
+IT,Friuli-Venezia Giulia,Female,2023-01-01,Over_65,181
+IT,Friuli-Venezia Giulia,Male,2023-01-01,Over_65,139
+IT,Lazio,Female,2021-01-01,Over_65,735
+IT,Lazio,Male,2021-01-01,Over_65,558
+IT,Lazio,Female,2022-01-01,Over_65,739
+IT,Lazio,Male,2022-01-01,Over_65,565
+IT,Lazio,Female,2023-01-01,Over_65,748
+IT,Lazio,Male,2023-01-01,Over_65,572
+IT,Liguria,Female,2021-01-01,Over_65,250
+IT,Liguria,Male,2021-01-01,Over_65,185
+IT,Liguria,Female,2022-01-01,Over_65,249
+IT,Liguria,Male,2022-01-01,Over_65,185
+IT,Liguria,Female,2023-01-01,Over_65,248
+IT,Liguria,Male,2023-01-01,Over_65,186
+IT,Lombardia,Female,2021-01-01,Over_65,1297
+IT,Lombardia,Male,2021-01-01,Over_65,989
+IT,Lombardia,Female,2022-01-01,Over_65,1303
+IT,Lombardia,Male,2022-01-01,Over_65,1000
+IT,Lombardia,Female,2023-01-01,Over_65,1313
+IT,Lombardia,Male,2023-01-01,Over_65,1013
+IT,Marche,Female,2021-01-01,Over_65,214
+IT,Marche,Male,2021-01-01,Over_65,167
+IT,Marche,Female,2022-01-01,Over_65,214
+IT,Marche,Male,2022-01-01,Over_65,167
+IT,Marche,Female,2023-01-01,Over_65,215
+IT,Marche,Male,2023-01-01,Over_65,169
+IT,Molise,Female,2021-01-01,Over_65,42
+IT,Molise,Male,2021-01-01,Over_65,33
+IT,Molise,Female,2022-01-01,Over_65,42
+IT,Molise,Male,2022-01-01,Over_65,34
+IT,Molise,Female,2023-01-01,Over_65,42
+IT,Molise,Male,2023-01-01,Over_65,34
+IT,Piemonte,Female,2021-01-01,Over_65,626
+IT,Piemonte,Male,2021-01-01,Over_65,485
+IT,Piemonte,Female,2022-01-01,Over_65,627
+IT,Piemonte,Male,2022-01-01,Over_65,488
+IT,Piemonte,Female,2023-01-01,Over_65,629
+IT,Piemonte,Male,2023-01-01,Over_65,492
+IT,Puglia,Female,2021-01-01,Over_65,507
+IT,Puglia,Male,2021-01-01,Over_65,402
+IT,Puglia,Female,2022-01-01,Over_65,511
+IT,Puglia,Male,2022-01-01,Over_65,407
+IT,Puglia,Female,2023-01-01,Over_65,517
+IT,Puglia,Male,2023-01-01,Over_65,413
+IT,Sardegna,Female,2021-01-01,Over_65,223
+IT,Sardegna,Male,2021-01-01,Over_65,178
+IT,Sardegna,Female,2022-01-01,Over_65,227
+IT,Sardegna,Male,2022-01-01,Over_65,181
+IT,Sardegna,Female,2023-01-01,Over_65,229
+IT,Sardegna,Male,2023-01-01,Over_65,184
+IT,Sicilia,Female,2021-01-01,Over_65,604
+IT,Sicilia,Male,2021-01-01,Over_65,474
+IT,Sicilia,Female,2022-01-01,Over_65,609
+IT,Sicilia,Male,2022-01-01,Over_65,480
+IT,Sicilia,Female,2023-01-01,Over_65,614
+IT,Sicilia,Male,2023-01-01,Over_65,486
+IT,Toscana,Female,2021-01-01,Over_65,537
+IT,Toscana,Male,2021-01-01,Over_65,414
+IT,Toscana,Female,2022-01-01,Over_65,537
+IT,Toscana,Male,2022-01-01,Over_65,417
+IT,Toscana,Female,2023-01-01,Over_65,539
+IT,Toscana,Male,2023-01-01,Over_65,420
+IT,Trentino-Alto Adige/Südtirol,Female,2021-01-01,Over_65,126
+IT,Trentino-Alto Adige/Südtirol,Male,2021-01-01,Over_65,100
+IT,Trentino-Alto Adige/Südtirol,Female,2022-01-01,Over_65,127
+IT,Trentino-Alto Adige/Südtirol,Male,2022-01-01,Over_65,102
+IT,Trentino-Alto Adige/Südtirol,Female,2023-01-01,Over_65,129
+IT,Trentino-Alto Adige/Südtirol,Male,2023-01-01,Over_65,104
+IT,Umbria,Female,2021-01-01,Over_65,127
+IT,Umbria,Male,2021-01-01,Over_65,99
+IT,Umbria,Female,2022-01-01,Over_65,127
+IT,Umbria,Male,2022-01-01,Over_65,100
+IT,Umbria,Female,2023-01-01,Over_65,128
+IT,Umbria,Male,2023-01-01,Over_65,100
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2021-01-01,Over_65,16
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2021-01-01,Over_65,13
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2022-01-01,Over_65,16
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2022-01-01,Over_65,13
+IT,Valle d'Aosta/Vallée d'Aoste,Female,2023-01-01,Over_65,17
+IT,Valle d'Aosta/Vallée d'Aoste,Male,2023-01-01,Over_65,13
+IT,Veneto,Female,2021-01-01,Over_65,640
+IT,Veneto,Male,2021-01-01,Over_65,502
+IT,Veneto,Female,2022-01-01,Over_65,645
+IT,Veneto,Male,2022-01-01,Over_65,509
+IT,Veneto,Female,2023-01-01,Over_65,651
+IT,Veneto,Male,2023-01-01,Over_65,517
+ES,Andalucía,Male,2023-01-01,Over_65,693
+ES,Andalucía,Male,2022-01-01,Over_65,673
+ES,Andalucía,Male,2021-01-01,Over_65,657
+ES,Aragón,Male,2023-01-01,Over_65,126
+ES,Aragón,Male,2022-01-01,Over_65,123
+ES,Aragón,Male,2021-01-01,Over_65,122
+ES,Principado de Asturias,Male,2023-01-01,Over_65,115
+ES,Principado de Asturias,Male,2022-01-01,Over_65,113
+ES,Principado de Asturias,Male,2021-01-01,Over_65,110
+ES,Illes Balears,Male,2023-01-01,Over_65,92
+ES,Illes Balears,Male,2022-01-01,Over_65,90
+ES,Illes Balears,Male,2021-01-01,Over_65,88
+ES,Canarias,Male,2023-01-01,Over_65,184
+ES,Canarias,Male,2022-01-01,Over_65,178
+ES,Canarias,Male,2021-01-01,Over_65,173
+ES,Cantabria,Male,2023-01-01,Over_65,59
+ES,Cantabria,Male,2022-01-01,Over_65,57
+ES,Cantabria,Male,2021-01-01,Over_65,56
+ES,Castilla y León,Male,2023-01-01,Over_65,272
+ES,Castilla y León,Male,2022-01-01,Over_65,267
+ES,Castilla y León,Male,2021-01-01,Over_65,262
+ES,Castilla-La Mancha,Male,2023-01-01,Over_65,176
+ES,Castilla-La Mancha,Male,2022-01-01,Over_65,171
+ES,Castilla-La Mancha,Male,2021-01-01,Over_65,167
+ES,Cataluña/Catalunya,Male,2023-01-01,Over_65,651
+ES,Cataluña/Catalunya,Male,2022-01-01,Over_65,636
+ES,Cataluña/Catalunya,Male,2021-01-01,Over_65,626
+ES,Comunitat Valenciana,Male,2023-01-01,Over_65,457
+ES,Comunitat Valenciana,Male,2022-01-01,Over_65,445
+ES,Comunitat Valenciana,Male,2021-01-01,Over_65,436
+ES,Extremadura,Male,2023-01-01,Over_65,100
+ES,Extremadura,Male,2022-01-01,Over_65,97
+ES,Extremadura,Male,2021-01-01,Over_65,95
+ES,Galicia,Male,2023-01-01,Over_65,302
+ES,Galicia,Male,2022-01-01,Over_65,298
+ES,Galicia,Male,2021-01-01,Over_65,295
+ES,Comunidad de Madrid,Male,2023-01-01,Over_65,522
+ES,Comunidad de Madrid,Male,2022-01-01,Over_65,508
+ES,Comunidad de Madrid,Male,2021-01-01,Over_65,497
+ES,Región de Murcia,Male,2023-01-01,Over_65,112
+ES,Región de Murcia,Male,2022-01-01,Over_65,109
+ES,Región de Murcia,Male,2021-01-01,Over_65,107
+ES,Comunidad Foral de Navarra,Male,2023-01-01,Over_65,59
+ES,Comunidad Foral de Navarra,Male,2022-01-01,Over_65,58
+ES,Comunidad Foral de Navarra,Male,2021-01-01,Over_65,56
+ES,País Vasco/Euskadi,Male,2023-01-01,Over_65,219
+ES,País Vasco/Euskadi,Male,2022-01-01,Over_65,215
+ES,País Vasco/Euskadi,Male,2021-01-01,Over_65,211
+ES,La Rioja,Male,2023-01-01,Over_65,30
+ES,La Rioja,Male,2022-01-01,Over_65,29
+ES,La Rioja,Male,2021-01-01,Over_65,29
+ES,Ciudad Autónoma de Ceuta,Male,2023-01-01,Over_65,4
+ES,Ciudad Autónoma de Ceuta,Male,2022-01-01,Over_65,4
+ES,Ciudad Autónoma de Ceuta,Male,2021-01-01,Over_65,5
+ES,Ciudad Autónoma de Melilla,Male,2023-01-01,Over_65,5
+ES,Ciudad Autónoma de Melilla,Male,2022-01-01,Over_65,4
+ES,Ciudad Autónoma de Melilla,Male,2021-01-01,Over_65,3
+ES,Andalucía,Female,2023-01-01,Over_65,862
+ES,Andalucía,Female,2022-01-01,Over_65,840
+ES,Andalucía,Female,2021-01-01,Over_65,824
+ES,Aragón,Female,2023-01-01,Over_65,156
+ES,Aragón,Female,2022-01-01,Over_65,154
+ES,Aragón,Female,2021-01-01,Over_65,152
+ES,Principado de Asturias,Female,2023-01-01,Over_65,154
+ES,Principado de Asturias,Female,2022-01-01,Over_65,152
+ES,Principado de Asturias,Female,2021-01-01,Over_65,149
+ES,Illes Balears,Female,2023-01-01,Over_65,113
+ES,Illes Balears,Female,2022-01-01,Over_65,110
+ES,Illes Balears,Female,2021-01-01,Over_65,107
+ES,Canarias,Female,2023-01-01,Over_65,219
+ES,Canarias,Female,2022-01-01,Over_65,213
+ES,Canarias,Female,2021-01-01,Over_65,206
+ES,Cantabria,Female,2023-01-01,Over_65,75
+ES,Cantabria,Female,2022-01-01,Over_65,73
+ES,Cantabria,Female,2021-01-01,Over_65,72
+ES,Castilla y León,Female,2023-01-01,Over_65,322
+ES,Castilla y León,Female,2022-01-01,Over_65,318
+ES,Castilla y León,Female,2021-01-01,Over_65,314
+ES,Castilla-La Mancha,Female,2023-01-01,Over_65,208
+ES,Castilla-La Mancha,Female,2022-01-01,Over_65,204
+ES,Castilla-La Mancha,Female,2021-01-01,Over_65,200
+ES,Cataluña/Catalunya,Female,2023-01-01,Over_65,836
+ES,Cataluña/Catalunya,Female,2022-01-01,Over_65,816
+ES,Cataluña/Catalunya,Female,2021-01-01,Over_65,803
+ES,Comunitat Valenciana,Female,2023-01-01,Over_65,572
+ES,Comunitat Valenciana,Female,2022-01-01,Over_65,559
+ES,Comunitat Valenciana,Female,2021-01-01,Over_65,548
+ES,Extremadura,Female,2023-01-01,Over_65,120
+ES,Extremadura,Female,2022-01-01,Over_65,118
+ES,Extremadura,Female,2021-01-01,Over_65,117
+ES,Galicia,Female,2023-01-01,Over_65,393
+ES,Galicia,Female,2022-01-01,Over_65,389
+ES,Galicia,Female,2021-01-01,Over_65,385
+ES,Comunidad de Madrid,Female,2023-01-01,Over_65,714
+ES,Comunidad de Madrid,Female,2022-01-01,Over_65,696
+ES,Comunidad de Madrid,Female,2021-01-01,Over_65,682
+ES,Región de Murcia,Female,2023-01-01,Over_65,140
+ES,Región de Murcia,Female,2022-01-01,Over_65,136
+ES,Región de Murcia,Female,2021-01-01,Over_65,134
+ES,Comunidad Foral de Navarra,Female,2023-01-01,Over_65,72
+ES,Comunidad Foral de Navarra,Female,2022-01-01,Over_65,70
+ES,Comunidad Foral de Navarra,Female,2021-01-01,Over_65,69
+ES,País Vasco/Euskadi,Female,2023-01-01,Over_65,285
+ES,País Vasco/Euskadi,Female,2022-01-01,Over_65,281
+ES,País Vasco/Euskadi,Female,2021-01-01,Over_65,277
+ES,La Rioja,Female,2023-01-01,Over_65,36
+ES,La Rioja,Female,2022-01-01,Over_65,36
+ES,La Rioja,Female,2021-01-01,Over_65,35
+ES,Ciudad Autónoma de Ceuta,Female,2023-01-01,Over_65,5
+ES,Ciudad Autónoma de Ceuta,Female,2022-01-01,Over_65,6
+ES,Ciudad Autónoma de Ceuta,Female,2021-01-01,Over_65,6
+ES,Ciudad Autónoma de Melilla,Female,2023-01-01,Over_65,6
+ES,Ciudad Autónoma de Melilla,Female,2022-01-01,Over_65,4
+ES,Ciudad Autónoma de Melilla,Female,2021-01-01,Over_65,3
